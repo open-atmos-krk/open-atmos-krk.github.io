@@ -14,11 +14,9 @@ roles:
   - key: faculty
     name: Mentor
   - key: grad
-    name: Grad Students
+    name: Graduate Students
   - key: ugrad
-    name: Undergrad Students
-  - key: collab
-    name: Student Collaborators
+    name: Undergraduate Students
   - key: alum
     name: Alumni
 
