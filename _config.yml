@@ -43,5 +43,7 @@ navigation:
     link: /research.html
   - title: Publications
     link: /publications.html
+  - title: Journal Club
+    link: /journal_club.html
   - title: Code
     link: /code.html
