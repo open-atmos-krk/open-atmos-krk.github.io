@@ -152,10 +152,11 @@ ugrad-e:
     display_name: "Ugrad E"
     role: ugrad
 
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+pawel_magnuszewski:
+    display_name: "Paweł Magnuszewski"
+    role: alum
+    bio: "MSc 2025"
 
 ugrad-alum-b:
     display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+    role: alum
