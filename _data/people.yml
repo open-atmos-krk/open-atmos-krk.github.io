@@ -32,131 +32,40 @@ wolverine:
     github: wolverine
     role: postdoc
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+agnieszka_zaba:
+    display_name: "Agnieszka Żaba"
     role: grad
-    image: /img/people/storm.png
+    webpage: "https://www.linkedin.com/in/agnieszka-%2525C5%2525BCaba-798742130"
+    github: AgnieszkaZaba
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
-
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
-
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
+gracjan_adamus:
+    display_name: "Gracjan Adamus"
     role: collab
+    webpage: "https://www.linkedin.com/in/gracjan-adamus"
+    github: griger5
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
+michal_wronski:
+    display_name: "Michał Wroński"
     role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
+    webpage: "https://github.com/Sfonxu"
+    github: Sfonxu
 
 ola_strzabala:
     display_name: "Ola Strząbała"
     role: ugrad
-    webpage: "https://www.linkedin.com/in/aleksandra-strz%C4%85ba%C5%82a/"
+    webpage: "https://www.linkedin.com/in/aleksandra-strz%C4%85ba%C5%82a"
+    github: olastrz
 
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
     role: alum
     bio: "MSc 2025 (CS & Intelligent Systems, AGH)"
     webpage: "https://linkedin.com/in/pmagnu"
+    github: pawelmagnu
 
 kacper_derlatka:
     display_name: "Kacper Derlatka"
     role: alum
     bio: "MSc 2023 (CS, Jagiellonian Univ.)"
     webpage: "https://linkedin.com/in/kacper-derlatka-262095191"
+    github: Delcior
