@@ -2,7 +2,7 @@ sylwester_arabas:
     display_name: "Sylwester Arabas"
     role: faculty
     github: slayoo
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "https://slayoo.github.io"
     image: /img/people/slayoo.png
     bio: "PhD, Physics, U. Warsaw, 2013" 
 
@@ -37,6 +37,12 @@ ola_strzabala:
     role: ugrad
     webpage: "https://www.linkedin.com/in/aleksandra-strz%C4%85ba%C5%82a"
     github: olastrz
+
+daria_klimaszewska:
+    display_name: "Daria Klimaszewska"
+    role: ugrad
+    webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
+    github: thearia0
 
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
