@@ -44,6 +44,13 @@ daria_klimaszewska:
     webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
     github: thearia0
 
+emma_ware:
+    display_name: "Emma Ware"
+    role: alum
+    bio: "Erasmus+ at AGH (from U. California Davis), 2024/5"
+    webpage: https://emmaware.weebly.com/
+    github: emmacware
+
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
     role: alum
@@ -79,9 +86,3 @@ michael_olesik:
     webpage: https://github.com/rlhycd
     github: rlhycd
 
-emma_ware:
-    display_name: "Emma Ware"
-    role: alum
-    bio: "Erasmus+ at AGH (from U. California Davis), 2024/5"
-    webpage: https://emmaware.weebly.com/
-    github: emmacware
