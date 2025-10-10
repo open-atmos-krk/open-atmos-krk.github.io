@@ -18,7 +18,7 @@ konrad_bodzioch:
     role: grad
     webpage: "https://www.linkedin.com/in/konrad-bodzioch"
     github: Bodzio-2
-    bio: "BEng, CS & Inteligent Systems, AGH, 202"
+    bio: "BEng, CS & Inteligent Systems, AGH, 2024"
 
 gracjan_adamus:
     display_name: "Gracjan Adamus"
@@ -41,13 +41,13 @@ ola_strzabala:
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
     role: alum
-    bio: "MSc 2025 (CS & Intelligent Systems, AGH)"
+    bio: "MSc, CS & Intelligent Systems, AGH, 2025"
     webpage: "https://linkedin.com/in/pmagnu"
     github: pawelmagnu
 
 kacper_derlatka:
     display_name: "Kacper Derlatka"
     role: alum
-    bio: "MSc 2023 (CS, Jagiellonian Univ.)"
+    bio: "MSc, CS, Jagiellonian Univ., 2023"
     webpage: "https://linkedin.com/in/kacper-derlatka-262095191"
     github: Delcior
