@@ -144,13 +144,10 @@ ugrad-c:
     display_name: "Ugrad C"
     role: ugrad
 
-ugrad-d:
-    display_name: "Ugrad D"
+ola_strzabala:
+    display_name: "Ola Strząbała"
     role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
+    webpage: "https://www.linkedin.com/in/aleksandra-strz%C4%85ba%C5%82a/"
 
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
