@@ -12,11 +12,11 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: Faculty
+    name: Mentor
   - key: grad
-    name: Graduate Students
+    name: Grad Students
   - key: ugrad
-    name: Undergraduate Students
+    name: Undergrad Students
   - key: collab
     name: Collaborators
   - key: alum
