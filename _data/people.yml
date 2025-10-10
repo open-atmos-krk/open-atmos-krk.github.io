@@ -27,12 +27,12 @@ gracjan_adamus:
     webpage: "https://www.linkedin.com/in/gracjan-adamus"
     github: griger5
 
-michal_wronski:
-    display_name: "Michał Wroński"
+daria_klimaszewska:
+    display_name: "Daria Klimaszewska"
     role: ugrad
-    webpage: "https://github.com/Sfonxu"
-    github: Sfonxu
-    bio: "Micro- and Nanotechnologies in Biophysics, AGH"
+    webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
+    github: thearia0
+    bio: "Technical Physics, AGH"
 
 ola_strzabala:
     display_name: "Ola Strząbała"
@@ -41,12 +41,12 @@ ola_strzabala:
     github: olastrz
     bio: "Micro- and Nanotechnologies in Biophysics, AGH"
 
-daria_klimaszewska:
-    display_name: "Daria Klimaszewska"
+michal_wronski:
+    display_name: "Michał Wroński"
     role: ugrad
-    webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
-    github: thearia0
-    bio: "Technical Physics, AGH"
+    webpage: "https://github.com/Sfonxu"
+    github: Sfonxu
+    bio: "Micro- and Nanotechnologies in Biophysics, AGH"
 
 emma_ware:
     display_name: "Emma Ware"
