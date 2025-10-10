@@ -155,8 +155,11 @@ ugrad-e:
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
     role: alum
-    bio: "MSc 2025"
+    bio: "MSc 2025 (CS & Intelligent Systems, AGH)"
+    webpage: "https://linkedin.com/in/pmagnu"
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
+kacper_derlatka:
+    display_name: "Kacper Derlatka"
     role: alum
+    bio: "MSc 2023 (CS, Jagiellonian Univ.)"
+    webpage: "https://linkedin.com/in/kacper-derlatka-262095191"
