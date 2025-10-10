@@ -28,6 +28,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Install bibble
+        run: pip install bibble
+      - name: Generate pubs
+        run: make _includes/pubs.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
