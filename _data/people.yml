@@ -4,13 +4,21 @@ sylwester_arabas:
     github: slayoo
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     image: /img/people/slayoo.png
-    bio: "PhD, U. Warsaw, 2013" 
+    bio: "PhD, Physics, U. Warsaw, 2013" 
 
 agnieszka_zaba:
     display_name: "Agnieszka Żaba"
     role: grad
     webpage: "https://www.linkedin.com/in/agnieszka-%2525C5%2525BCaba-798742130"
     github: AgnieszkaZaba
+    bio: "MSc, Appl. Math, AGH, 2023" 
+
+konrad_bodzioch:
+    display_name: "Konrad Bodzioch"
+    role: grad
+    webpage: "https://www.linkedin.com/in/konrad-bodzioch"
+    github: Bodzio-2
+    bio: "BEng, CS \& Inteligent Systems, AGH, 202"
 
 gracjan_adamus:
     display_name: "Gracjan Adamus"
