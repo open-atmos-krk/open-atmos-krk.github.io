@@ -57,3 +57,31 @@ kacper_derlatka:
     bio: "MSc, CS, Jagiellonian Univ., 2023"
     webpage: "https://linkedin.com/in/kacper-derlatka-262095191"
     github: Delcior
+
+oleksii_bulenok:
+    display_name: "Oleksii Bulenok"
+    role: alum
+    bio: "MSc, CS, Jagiellonian Univ., 2023"
+    webpage: "https://linkedin.com/in/abulenok"
+    github: abulenok
+
+piotr_bartman:
+    display_name: "Piotr Bartman-Szwarc"
+    role: alum
+    bio: "MSc, CS, Jagiellonian Univ., 2020"
+    webpage: "https://linkedin.com/in/piotr-bartman-a83760143"
+    github: piotrbartman
+
+michael_olesik:
+    display_name: "Michael Olesik"
+    role: alum
+    bio: "MSc, Physics, Jagiellonian Univ., 2020"
+    webpage: https://github.com/rlhycd
+    github: rlhycd
+
+emma_ware:
+    display_name: "Emma Ware"
+    role: alum
+    bio: "Erasmus+ at AGH (from U. California Davis), 2024/5"
+    webpage: https://emmaware.weebly.com/
+    github: emmacware
