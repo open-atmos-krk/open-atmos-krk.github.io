@@ -4,7 +4,7 @@ shortnews: true
 icon: newspaper-o
 image: /img/euroscipy.jpg
 image_style: "max-height: 150px;"
-image_link: "https://https://archive.euroscipy.org/2025"
+image_link: "/img/euroscipy.jpg"
 ---
 
 During the <a href="https://archive.euroscipy.org/2025">EuroSciPy 2025 conference</a> at AGH in Kraków,
