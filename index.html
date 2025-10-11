@@ -43,22 +43,6 @@ role-tables:
     {% endif %}
 </section>
 
-<section>
-    <h2>Research</h2>
-    <div class="card-columns">
-        {% comment %}
-        Sort the projects by date, putting those without dates last
-        {% endcomment %}
-        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
-        {% assign projects_by_date = projects_by_date | reverse %}
-        {% for p in projects_by_date %}
-            {% if p.status != "inactive" %}
-                {% include project-card.html project=p %}
-            {% endif %}
-        {% endfor %}
-    </div>
-</section>
-
 <div id="people">
     <h2>People</h2>
     {% for role-table in page.role-tables %}
