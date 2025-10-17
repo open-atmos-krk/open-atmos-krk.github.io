@@ -7,7 +7,7 @@ to discuss Nature and Science papers scoped around environmental and computation
 
 <h3>Archive:</h3>
 
-* 2025-10-17: Sylwester Arabas
+* 2025-10-17: Sylwester Arabas    
   [Hallett & Mossop 1974](https://doi.org/10.1038/249026a0): "_Production of secondary ice particles during the riming process_"
 * 2025-06-04: Daria Klimaszewska    
   [Schaefer 1941 (Science 93)](https://doi.org/10.1126/science.93.2410.239): "_A method for making snowflake replicas_"
