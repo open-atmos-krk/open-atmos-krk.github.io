@@ -18,5 +18,5 @@ people:
 layout: project
 no-link: true
 last-updated: 2016-11-11
-image: "https://raw.githubusercontent.com/open-atmos/PySDM/main/docs/logos/pysdm_logo.svg"
+image: "/img/logo_pysdm.png"
 ---

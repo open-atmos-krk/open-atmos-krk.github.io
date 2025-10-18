@@ -1,5 +1,5 @@
 ---
-title: PyPartMC
+title: PyMPDATA
 subtitle: And a subtitle
 
 description: |
