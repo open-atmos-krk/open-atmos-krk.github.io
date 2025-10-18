@@ -1,5 +1,5 @@
 ---
-title: MPDATA meets Black-Scholes
+title: MPDATA&thinsp;meets&thinsp;Black-Scholes
 status: inactive
 
 description: |
