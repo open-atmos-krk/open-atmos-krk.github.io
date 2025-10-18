@@ -15,5 +15,5 @@ people:
 layout: project
 no-link: true
 last-updated: 2025-10-15
-image: "https://raw.githubusercontent.com/numba-mpi/numba-mpi/main/.github/numba_mpi_logo.svg"
+image: "/img/logo_numbampi.png"
 ---

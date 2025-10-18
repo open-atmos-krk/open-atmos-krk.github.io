@@ -13,5 +13,5 @@ people:
 layout: project
 no-link: true
 last-updated: 2016-11-11
-image: "https://raw.githubusercontent.com/wiki/open-atmos/PyPartMC/logo.svg"
+image: "/img/logo_pypartmc.png"
 ---
