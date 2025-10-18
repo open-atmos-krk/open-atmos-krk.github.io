@@ -1,19 +1,20 @@
 ---
-title: Logo Project
+title: HPC DIY
 
 notitle: true
 
 description: |
-  This project has a sweet logo!
+  Ceci n'est pas un superordinateur.
 
 people:
-  - storm
-  - grad-b
-  - ugrad-c
+  - gracjan_adamus
+  - michal_wronski
+  - kacper_derlatka
+  - sylwester_arabas
 
 layout: project
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
-last-updated: 2017-04-11
+image: "/img/magritte.jpg"
+last-updated: 2025-10-18
 ---
 
 Some preliminary text.
