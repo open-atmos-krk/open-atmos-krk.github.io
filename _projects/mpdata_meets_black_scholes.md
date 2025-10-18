@@ -9,7 +9,7 @@ description: |
     effectiveness across European-, American-, and Asian-type contracts.
 
 people:
-  - pawel_magnuszewsk
+  - pawel_magnuszewski
   - sylwester_arabas
 
 layout: project
