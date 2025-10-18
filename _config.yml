@@ -16,7 +16,7 @@ roles:
   - key: grad
     name: Graduate Students (@<a href="https://www.agh.edu.pl">agh.edu.pl</a>)
   - key: ugrad
-    name: Undergraduate Students (@<a href="https://www.agh.edu.pl">agh.edu.pl</a>)
+    name: Undergraduate Students (@<a href="https://fis.agh.edu.pl">fis.agh.edu.pl</a>)
   - key: alum
     name: Alumni
 
