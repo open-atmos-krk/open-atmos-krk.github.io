@@ -1,6 +1,6 @@
 ---
 title: Numba-MPI
-subtitle: And a subtitle
+subtitle: <a href="https://pypi.org/p/numba-mpi">PyPI.org/p/numba-mpi</a>
 
 description: |
   This project has a long title, but no other content.

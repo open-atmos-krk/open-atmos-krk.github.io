@@ -1,6 +1,6 @@
 ---
 title: PyMPDATA
-subtitle: And a subtitle
+subtitle: <a href="https://pypi.org/p/pympdata">PyPI.org/p/PyMPDATA</a>
 
 description: |
   This project has a long title, but no other content.

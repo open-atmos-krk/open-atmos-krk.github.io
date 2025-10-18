@@ -1,6 +1,6 @@
 ---
 title: PyPartMC
-subtitle: And a subtitle
+subtitle: <a href="https://pypi.org/p/pypartmc">PyPI.org/p/PyPartMC</a>
 
 description: |
   This project has a long title, but no other content.

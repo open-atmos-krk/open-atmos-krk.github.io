@@ -1,6 +1,6 @@
 ---
 title: PySDM
-subtitle: And a subtitle
+subtitle: <a href="https://pypi.org/p/pysdm">PyPI.org/p/PySDM</a>
 
 description: |
   This project has a long title, but no other content.
