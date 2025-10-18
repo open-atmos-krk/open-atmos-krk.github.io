@@ -1,5 +1,6 @@
 ---
 title: open-atmos-jupyter-utils
+subtitle: <a href="https://pypi.org/p/open-atmos-jupyter-utils">PyPI.org/open-atmos-jupyter-utils</a>
 
 description: |
   utility routines for embedding vector graphics and animations in Python Jupyter notebooks using matplotlib (with focus on testing and Colab & GitHub compatibility) 
