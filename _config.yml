@@ -39,9 +39,7 @@ navigation:
     link: /#people
   - title: Projects
     link: /projects.html
-  - title: Publications
-    link: /publications.html
   - title: Journal Club
     link: /journal_club.html
-  - title: Code
-    link: /code.html
+  - title: Publications
+    link: /publications.html

@@ -7,11 +7,15 @@ description: |
   Setting the `no-link` property means that there's no link.
 
 people:
-  - gracjan_adamus
+  - piotr_bartman
+  - michael_olesik
+  - michal_wronski
+  - pawel_magnuszewski
+  - kacper_derlatka
   - sylwester_arabas
 
 layout: project
 no-link: true
 last-updated: 2016-11-11
-image: "https://raw.githubusercontent.com/wiki/open-atmos/PyPartMC/logo.svg"
+image: "https://raw.githubusercontent.com/open-atmos/PyMPDATA/main/.github/pympdata_logo.svg"
 ---

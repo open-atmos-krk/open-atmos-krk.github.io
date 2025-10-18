@@ -1,5 +1,5 @@
 ---
-title: PyPartMC
+title: PySDM
 subtitle: And a subtitle
 
 description: |
@@ -7,11 +7,16 @@ description: |
   Setting the `no-link` property means that there's no link.
 
 people:
-  - gracjan_adamus
+  - piotr_bartman
+  - oleksii_bulenok
+  - emma_ware
+  - ola_strzabala
+  - konrad_bodzioch
+  - agnieszka_zaba
   - sylwester_arabas
 
 layout: project
 no-link: true
 last-updated: 2016-11-11
-image: "https://raw.githubusercontent.com/wiki/open-atmos/PyPartMC/logo.svg"
+image: "https://raw.githubusercontent.com/open-atmos/PySDM/main/docs/logos/pysdm_logo.svg"
 ---

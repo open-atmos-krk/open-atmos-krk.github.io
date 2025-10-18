@@ -8,7 +8,7 @@ description: |
 people:
   - emma_ware
   - piotr_bartman
-  - sylwester_aramas
+  - sylwester_arabas
 
 layout: project
 image: "/img/adaptivesdm.jpg"
