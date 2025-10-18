@@ -32,7 +32,7 @@
 			{%- if entry.fields['note'] %}
 			<span class="note">
 			<br />
-			<strong>{{ entry.fields['note']|escape }}</strong>
+			{{ entry.fields['note']|escape }}
 			</span>
 			{%- endif %}
 			<br />
