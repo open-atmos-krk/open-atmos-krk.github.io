@@ -14,7 +14,7 @@ people:
 
 layout: project
 image: "/img/magritte.jpg"
-last-updated: 2025-10-18
+last-updated: 2025-10-19
 ---
 
 Some preliminary text.
