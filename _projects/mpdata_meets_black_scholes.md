@@ -1,5 +1,5 @@
 ---
-title: MPDATA&thinsp;meets&thinsp;Black&dash;Scholes
+title: M&#xF380P&#xF380D&#xF380A&#xF380T&#xF380A&thinsp;meets&thinsp;Black&dash;Scholes
 status: inactive
 
 description: |
