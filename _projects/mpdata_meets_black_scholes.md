@@ -13,7 +13,7 @@ people:
   - sylwester_arabas
 
 layout: project
-image: "/img/money.png"
+image: "/img/money.jpg"
 ---
 
 We explore a simple yet robust numerical method for integrating PDEs applied to pricing of options (financial instruments).
