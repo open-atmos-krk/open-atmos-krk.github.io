@@ -35,8 +35,8 @@ collections:
 navigation:
   - title: Home
     link: /
-  - title: People
-    link: /#people
+  - title: Team
+    link: /#team
   - title: Projects
     link: /projects.html
   - title: Journal Club
