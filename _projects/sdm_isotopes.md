@@ -12,7 +12,7 @@ people:
 
 image: "img/isotopes.jpg"
 layout: project
-last-updated: 2025-10-18
+last-updated: 2025-10-19
 ---
 
 Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
