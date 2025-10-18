@@ -1,10 +1,10 @@
 ---
 title: HPC DIY
-
-notitle: true
+subtitle: Ceci n'est pas un superordinateur.
 
 description: |
-  Ceci n'est pas un superordinateur.
+  We are building, from scratch, a multi-node GPU-enabled computing cluster
+  using Raspberry Pi hardware, and open-source software stack (Linux/Slurm/OpenMPI/...)
 
 people:
   - gracjan_adamus
