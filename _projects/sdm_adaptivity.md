@@ -1,5 +1,5 @@
 ---
-title: Adaptive timestepping for SDM
+title: SDM adaptive timestepping
 
 description: |
   This project has a lot of people working on it!!
