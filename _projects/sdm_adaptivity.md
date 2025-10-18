@@ -11,7 +11,7 @@ people:
   - sylwester_aramas
 
 layout: project
-image: "/img/adaptive_sdm.jpg"
+image: "/img/adaptivesdm.jpg"
 ---
 
 ## A Header
