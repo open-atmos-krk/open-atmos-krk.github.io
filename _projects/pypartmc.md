@@ -1,5 +1,5 @@
 ---
-title: Project with a Longer Title
+title: PyPartMC
 subtitle: And a subtitle
 
 description: |
@@ -7,11 +7,8 @@ description: |
   Setting the `no-link` property means that there's no link.
 
 people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - gracjan_adamus
+  - sylwester_arabas
 
 layout: project
 no-link: true

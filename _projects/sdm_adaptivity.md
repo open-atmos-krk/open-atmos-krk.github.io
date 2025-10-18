@@ -1,23 +1,14 @@
 ---
-title: Big Project
+title: Adaptive timestepping for SDM
 
 description: |
   This project has a lot of people working on it!!
   It also has some `Mark` _down_
 
 people:
-  - storm
-  - profx
-  - grad-a
-  - grad-b
-  - grad-c
-  - grad-d
-  - scott
-  - wolverine
-  - ugrad-a
-  - ugrad-b
-  - ugrad-c
-  - ugrad-d
+  - emma_ware
+  - piotr_bartman
+  - sylwester_aramas
 
 layout: project
 ---
