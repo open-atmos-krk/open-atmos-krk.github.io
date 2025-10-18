@@ -12,11 +12,11 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: Faculty
+    name: Faculty (@<a href="https://zfs.agh.edu.pl/">zfs.agh.edu.pl</a>)
   - key: grad
-    name: Graduate Students
+    name: Graduate Students (@<a href="https://www.agh.edu.pl">agh.edu.pl</a>)
   - key: ugrad
-    name: Undergraduate Students
+    name: Undergraduate Students (@<a href="https://www.agh.edu.pl">agh.edu.pl</a>)
   - key: alum
     name: Alumni
 
