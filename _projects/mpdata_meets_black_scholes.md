@@ -17,6 +17,7 @@ people:
   - sylwester_arabas
 
 layout: project
+image: "/img/money.png"
 ---
 
 2020: https://doi.org/10.1016/j.cam.2019.05.023
