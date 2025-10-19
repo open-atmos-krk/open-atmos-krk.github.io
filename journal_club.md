@@ -2,7 +2,7 @@
 layout: default
 title: Journal Club
 ---
-<img width="50%" align="right" src="/img/journal_club.jpg" alt="journal club" />
+<img width="33%" align="right" src="/img/journal_club.jpg" alt="journal club" />
 We meet every two weeks at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/)
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
