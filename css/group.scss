@@ -147,3 +147,9 @@ svg {
     // make the alignment just like img from bootstrap's reboot.scss
     vertical-align: middle;
 }
+
+@media screen and (min-width: 800px) {
+  .table {
+    width: 75%;
+  }
+}
