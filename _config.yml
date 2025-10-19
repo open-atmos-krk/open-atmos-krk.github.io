@@ -33,10 +33,10 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: Home
-    link: /
   - title: Team
-    link: /#team
+    link: /
+  - title: News
+    link: /news.html
   - title: Projects
     link: /projects.html
   - title: Journal Club
