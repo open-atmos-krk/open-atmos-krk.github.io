@@ -148,8 +148,21 @@ svg {
     vertical-align: middle;
 }
 
+img.pic {
+  width: 100%
+}
+
 @media screen and (min-width: 800px) {
   .table {
-    width: 75%;
+    width: 68%;
   }
+
+  img.pic {
+    width: 30%;
+  }
+}
+
+div#header {
+    position: fixed;
+    top: 0;
 }
