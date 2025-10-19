@@ -3,8 +3,7 @@ title: Numba-MPI
 subtitle: <a href="https://pypi.org/p/numba-mpi">PyPI.org/p/numba-mpi</a>
 
 description: |
-  This project has a long title, but no other content.
-  Setting the `no-link` property means that there's no link.
+  Numba-MPI provides Python wrappers to the C MPI API callable from within Numba JIT-compiled code (@jit mode). 
 
 people:
   - kacper_derlatka

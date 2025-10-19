@@ -3,8 +3,10 @@ title: PySDM
 subtitle: <a href="https://pypi.org/p/pysdm">PyPI.org/p/PySDM</a>
 
 description: |
-  This project has a long title, but no other content.
-  Setting the `no-link` property means that there's no link.
+  PySDM is a particle-based (super-droplet) cloud microphysics package with box,
+    parcel & 1D/2D prescribed-flow examples in Python, Julia and Matlab. 
+  The package features a Pythonic high-performance implementation of the Super-Droplet Method (SDM)
+    Monte-Carlo algorithm for representing collisional growth (<a href="https://doi.org/10.1002/qj.441">Shima et al. 2009</a>), hence the name.
 
 people:
   - piotr_bartman

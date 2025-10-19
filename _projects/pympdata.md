@@ -3,8 +3,9 @@ title: PyMPDATA
 subtitle: <a href="https://pypi.org/p/pympdata">PyPI.org/p/PyMPDATA</a>
 
 description: |
-  This project has a long title, but no other content.
-  Setting the `no-link` property means that there's no link.
+  PyMPDATA is a Numba-accelerated Pythonic implementation of the MPDATA algorithm of Smolarkiewicz et al. 
+    used in geophysical fluid dynamics and beyond for numerically solving generalised convection-diffusion PDEs.
+  PyMPDATA ships with examples in Python, Julia, Rust and Matlab.
 
 people:
   - piotr_bartman
