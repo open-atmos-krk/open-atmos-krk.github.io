@@ -171,3 +171,13 @@ img.pic {
     padding: 0
   }
 }
+
+.__dimensions_badge_embed__ {
+  display:inline;
+  vertical-align:text-top;
+  
+}
+.__dimensions_badge_embed__::after {
+  content: none !important;
+  display: none !important;
+}
