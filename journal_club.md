@@ -41,12 +41,9 @@ to discuss Nature and Science papers scoped around environmental and computation
 * 1880s:
     - [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0)    
     "_Dust, Fogs, and Clouds_"
-* 1890s:
 * 1900s:
     - [Aitken 1909 (Nature 82)](https://doi.org/10.1038/082008a0)    
     "_Atmospheric Cloudy Condensation_"
-* 1910s:
-* 1920s:
 * 1930s:
     - [Hogg 1931 (Nature 128)](http://doi.org/10.1038/128908b0)    
     "_Aitken Condensation Nuclei_"
@@ -71,7 +68,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     "_Isotopic composition and temperature of formation of Antarctic snows_"
     - [Fletcher 1961 (Science 134)](https://doi.org/10.1126/science.134.3476.361)   
     "_Freezing Nuclei, Meteors, and Rainfall_"
-    - [Schaefer 1966](https://doi.org/10.1126/science.154.3756.1555.b)   
+    - [Schaefer 1966 (Science 154)](https://doi.org/10.1126/science.154.3756.1555.b)   
     "_Ice nuclei from automobile exhaust and iodine vapor_"
     - [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0)   
     "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
@@ -101,7 +98,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
     - [Ochs III & Czys 1987 (Nature 327)](https://doi.org/10.1038/327606a0)   
     "_Charge effects on the coalescence of water drops in free fall_"
-    - [Gervat et al. 1988](https://doi.org/10.1038/333241a0)    
+    - [Gervat et al. 1988 (Nature 333)](https://doi.org/10.1038/333241a0)    
     "_Field evidence for the oxidation of SO2 by H2O2 in cap clouds_"
     - [Schlesinger 1988 (Nature 335)](https://doi.org/10.1038/335303c0)   
     "_Negative or positive cloud optical depth feedback?_"
@@ -123,7 +120,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     "_Possible climate change due to SO2-derived cloud condensation nuclei_"
     - [Mitchell et al. 1989 (Nature 341)](https://doi.org/10.1038/341132a0)   
     "_CO2 and climate: a missing feedback?_"
-    - [Beard, Ochs III & Kubesh 1989](https://doi.org/10.1038/342408a0)   
+    - [Beard, Ochs III & Kubesh 1989 (Nature 342)](https://doi.org/10.1038/342408a0)   
     "_Natural oscillations of small raindrops_"
 * 1990s:
     - [Slingo 1990 (Nature 343)](https://doi.org/10.1038/343049a0)   
@@ -183,7 +180,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     "_Importance of rain evaporation and continental convection in the tropical water cycle_"
     - [Rosenfeld et al. 2008 (Science 321)](https://doi.org/10.1126/science.1160606)    
     "_Flood or Drought: How Do Aerosols Affect Precipitation?_"
-    - [Koren et al. 2008](https://doi.org/10.1126/science.1159185)   
+    - [Koren et al. 2008 (Science 321)](https://doi.org/10.1126/science.1159185)   
     "_Smoke invigoration versus inhibition of clouds over the Amazon_"
     - [Stevens & Feingold 2009 (Nature 461)](http://doi.org/10.1038/nature08281)    
     "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
@@ -206,7 +203,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     "_From aerosol-limited to invigoration of warm convective clouds_"
     - [Gramling 2015](http://doi.org/10.1126/science.aac8874)    
     "_Tiny sea creatures are making clouds over the Southern Ocean_"
-    - [Russell 2015](https://doi.org/10.1038/525194a)   
+    - [Russell 2015 (Nature 525)](https://doi.org/10.1038/525194a)   
     "_Sea-spray particles cause freezing in clouds_"
     - [Schiermeier 2015 (Nature 520)](https://doi.org/10.1038/520140a)   
     "_Climatologists to physicists: your planet needs you_"
@@ -233,17 +230,17 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Rosenfeld et al. 2019 (Science 363)](http://doi.org/10.1126/science.aav0566)    
     "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
 * 2020s
-    - [Palmer 2020](https://doi.org/10.1038/d41586-020-01484-5)   
+    - [Palmer 2020 (Nature 582)](https://doi.org/10.1038/d41586-020-01484-5)   
     "_Short-term tests validate long-term estimates of climate change_"
-    - [Abbott & Cronin 2021](https://doi.org/10.1126/science.abc5181)    
+    - [Abbott & Cronin 2021 (Science 371)](https://doi.org/10.1126/science.abc5181)    
     "_Aerosol invigoration of atmospheric convection through increases in humidity_"
-    - [Sullivan & Voigt 2021](https://www.nature.com/articles/s43247-021-00206-7)   
+    - [Sullivan & Voigt 2021 (Nature Commun. Earth. Environ. 2)](https://www.nature.com/articles/s43247-021-00206-7)   
     "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
-    - [Glassmeier et al. 2021](https://doi.org/10.1126/science.abd3980)    
+    - [Glassmeier et al. 2021 (Science 371)](https://doi.org/10.1126/science.abd3980)    
     "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
     - [Allwayin et al. 2024 (Science 384)](https://doi.org/10.1126/science.adi5550)   
     "_Locally narrow droplet size distributions are ubiquitous in stratocumulus clouds_"
-    - [Toll et al. 2024](https://doi.org/10.1126/science.adl0303)   
+    - [Toll et al. 2024 (Science 386)](https://doi.org/10.1126/science.adl0303)   
     "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
     - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4)   
     "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
