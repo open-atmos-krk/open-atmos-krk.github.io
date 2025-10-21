@@ -39,11 +39,11 @@ to discuss Nature and Science papers scoped around environmental and computation
 
 <h3>Nature & Science papers on clouds to choose from (please <a href="https://github.com/open-atmos-krk/open-atmos-krk.github.io/issues/new">report</a> what to add):</h3>
 * 1880s:
-    - ✔ [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0)    
-    "_Dust, Fogs, and Clouds_"
+    - ✔ [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0): "_Dust, Fogs, and Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/023195d0" data-style="small_rectangle"></span>
 * 1900s:
-    - [Aitken 1909 (Nature 82)](https://doi.org/10.1038/082008a0)    
-    "_Atmospheric Cloudy Condensation_"
+    - [Aitken 1909 (Nature 82)](https://doi.org/10.1038/082008a0): "_Atmospheric Cloudy Condensation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/082008a0" data-style="small_rectangle"></span>
 * 1930s:
     - [Hogg 1931 (Nature 128)](http://doi.org/10.1038/128908b0)    
     "_Aitken Condensation Nuclei_"
@@ -53,7 +53,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     - ✔ [Schaefer 1941 (Science 93)](https://doi.org/10.1126/science.93.2410.239)   
     "_A method for making snowflake replicas_"
     - [Schaefer 1942 (Nature 149)](https://doi.org/10.1038/149081a0)   
-    "_USE OF SNOWFLAKE REPLICAS FOR STUDYING WINTER STORMS_"
+    "_Use of snowflake replicas for studying winter storms_"
     - [Schaefer 1946 (Science 104)](https://doi.org/10.1126/science.104.2707.457)    
     "_The Production of Ice Crystals in a Cloud of Supercooled Water Droplets_"
     - [Brewer & Palmer 1949](https://doi.org/10.1038/164312a0)   
