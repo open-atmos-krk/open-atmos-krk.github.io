@@ -82,46 +82,46 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Mossop & Hallett 1974 (Science 186)](https://doi.org/10.1126/science.186.4164.632): "_Ice Crystal Concentration in Cumulus Clouds: Influence of the Drop Spectrum_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.186.4164.632" data-style="small_rectangle"></span>
 * 1980s:
-    - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0)   
-    "_Rain drop sizes and rainfall rate measured by dual-polarization radar_"
-    - [Joussaume et al. 1984 (Nature 311)](https://doi.org/10.1038/311024a0)   
-    "_A general circulation model of water isotope cycles in the atmosphere_"
-    - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020)    
-    "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
-    - [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0)   
-    "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
-    - [Charlson et al. 1987 (Nature 326)](https://doi.org/10.1038/326655a0)    
-    "_Oceanic phytoplankton, atmospheric sulphur, cloud albedo and climate_"
-    - [Roeckner et al. 1987 (Nature 329)](https://doi.org/10.1038/329138a0)   
-    "_Cloud optical depth feedbacks and climate modelling_"
-    - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020)   
-    "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
-    - [Ochs III & Czys 1987 (Nature 327)](https://doi.org/10.1038/327606a0)   
-    "_Charge effects on the coalescence of water drops in free fall_"
-    - [Gervat et al. 1988 (Nature 333)](https://doi.org/10.1038/333241a0)    
-    "_Field evidence for the oxidation of SO2 by H2O2 in cap clouds_"
-    - [Schlesinger 1988 (Nature 335)](https://doi.org/10.1038/335303c0)   
-    "_Negative or positive cloud optical depth feedback?_"
-    - [Schlesinger 1988 (Nature 336)](https://doi.org/10.1038/336315b0)   
-    "_How to make models for behaviour of clouds_"
-    - [Illingworth 1988 (Nature 336)](https://doi.org/10.1038/336754a0)    
-    "_The formation of rain in convective clouds_"
-    - [Schwartz 1988 (Nature 336)](https://doi.org/10.1038/336441a0)   
-    "_Are global cloud albedo and climate controlled by marine phytoplankton?_"
-    - [Chandler et al. 1988 (Nature 336)](https://doi.org/10.1038/336562a0)    
-    "_Measurements of H2O2 and SO2 in clouds and estimates of their reaction rate_"
-    - [Ramanathan et al. 1989 (Science 243)](https://doi.org/10.1126/science.243.4887.57)   
-    "_Cloud-Radiative Forcing and Climate: Results from the Earth Radiation Budget Experiment_"
-    - [Albrecht 1989 (Science 245)](https://doi.org/10.1126/science.245.4923.1227)    
-    "_Aerosols, Cloud Microphysics, and Fractional Cloudiness_"
-    - [Cess et al. 1989 (Science 245)](https://doi.org/10.1126/science.245.4917.513)    
-    "_Interpretation of Cloud-Climate Feedback as Produced by 14 Atmospheric General Circulation Models_"
-    - [Wigley 1989 (Nature 339)](https://doi.org/10.1038/339365a0)   
-    "_Possible climate change due to SO2-derived cloud condensation nuclei_"
-    - [Mitchell et al. 1989 (Nature 341)](https://doi.org/10.1038/341132a0)   
-    "_CO2 and climate: a missing feedback?_"
-    - [Beard, Ochs III & Kubesh 1989 (Nature 342)](https://doi.org/10.1038/342408a0)   
-    "_Natural oscillations of small raindrops_"
+    - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0): "_Rain drop sizes and rainfall rate measured by dual-polarization radar_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/285195a0" data-style="small_rectangle"></span>
+    - [Joussaume et al. 1984 (Nature 311)](https://doi.org/10.1038/311024a0): "_A general circulation model of water isotope cycles in the atmosphere_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/311024a0" data-style="small_rectangle"></span>
+    - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020): "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.237.4818.1020" data-style="small_rectangle"></span>
+    - [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0): "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/324651a0" data-style="small_rectangle"></span>
+    - [Charlson et al. 1987 (Nature 326)](https://doi.org/10.1038/326655a0): "_Oceanic phytoplankton, atmospheric sulphur, cloud albedo and climate_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/326655a0" data-style="small_rectangle"></span>
+    - [Roeckner et al. 1987 (Nature 329)](https://doi.org/10.1038/329138a0): "_Cloud optical depth feedbacks and climate modelling_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/329138a0" data-style="small_rectangle"></span>
+    - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020): "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.237.4818.1020" data-style="small_rectangle"></span>
+    - [Ochs III & Czys 1987 (Nature 327)](https://doi.org/10.1038/327606a0): "_Charge effects on the coalescence of water drops in free fall_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/327606a0" data-style="small_rectangle"></span>
+    - [Gervat et al. 1988 (Nature 333)](https://doi.org/10.1038/333241a0): "_Field evidence for the oxidation of SO2 by H2O2 in cap clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/333241a0" data-style="small_rectangle"></span>
+    - [Schlesinger 1988 (Nature 335)](https://doi.org/10.1038/335303c0): "_Negative or positive cloud optical depth feedback?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/335303c0" data-style="small_rectangle"></span>
+    - [Schlesinger 1988 (Nature 336)](https://doi.org/10.1038/336315b0): "_How to make models for behaviour of clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/336315b0" data-style="small_rectangle"></span>
+    - [Illingworth 1988 (Nature 336)](https://doi.org/10.1038/336754a0): "_The formation of rain in convective clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/336754a0" data-style="small_rectangle"></span>
+    - [Schwartz 1988 (Nature 336)](https://doi.org/10.1038/336441a0): "_Are global cloud albedo and climate controlled by marine phytoplankton?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/336441a0" data-style="small_rectangle"></span>
+    - [Chandler et al. 1988 (Nature 336)](https://doi.org/10.1038/336562a0): "_Measurements of H2O2 and SO2 in clouds and estimates of their reaction rate_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/336562a0" data-style="small_rectangle"></span>
+    - [Ramanathan et al. 1989 (Science 243)](https://doi.org/10.1126/science.243.4887.57): "_Cloud-Radiative Forcing and Climate: Results from the Earth Radiation Budget Experiment_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.243.4887.57" data-style="small_rectangle"></span>
+    - [Albrecht 1989 (Science 245)](https://doi.org/10.1126/science.245.4923.1227): "_Aerosols, Cloud Microphysics, and Fractional Cloudiness_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.245.4923.1227" data-style="small_rectangle"></span>
+    - [Cess et al. 1989 (Science 245)](https://doi.org/10.1126/science.245.4917.513): "_Interpretation of Cloud-Climate Feedback as Produced by 14 Atmospheric General Circulation Models_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.245.4917.513" data-style="small_rectangle"></span>
+    - [Wigley 1989 (Nature 339)](https://doi.org/10.1038/339365a0): "_Possible climate change due to SO2-derived cloud condensation nuclei_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/339365a0" data-style="small_rectangle"></span>
+    - [Mitchell et al. 1989 (Nature 341)](https://doi.org/10.1038/341132a0): "_CO2 and climate: a missing feedback?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/341132a0" data-style="small_rectangle"></span>
+    - [Beard, Ochs III & Kubesh 1989 (Nature 342)](https://doi.org/10.1038/342408a0): "_Natural oscillations of small raindrops_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/342408a0" data-style="small_rectangle"></span>
 * 1990s:
     - ✔ [Slingo 1990 (Nature 343)](https://doi.org/10.1038/343049a0)   
     "_Sensitivity of the Earth's radiation budget to changes in low clouds_"
