@@ -31,13 +31,79 @@ to discuss Nature and Science papers scoped around environmental and computation
   [Slingo 1990 (Nature 343)](https://doi.org/10.1038/343049a0): "_Sensitivity of the Earth's radiation budget to changes in low clouds_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/343049a0" data-style="small_rectangle"></span>
 * 2025-01-24: Michał Wroński   
-  [Rosenfeld et al. 2019 (Science 363)](https://doi.org/10.1126/science.aav0566): "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds"_"
+  [Rosenfeld et al. 2019 (Science 363)](https://doi.org/10.1126/science.aav0566): "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
   <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aav0566" data-style="small_rectangle"></span>
 * 2025-01-10: Sylwester Arabas   
   [Picciotto et al. 1960 (Nature 187)](https://doi.org/10.1038/187857a0): "_Isotopic Composition and Temperature of Formation of Antarctic Snows_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/187857a0" data-style="small_rectangle"></span>
 
-<h3>Nature & Science papers on clouds to chose from (please <a href="https://github.com/open-atmos-krk/open-atmos-krk.github.io/issues/new">report</a> what to add):</h3>
+<h3>Nature & Science papers on clouds to choose from (please <a href="https://github.com/open-atmos-krk/open-atmos-krk.github.io/issues/new">report</a> what to add):</h3>
+* 1980s:
+    - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0)   
+    "_Rain drop sizes and rainfall rate measured by dual-polarization radar_"
+    - [Joussaume et al. 1984 (Nature 311)](https://doi.org/10.1038/311024a0)   
+    "_A general circulation model of water isotope cycles in the atmosphere_"
+    - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020)    
+    "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
+    - [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0)   
+    "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
+    - [Charlson et al. 1987 (Nature 326)](https://doi.org/10.1038/326655a0)    
+    "_Oceanic phytoplankton, atmospheric sulphur, cloud albedo and climate_"
+    - [Roeckner et al. 1987 (Nature 329)](https://doi.org/10.1038/329138a0)   
+    "_Cloud optical depth feedbacks and climate modelling_"
+    - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020)   
+    "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
+    - [Ochs III & Czys 1987 (Nature 327)](https://doi.org/10.1038/327606a0)   
+    "_Charge effects on the coalescence of water drops in free fall_"
+    - [Gervat et al. 1988](https://doi.org/10.1038/333241a0)    
+    "_Field evidence for the oxidation of SO2 by H2O2 in cap clouds_"
+    - [Schlesinger 1988 (Nature 335)](https://doi.org/10.1038/335303c0)   
+    "_Negative or positive cloud optical depth feedback?_"
+    - [Schlesinger 1988 (Nature 336)](https://doi.org/10.1038/336315b0)   
+    "_How to make models for behaviour of clouds_"
+    - [Illingworth 1988 (Nature 336)](https://doi.org/10.1038/336754a0)    
+    "_The formation of rain in convective clouds_"
+    - [Schwartz 1988 (Nature 336)](https://doi.org/10.1038/336441a0)   
+    "_Are global cloud albedo and climate controlled by marine phytoplankton?_"
+    - [Chandler et al. 1988 (Nature 336)](https://doi.org/10.1038/336562a0)    
+    "_Measurements of H2O2 and SO2 in clouds and estimates of their reaction rate_"
+    - [Ramanathan et al. 1989 (Science 243)](https://doi.org/10.1126/science.243.4887.57)   
+    "_Cloud-Radiative Forcing and Climate: Results from the Earth Radiation Budget Experiment_"
+    - [Albrecht 1989 (Science 245)](https://doi.org/10.1126/science.245.4923.1227)    
+    "_Aerosols, Cloud Microphysics, and Fractional Cloudiness_"
+    - [Cess et al. 1989 (Science 245)](https://doi.org/10.1126/science.245.4917.513)    
+    "_Interpretation of Cloud-Climate Feedback as Produced by 14 Atmospheric General Circulation Models_"
+    - [Wigley 1989 (Nature 339)](https://doi.org/10.1038/339365a0)   
+    "_Possible climate change due to SO2-derived cloud condensation nuclei_"
+    - [Mitchell et al. 1989 (Nature 341)](https://doi.org/10.1038/341132a0)   
+    "_CO2 and climate: a missing feedback?_"
+    - [Beard, Ochs III & Kubesh 1989](https://doi.org/10.1038/342408a0)   
+    "_Natural oscillations of small raindrops_"
+* 1990s:
+    - [Slingo 1990 (Nature 343)](https://doi.org/10.1038/343049a0)   
+    "_Sensitivity of the Earth's radiation budget to changes in low clouds_"
+    - [Baker & Charlson 1990 (Nature 345)](https://doi.org/10.1038/345142a0)    
+    "_Bistability of CCN concentrations and thermodynamics in the cloud-topped boundary layer_"
+    - [Latham 1990 (Nature 347)](https://doi.org/10.1038/347339b0)   
+    "_Control of global warming?_"
+    - [Charlson et al. 1990 (Nature 348)](https://doi.org/10.1038/348022a0)    
+    "_Sulphate aerosol and climate_"
+    - [Charlson 1992 (Science 255)](https://doi.org/10.1126/science.255.5043.423)    
+    "_Climate Forcing by Anthropogenic Aerosols_"
+    - [Novakov & Penner 1993 (Nature 365)](https://doi.org/10.1038/365823a0)    
+    "_Large contribution of organic aerosols to cloud-condensation-nuclei concentrations_"
+    - [Kaufman & Tanré 1994 (Nature 369)](https://doi.org/10.1038/369045a0)   
+    "_Effect of variations in super-saturation on the formation of cloud condensation nuclei_"
+    - [Pincus & Baker 1994 (Nature 372)](https://doi.org/10.1038/372250a0)   
+    "_Effect of precipitation on the albedo susceptibility of clouds in the marine boundary layer_"
+    - [Kulmala et al. 1997 (Nature 388)](http://doi.org/10.1038/41000)    
+    "_Clouds without supersaturation_"
+    - [Chuang et al. 1997 (Nature 390)](https://doi.org/10.1038/37576)    
+    "_Kinetic limitations on droplet formation in clouds_"
+    - [Baker 1997 (Science 276)](https://doi.org/10.1126%2Fscience.276.5315.1072)    
+    "_Cloud microphysics and climate_"
+    - [Facchini et al. 1999 (Nature 401)](https://doi.org/10.1038/45758)   
+    "_Cloud albedo enhancement by surface-active organic solutes in growing droplets_"
 * 2000s:
     - [Koop et al. 2000 (Nature 406)](https://doi.org/10.1038/35020537)   
     "_Water activity as the determinant for homogeneous ice nucleation in aqueous solutions_"
