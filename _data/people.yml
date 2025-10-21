@@ -91,8 +91,9 @@ piotr_bartman:
     display_name: "Piotr Bartman-Szwarc"
     role: alum
     bio: "MSc, CS, Jagiellonian Univ., 2020"
-    webpage: "https://linkedin.com/in/piotr-bartman-a83760143"
+    webpage: "https://piotr.bartman-szwarc.pl"
     github: piotrbartman
+    image: /img/people/pbs.png
 
 michael_olesik:
     display_name: "Michael Olesik"
