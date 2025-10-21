@@ -37,24 +37,44 @@ to discuss Nature and Science papers scoped around environmental and computation
   [Picciotto et al. 1960 (Nature 187)](https://doi.org/10.1038/187857a0): "_Isotopic Composition and Temperature of Formation of Antarctic Snows_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/187857a0" data-style="small_rectangle"></span>
 
-<h3>Nature & Science papers on clouds (please <a href="https://github.com/open-atmos-krk/open-atmos-krk.github.io/issues/new">report</a> what to add):</h3>
-* 2020s
-    - [Palmer 2020](https://doi.org/10.1038/d41586-020-01484-5)   
-    "_Short-term tests validate long-term estimates of climate change_"
-    - [Abbott & Cronin 2021](https://doi.org/10.1126/science.abc5181)    
-    "_Aerosol invigoration of atmospheric convection through increases in humidity_"
-    - [Sullivan & Voigt 2021](https://www.nature.com/articles/s43247-021-00206-7)   
-    "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
-    - [Glassmeier et al. 2021](https://doi.org/10.1126/science.abd3980)    
-    "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
-    - [Allwayin et al. 2024 (Science 384)](https://doi.org/10.1126/science.adi5550)   
-    "_Locally narrow droplet size distributions are ubiquitous in stratocumulus clouds_"
-    - [Toll et al. 2024](https://doi.org/10.1126/science.adl0303)   
-    "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
-    - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4)   
-    "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
-    - [Di Girolamo 2025 (Nature 643)](https://doi.org/10.1038/s41586-025-09242-1)   
-    "_Decadal changes in atmospheric circulation detected in cloud motion vectors_"
+<h3>Nature & Science papers on clouds to chose from (please <a href="https://github.com/open-atmos-krk/open-atmos-krk.github.io/issues/new">report</a> what to add):</h3>
+* 2000s:
+    - [Koop et al. 2000 (Nature 406)](https://doi.org/10.1038/35020537)   
+    "_Water activity as the determinant for homogeneous ice nucleation in aqueous solutions_"
+    - [Rosenfeld 2000 (Science 287)](https://doi.org/10.1126/science.287.5459.1793)    
+    "_Suppression of Rain and Snow by Urban and Industrial Air Pollution_"
+    - [Ackerman 2000 (Science 288)](https://doi.org/10.1126/science.288.5468.1042)    
+    "_Reduction of Tropical Cloudiness by Soot_"
+    - [Rosenfeld and Woodley 2000 (Nature 405)](https://doi.org/10.1038/35013030)    
+    "_Deep convective clouds with sustained supercooled liquid water down to -37.5 °C_"
+    - [Liu & Daum 2002 (Nature 419)](http://doi.org/10.1038/419580a)    
+    "_Indirect warming effect from dispersion forcing_"
+    - [Falkovich et al. 2002 (Nature 419)]()   
+    "_Acceleration of rain initiation by cloud turbulence_"
+    - [Rosenfeld et al. 2002 (Science 297)](https://doi.org/10.1126/science.1073869)    
+    "_The Role of Sea Spray in Cleansing Air Pollution over Ocean via Cloud Processes_"
+    - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779)    
+    "_Smoking Rain Clouds over the Amazon_"
+    - [Fridlind et al. 2004 (Science 304)](https://doi.org/10.1126/science.1094947)    
+    "_Evidence for the Predominance of Mid-Tropospheric Aerosols as Subtropical Anvil Cloud Nuclei_"
+    - [Penner et al. 2004 (Nature 427)](https://doi.org/10.1038/nature02234)   
+    "_Observational evidence of a change in radiative forcing due to the indirect aerosol effect_"
+    - [Ackerman et al. 2004 (Nature 432)](https://doi.org/10.1038/nature03174)   
+    "_The impact of humidity above stratiform clouds on indirect aerosol climate forcing_"
+    - [Sastry 2005 (Nature 438)](https://doi.org/10.1038/438746a)   
+    "_Ins and outs of ice nucleation_"
+    - [Dusek et al. 2006 (Science 312)](https://doi.org/10.1126/science.1125261)   
+    "_Size matters more than chemistry for cloud-nucleating ability of aerosol particles_"
+    - [Peter et al. 2006 (Science 314)](https://doi.org/10.1126/science.1135199)    
+    "_When Dry Air Is Too Humid_"
+    - [Worden et al. 2007 (Nature 445)](http://doi.org/10.1038/nature05508)   
+    "_Importance of rain evaporation and continental convection in the tropical water cycle_"
+    - [Rosenfeld et al. 2008 (Science 321)](https://doi.org/10.1126/science.1160606)    
+    "_Flood or Drought: How Do Aerosols Affect Precipitation?_"
+    - [Koren et al. 2008](https://doi.org/10.1126/science.1159185)   
+    "_Smoke invigoration versus inhibition of clouds over the Amazon_"
+    - [Stevens & Feingold 2009 (Nature 461)](http://doi.org/10.1038/nature08281)    
+    "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
 * 2010s
     - [Feingold et al. 2010 (Nature 466)](https://doi.org/10.1038/nature09314)   
     "_Precipitation-generated oscillations in open cellular cloud fields_"
@@ -100,4 +120,20 @@ to discuss Nature and Science papers scoped around environmental and computation
     "_Abrupt cloud clearing of marine stratocumulus in the subtropical southeast Atlantic_"
     - [Rosenfeld et al. 2019 (Science 363)](http://doi.org/10.1126/science.aav0566)    
     "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
-
+* 2020s
+    - [Palmer 2020](https://doi.org/10.1038/d41586-020-01484-5)   
+    "_Short-term tests validate long-term estimates of climate change_"
+    - [Abbott & Cronin 2021](https://doi.org/10.1126/science.abc5181)    
+    "_Aerosol invigoration of atmospheric convection through increases in humidity_"
+    - [Sullivan & Voigt 2021](https://www.nature.com/articles/s43247-021-00206-7)   
+    "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
+    - [Glassmeier et al. 2021](https://doi.org/10.1126/science.abd3980)    
+    "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
+    - [Allwayin et al. 2024 (Science 384)](https://doi.org/10.1126/science.adi5550)   
+    "_Locally narrow droplet size distributions are ubiquitous in stratocumulus clouds_"
+    - [Toll et al. 2024](https://doi.org/10.1126/science.adl0303)   
+    "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
+    - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4)   
+    "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
+    - [Di Girolamo 2025 (Nature 643)](https://doi.org/10.1038/s41586-025-09242-1)   
+    "_Decadal changes in atmospheric circulation detected in cloud motion vectors_"
