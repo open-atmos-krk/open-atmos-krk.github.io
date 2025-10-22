@@ -63,7 +63,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Palmer 1910 (Nature 83)](https://doi.org/10.1038/083396d0): "_The Temperature Conditions within Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/083396d0" data-style="small_rectangle"></span>
     - [Aitken 1911 (Nature 87)](https://doi.org/10.1038/087346d0): "_Rainless Thunderstorms_"
-    <span class="__dimensions_badge_embed__" data-doi=""10.1038/087346d0 data-style="small_rectangle"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/087346d0" data-style="small_rectangle"></span>
     - [Rayleigh 1912 (Nature 90)](https://doi.org/10.1038/090436c0): "_Breath Figures_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/090436c0" data-style="small_rectangle"></span>
     - [Aitken 1913 (Nature 90)](https://doi.org/10.1038/090619c0): "_Breath Figures_"
