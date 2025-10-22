@@ -248,7 +248,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aad4889" data-style="small_rectangle"></span>
     - [Noziere 2016 (Science 351)](https://doi.org/10.1126/science.aaf3253): "_Don't forget the surface_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aaf3253" data-style="small_rectangle"></span>
-    - [Malavelle et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22974):"_Strong constraints on aerosol–cloud interactions from volcanic eruptions_"
+    - [Malavelle et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22974): "_Strong constraints on aerosol–cloud interactions from volcanic eruptions_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature22974" data-style="small_rectangle"></span>
     - [Ovadnevaite et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22806): "_Surface tension prevails over solute effect in organic-influenced cloud droplet activation_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature22806" data-style="small_rectangle"></span>
