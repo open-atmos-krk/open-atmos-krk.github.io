@@ -123,128 +123,128 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Beard, Ochs III & Kubesh 1989 (Nature 342)](https://doi.org/10.1038/342408a0): "_Natural oscillations of small raindrops_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/342408a0" data-style="small_rectangle"></span>
 * 1990s:
-    - ✔ [Slingo 1990 (Nature 343)](https://doi.org/10.1038/343049a0)   
-    "_Sensitivity of the Earth's radiation budget to changes in low clouds_"
-    - [Baker & Charlson 1990 (Nature 345)](https://doi.org/10.1038/345142a0)    
-    "_Bistability of CCN concentrations and thermodynamics in the cloud-topped boundary layer_"
-    - [Latham 1990 (Nature 347)](https://doi.org/10.1038/347339b0)   
-    "_Control of global warming?_"
-    - [Charlson et al. 1990 (Nature 348)](https://doi.org/10.1038/348022a0)    
-    "_Sulphate aerosol and climate_"
-    - [Charlson 1992 (Science 255)](https://doi.org/10.1126/science.255.5043.423)    
-    "_Climate Forcing by Anthropogenic Aerosols_"
-    - [Novakov & Penner 1993 (Nature 365)](https://doi.org/10.1038/365823a0)    
-    "_Large contribution of organic aerosols to cloud-condensation-nuclei concentrations_"
-    - [Kaufman & Tanré 1994 (Nature 369)](https://doi.org/10.1038/369045a0)   
-    "_Effect of variations in super-saturation on the formation of cloud condensation nuclei_"
-    - [Pincus & Baker 1994 (Nature 372)](https://doi.org/10.1038/372250a0)   
-    "_Effect of precipitation on the albedo susceptibility of clouds in the marine boundary layer_"
-    - [Kulmala et al. 1997 (Nature 388)](http://doi.org/10.1038/41000)    
-    "_Clouds without supersaturation_"
-    - [Chuang et al. 1997 (Nature 390)](https://doi.org/10.1038/37576)    
-    "_Kinetic limitations on droplet formation in clouds_"
-    - [Baker 1997 (Science 276)](https://doi.org/10.1126%2Fscience.276.5315.1072)    
-    "_Cloud microphysics and climate_"
-    - [Facchini et al. 1999 (Nature 401)](https://doi.org/10.1038/45758)   
-    "_Cloud albedo enhancement by surface-active organic solutes in growing droplets_"
+    - ✔ [Slingo 1990 (Nature 343)](https://doi.org/10.1038/343049a0): "_Sensitivity of the Earth's radiation budget to changes in low clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/343049a0" data-style="small_rectangle"></span>
+    - [Baker & Charlson 1990 (Nature 345)](https://doi.org/10.1038/345142a0): "_Bistability of CCN concentrations and thermodynamics in the cloud-topped boundary layer_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/345142a0" data-style="small_rectangle"></span>
+    - [Latham 1990 (Nature 347)](https://doi.org/10.1038/347339b0): "_Control of global warming?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/347339b0" data-style="small_rectangle"></span>
+    - [Charlson et al. 1990 (Nature 348)](https://doi.org/10.1038/348022a0): "_Sulphate aerosol and climate_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/348022a0" data-style="small_rectangle"></span>
+    - [Charlson 1992 (Science 255)](https://doi.org/10.1126/science.255.5043.423): "_Climate Forcing by Anthropogenic Aerosols_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.255.5043.423" data-style="small_rectangle"></span>
+    - [Novakov & Penner 1993 (Nature 365)](https://doi.org/10.1038/365823a0): "_Large contribution of organic aerosols to cloud-condensation-nuclei concentrations_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/365823a0" data-style="small_rectangle"></span>
+    - [Kaufman & Tanré 1994 (Nature 369)](https://doi.org/10.1038/369045a0): "_Effect of variations in super-saturation on the formation of cloud condensation nuclei_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/369045a0" data-style="small_rectangle"></span>
+    - [Pincus & Baker 1994 (Nature 372)](https://doi.org/10.1038/372250a0): "_Effect of precipitation on the albedo susceptibility of clouds in the marine boundary layer_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/372250a0" data-style="small_rectangle"></span>
+    - [Kulmala et al. 1997 (Nature 388)](http://doi.org/10.1038/41000): "_Clouds without supersaturation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/41000" data-style="small_rectangle"></span>
+    - [Chuang et al. 1997 (Nature 390)](https://doi.org/10.1038/37576): "_Kinetic limitations on droplet formation in clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/37576" data-style="small_rectangle"></span>
+    - [Baker 1997 (Science 276)](https://doi.org/10.1126/science.276.5315.1072): "_Cloud microphysics and climate_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.276.5315.1072" data-style="small_rectangle"></span>
+    - [Facchini et al. 1999 (Nature 401)](https://doi.org/10.1038/45758): "_Cloud albedo enhancement by surface-active organic solutes in growing droplets_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/45758" data-style="small_rectangle"></span>
 * 2000s:
-    - [Koop et al. 2000 (Nature 406)](https://doi.org/10.1038/35020537)   
-    "_Water activity as the determinant for homogeneous ice nucleation in aqueous solutions_"
-    - [Rosenfeld 2000 (Science 287)](https://doi.org/10.1126/science.287.5459.1793)    
-    "_Suppression of Rain and Snow by Urban and Industrial Air Pollution_"
-    - [Ackerman 2000 (Science 288)](https://doi.org/10.1126/science.288.5468.1042)    
-    "_Reduction of Tropical Cloudiness by Soot_"
-    - [Rosenfeld and Woodley 2000 (Nature 405)](https://doi.org/10.1038/35013030)    
-    "_Deep convective clouds with sustained supercooled liquid water down to -37.5 °C_"
-    - [Liu & Daum 2002 (Nature 419)](http://doi.org/10.1038/419580a)    
-    "_Indirect warming effect from dispersion forcing_"
-    - [Falkovich et al. 2002 (Nature 419)]()   
-    "_Acceleration of rain initiation by cloud turbulence_"
-    - [Rosenfeld et al. 2002 (Science 297)](https://doi.org/10.1126/science.1073869)    
-    "_The Role of Sea Spray in Cleansing Air Pollution over Ocean via Cloud Processes_"
-    - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779)    
-    "_Smoking Rain Clouds over the Amazon_"
-    - [Fridlind et al. 2004 (Science 304)](https://doi.org/10.1126/science.1094947)    
-    "_Evidence for the Predominance of Mid-Tropospheric Aerosols as Subtropical Anvil Cloud Nuclei_"
-    - [Penner et al. 2004 (Nature 427)](https://doi.org/10.1038/nature02234)   
-    "_Observational evidence of a change in radiative forcing due to the indirect aerosol effect_"
-    - [Ackerman et al. 2004 (Nature 432)](https://doi.org/10.1038/nature03174)   
-    "_The impact of humidity above stratiform clouds on indirect aerosol climate forcing_"
-    - [Sastry 2005 (Nature 438)](https://doi.org/10.1038/438746a)   
-    "_Ins and outs of ice nucleation_"
-    - [Dusek et al. 2006 (Science 312)](https://doi.org/10.1126/science.1125261)   
-    "_Size matters more than chemistry for cloud-nucleating ability of aerosol particles_"
-    - [Peter et al. 2006 (Science 314)](https://doi.org/10.1126/science.1135199)    
-    "_When Dry Air Is Too Humid_"
-    - [Worden et al. 2007 (Nature 445)](http://doi.org/10.1038/nature05508)   
-    "_Importance of rain evaporation and continental convection in the tropical water cycle_"
-    - [Rosenfeld et al. 2008 (Science 321)](https://doi.org/10.1126/science.1160606)    
-    "_Flood or Drought: How Do Aerosols Affect Precipitation?_"
-    - [Koren et al. 2008 (Science 321)](https://doi.org/10.1126/science.1159185)   
-    "_Smoke invigoration versus inhibition of clouds over the Amazon_"
-    - [Stevens & Feingold 2009 (Nature 461)](http://doi.org/10.1038/nature08281)    
-    "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
+    - [Koop et al. 2000 (Nature 406)](https://doi.org/10.1038/35020537): "_Water activity as the determinant for homogeneous ice nucleation in aqueous solutions_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/35020537" data-style="small_rectangle"></span>
+    - [Rosenfeld 2000 (Science 287)](https://doi.org/10.1126/science.287.5459.1793): "_Suppression of Rain and Snow by Urban and Industrial Air Pollution_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.287.5459.1793" data-style="small_rectangle"></span>
+    - [Ackerman 2000 (Science 288)](https://doi.org/10.1126/science.288.5468.1042): "_Reduction of Tropical Cloudiness by Soot_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.288.5468.1042" data-style="small_rectangle"></span>
+    - [Rosenfeld and Woodley 2000 (Nature 405)](https://doi.org/10.1038/35013030): "_Deep convective clouds with sustained supercooled liquid water down to -37.5 °C_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/35013030" data-style="small_rectangle"></span>
+    - [Liu & Daum 2002 (Nature 419)](http://doi.org/10.1038/419580a): "_Indirect warming effect from dispersion forcing_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/419580a" data-style="small_rectangle"></span>
+    - [Falkovich et al. 2002 (Nature 419)](https://doi.org/10.1038/nature00983): "_Acceleration of rain initiation by cloud turbulence_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature00983" data-style="small_rectangle"></span>
+    - [Rosenfeld et al. 2002 (Science 297)](https://doi.org/10.1126/science.1073869): "_The Role of Sea Spray in Cleansing Air Pollution over Ocean via Cloud Processes_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1073869" data-style="small_rectangle"></span>
+    - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779): "_Smoking Rain Clouds over the Amazon_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1092779" data-style="small_rectangle"></span>
+    - [Fridlind et al. 2004 (Science 304)](https://doi.org/10.1126/science.1094947): "_Evidence for the Predominance of Mid-Tropospheric Aerosols as Subtropical Anvil Cloud Nuclei_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1094947" data-style="small_rectangle"></span>
+    - [Penner et al. 2004 (Nature 427)](https://doi.org/10.1038/nature02234): "_Observational evidence of a change in radiative forcing due to the indirect aerosol effect_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature02234" data-style="small_rectangle"></span>
+    - [Ackerman et al. 2004 (Nature 432)](https://doi.org/10.1038/nature03174): "_The impact of humidity above stratiform clouds on indirect aerosol climate forcing_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature03174" data-style="small_rectangle"></span>
+    - [Sastry 2005 (Nature 438)](https://doi.org/10.1038/438746a): "_Ins and outs of ice nucleation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/438746a" data-style="small_rectangle"></span>
+    - [Dusek et al. 2006 (Science 312)](https://doi.org/10.1126/science.1125261): "_Size matters more than chemistry for cloud-nucleating ability of aerosol particles_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1125261" data-style="small_rectangle"></span>
+    - [Peter et al. 2006 (Science 314)](https://doi.org/10.1126/science.1135199): "_When Dry Air Is Too Humid_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1135199" data-style="small_rectangle"></span>
+    - [Worden et al. 2007 (Nature 445)](http://doi.org/10.1038/nature05508): "_Importance of rain evaporation and continental convection in the tropical water cycle_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature05508" data-style="small_rectangle"></span>
+    - [Rosenfeld et al. 2008 (Science 321)](https://doi.org/10.1126/science.1160606): "_Flood or Drought: How Do Aerosols Affect Precipitation?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1160606" data-style="small_rectangle"></span>
+    - [Koren et al. 2008 (Science 321)](https://doi.org/10.1126/science.1159185): "_Smoke invigoration versus inhibition of clouds over the Amazon_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1159185" data-style="small_rectangle"></span>
+    - [Stevens & Feingold 2009 (Nature 461)](http://doi.org/10.1038/nature08281): "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08281" data-style="small_rectangle"></span>
 * 2010s
-    - [Feingold et al. 2010 (Nature 466)](https://doi.org/10.1038/nature09314)   
-    "_Precipitation-generated oscillations in open cellular cloud fields_"
-    - [Bodenschatz et al. 2010 (Science 327)](http://doi.org/10.1126/science.1185138)   
-    "_Can We Understand Clouds Without Turbulence?_"
-    - [Stevens & Boucher 2012 (Nature 490)](https://doi.org/10.1038/490040a)    
-    "_The aerosol effect_"
-    - [Atkinson et al. 2013 (Nature 498)](https://doi.org/10.1038/nature12278)   
-    "_The importance of feldspar for ice nucleation by mineral dust in mixed-phase clouds_"
-    - [Carlslaw et al. 2013 (Nature 503)](https://doi.org/10.1038/nature12674)   
-    "_Large contribution of natural aerosols to uncertainty in indirect forcing_"
-    - [Stevens 2013 (Nature 503)](https://doi.org/10.1038/503047a)   
-    "_Uncertain then, irrelevant now_"
-    - [Cziczo et al. 2013 (Science 340)](https://doi.org/10.1126/science.1234145)    
-    "_Clarifying the Dominant Sources and Mechanisms of Cirrus Cloud Formation_"
-    - ✔ [Topping et al. 2013 (Nature Geoscience 6)](http://doi.org/10.1038/ngeo1809)    
-    "_Cloud droplet number enhanced by co-condensation of organic vapours_"
-    - [Koren et al. 2014 (Science 344)](https://doi.org/10.1126/science.1252595)   
-    "_From aerosol-limited to invigoration of warm convective clouds_"
-    - [Gramling 2015](http://doi.org/10.1126/science.aac8874)    
-    "_Tiny sea creatures are making clouds over the Southern Ocean_"
-    - [Russell 2015 (Nature 525)](https://doi.org/10.1038/525194a)   
-    "_Sea-spray particles cause freezing in clouds_"
-    - [Schiermeier 2015 (Nature 520)](https://doi.org/10.1038/520140a)   
-    "_Climatologists to physicists: your planet needs you_"
-    - [Wilson et al. 2015 (Nature)](https://doi.org/10.1038/nature14986)   
-    "_A marine biogenic source of atmospheric ice-nucleating particles_"
-    - [Witze 2016 (Nature 529)](https://doi.org/10.1038/529012a)   
-    "_Antarctic clouds studied for first time in five decades_"
-    - [Dunne et al. 2016 (Science 345)](https://doi.org/10.1126/science.aaf2649)   
-    "_Global atmospheric particle formation from CERN CLOUD measurements_"
-    - [Ruehl et al. 2016 (Science 351)](https://doi.org/10.1126/science.aad4889)    
-    "_An interfacial mechanism for cloud droplet formation on organic aerosols_"
-    - [Noziere 2016 (Science 351)](https://doi.org/10.1126/science.aaf3253)   
-    "_Don't forget the surface_"
-    - [Malavelle et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22974)    
-    "_Strong constraints on aerosol–cloud interactions from volcanic eruptions_"
-    - [Ovadnevaite et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22806)    
-    "_Surface tension prevails over solute effect in organic-influenced cloud droplet activation_"
-    - [Lohmann & Gasparini 2017 (Science 357)](https://doi.org/10.1126/science.aan3325)    
-    "_A cirrus cloud climate dial?_"
-    - [Fan et al. 2018 (Science 359)](https://doi.org/10.1126/science.aan8461)   
-    "_Substantial convection and precipitation enhancements by ultrafine aerosol particles_"
-    - [Yuter et al. 2018 (Science 361)](https://doi.org/10.1126/science.aar5836)    
-    "_Abrupt cloud clearing of marine stratocumulus in the subtropical southeast Atlantic_"
-    - ✔ [Rosenfeld et al. 2019 (Science 363)](http://doi.org/10.1126/science.aav0566)    
-    "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
+    - [Feingold et al. 2010 (Nature 466)](https://doi.org/10.1038/nature09314): "_Precipitation-generated oscillations in open cellular cloud fields_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature09314" data-style="small_rectangle"></span>
+    - [Bodenschatz et al. 2010 (Science 327)](http://doi.org/10.1126/science.1185138): "_Can We Understand Clouds Without Turbulence?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1185138" data-style="small_rectangle"></span>
+    - [Stevens & Boucher 2012 (Nature 490)](https://doi.org/10.1038/490040a): "_The aerosol effect_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/490040a" data-style="small_rectangle"></span>
+    - [Atkinson et al. 2013 (Nature 498)](https://doi.org/10.1038/nature12278): "_The importance of feldspar for ice nucleation by mineral dust in mixed-phase clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature12278" data-style="small_rectangle"></span>
+    - [Carlslaw et al. 2013 (Nature 503)](https://doi.org/10.1038/nature12674): "_Large contribution of natural aerosols to uncertainty in indirect forcing_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature12674" data-style="small_rectangle"></span>
+    - [Stevens 2013 (Nature 503)](https://doi.org/10.1038/503047a): "_Uncertain then, irrelevant now_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/503047a" data-style="small_rectangle"></span>
+    - [Cziczo et al. 2013 (Science 340)](https://doi.org/10.1126/science.1234145): "_Clarifying the Dominant Sources and Mechanisms of Cirrus Cloud Formation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1234145" data-style="small_rectangle"></span>
+    - ✔ [Topping et al. 2013 (Nature Geoscience 6)](http://doi.org/10.1038/ngeo1809): "_Cloud droplet number enhanced by co-condensation of organic vapours_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/ngeo1809" data-style="small_rectangle"></span>
+    - [Koren et al. 2014 (Science 344)](https://doi.org/10.1126/science.1252595): "_From aerosol-limited to invigoration of warm convective clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1252595" data-style="small_rectangle"></span>
+    - [Gramling 2015 (Science News)](http://doi.org/10.1126/science.aac8874): "_Tiny sea creatures are making clouds over the Southern Ocean_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aac8874" data-style="small_rectangle"></span>
+    - [Russell 2015 (Nature 525)](https://doi.org/10.1038/525194a): "_Sea-spray particles cause freezing in clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/525194a" data-style="small_rectangle"></span>
+    - [Schiermeier 2015 (Nature 520)](https://doi.org/10.1038/520140a): "_Climatologists to physicists: your planet needs you_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/520140a" data-style="small_rectangle"></span>
+    - [Wilson et al. 2015 (Nature)](https://doi.org/10.1038/nature14986): "_A marine biogenic source of atmospheric ice-nucleating particles_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature14986" data-style="small_rectangle"></span>
+    - [Witze 2016 (Nature 529)](https://doi.org/10.1038/529012a): "_Antarctic clouds studied for first time in five decades_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/529012a" data-style="small_rectangle"></span>
+    - [Dunne et al. 2016 (Science 345)](https://doi.org/10.1126/science.aaf2649): "_Global atmospheric particle formation from CERN CLOUD measurements_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aaf2649" data-style="small_rectangle"></span>
+    - [Ruehl et al. 2016 (Science 351)](https://doi.org/10.1126/science.aad4889): "_An interfacial mechanism for cloud droplet formation on organic aerosols_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aad4889" data-style="small_rectangle"></span>
+    - [Noziere 2016 (Science 351)](https://doi.org/10.1126/science.aaf3253): "_Don't forget the surface_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aaf3253" data-style="small_rectangle"></span>
+    - [Malavelle et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22974):"_Strong constraints on aerosol–cloud interactions from volcanic eruptions_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature22974" data-style="small_rectangle"></span>
+    - [Ovadnevaite et al. 2017 (Nature 546)](https://doi.org/10.1038/nature22806): "_Surface tension prevails over solute effect in organic-influenced cloud droplet activation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature22806" data-style="small_rectangle"></span>
+    - [Lohmann & Gasparini 2017 (Science 357)](https://doi.org/10.1126/science.aan3325): "_A cirrus cloud climate dial?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aan3325" data-style="small_rectangle"></span>
+    - [Fan et al. 2018 (Science 359)](https://doi.org/10.1126/science.aan8461): "_Substantial convection and precipitation enhancements by ultrafine aerosol particles_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aan8461" data-style="small_rectangle"></span>
+    - [Yuter et al. 2018 (Science 361)](https://doi.org/10.1126/science.aar5836): "_Abrupt cloud clearing of marine stratocumulus in the subtropical southeast Atlantic_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aar5836" data-style="small_rectangle"></span>
+    - ✔ [Rosenfeld et al. 2019 (Science 363)](http://doi.org/10.1126/science.aav0566): "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aav0566" data-style="small_rectangle"></span>
 * 2020s
-    - [Palmer 2020 (Nature 582)](https://doi.org/10.1038/d41586-020-01484-5)   
-    "_Short-term tests validate long-term estimates of climate change_"
-    - [Abbott & Cronin 2021 (Science 371)](https://doi.org/10.1126/science.abc5181)    
-    "_Aerosol invigoration of atmospheric convection through increases in humidity_"
-    - [Sullivan & Voigt 2021 (Nature Commun. Earth. Environ. 2)](https://www.nature.com/articles/s43247-021-00206-7)   
-    "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
-    - [Glassmeier et al. 2021 (Science 371)](https://doi.org/10.1126/science.abd3980)    
-    "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
-    - [Allwayin et al. 2024 (Science 384)](https://doi.org/10.1126/science.adi5550)   
-    "_Locally narrow droplet size distributions are ubiquitous in stratocumulus clouds_"
-    - [Toll et al. 2024 (Science 386)](https://doi.org/10.1126/science.adl0303)   
-    "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
-    - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4)   
-    "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
-    - [Di Girolamo 2025 (Nature 643)](https://doi.org/10.1038/s41586-025-09242-1)   
-    "_Decadal changes in atmospheric circulation detected in cloud motion vectors_"
+    - [Palmer 2020 (Nature 582)](https://doi.org/10.1038/d41586-020-01484-5): "_Short-term tests validate long-term estimates of climate change_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-020-01484-5" data-style="small_rectangle"></span>
+    - [Abbott & Cronin 2021 (Science 371)](https://doi.org/10.1126/science.abc5181): "_Aerosol invigoration of atmospheric convection through increases in humidity_":
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.abc5181" data-style="small_rectangle"></span>
+    - [Sullivan & Voigt 2021 (Nature Commun. Earth. Environ. 2)](https://doi.org/10.1038/s43247-021-00206-7): "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-021-00206-7" data-style="small_rectangle"></span>
+    - [Glassmeier et al. 2021 (Science 371)](https://doi.org/10.1126/science.abd3980): "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.abd3980" data-style="small_rectangle"></span>
+    - [Allwayin et al. 2024 (Science 384)](https://doi.org/10.1126/science.adi5550): "_Locally narrow droplet size distributions are ubiquitous in stratocumulus clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adi5550" data-style="small_rectangle"></span>
+    - [Toll et al. 2024 (Science 386)](https://doi.org/10.1126/science.adl0303): "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adl0303" data-style="small_rectangle"></span>
+    - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4): "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08192-4" data-style="small_rectangle"></span>
+    - [Di Girolamo 2025 (Nature 643)](https://doi.org/10.1038/s41586-025-09242-1): "_Decadal changes in atmospheric circulation detected in cloud motion vectors_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-025-09242-1" data-style="small_rectangle"></span>
