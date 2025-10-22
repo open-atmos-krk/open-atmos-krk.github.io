@@ -41,9 +41,38 @@ to discuss Nature and Science papers scoped around environmental and computation
 * 1880s:
     - ✔ [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0): "_Dust, Fogs, and Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023195d0" data-style="small_rectangle"></span>
+    - ✔ [Groneman 1881 (Nature 23)](https://doi.org/10.1038/023337a0): "_On Dust, Fogs, and Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/023337a0" data-style="small_rectangle"></span>
+    - ✔ [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0): "_Dust, Fogs, and Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/023384a0" data-style="small_rectangle"></span>
+* 1890s:
+    - [H. 1891 (Nature 44)](https://doi.org/10.1038/044614a0): "_Rain-making Experiments_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/044614a0" data-style="small_rectangle"></span>
+    - [Russell & Watson 1981 (Nature 45)](https://doi.org/10.1038/045010a0): "_Town Fogs and their Effects_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/045010a0" data-style="small_rectangle"></span>
+    - [Aitken 1894 (Nature 49)](https://doi.org/10.1038/049340b0): "_The Cloudy Condensation of Steam_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/049340b0" data-style="small_rectangle"></span>
+    - [Bidwell 1894 (Nature 49)](https://doi.org/10.1038/049388a0): "_The Cloudy Condensation of Steam_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/049388a0" data-style="small_rectangle"></span>
 * 1900s:
     - [Aitken 1909 (Nature 82)](https://doi.org/10.1038/082008a0): "_Atmospheric Cloudy Condensation_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/082008a0" data-style="small_rectangle"></span>
+* 1910s:
+    - [Gold 1910 (Nature 83)](https://doi.org/10.1038/083488a0): "_The Temperature Conditions in Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/083488a0" data-style="small_rectangle"></span>
+    - [Palmer 1910 (Nature 83)](https://doi.org/10.1038/083396d0): "_The Temperature Conditions within Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/083396d0" data-style="small_rectangle"></span>
+    - [Aitken 1911 (Nature 87)](https://doi.org/10.1038/087346d0): "_Rainless Thunderstorms_"
+    <span class="__dimensions_badge_embed__" data-doi=""10.1038/087346d0 data-style="small_rectangle"></span>
+    - [Rayleigh 1912 (Nature 90)](https://doi.org/10.1038/090436c0): "_Breath Figures_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/090436c0" data-style="small_rectangle"></span>
+    - [Aitken 1913 (Nature 90)](https://doi.org/10.1038/090619c0): "_Breath Figures_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/090619c0" data-style="small_rectangle"></span>
+* 1920s:
+    - [Nolan 1924 (Nature 114)](https://doi.org/10.1038/114720a0): "_Dust in the Atmosphere_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/114720a0" data-style="small_rectangle"></span>
+    - [Cohen 1929 (Nature 124)](https://doi.org/10.1038/124482c0): "_Dew: Does it Rise or Fall?_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/124482c0" data-style="small_rectangle"></span>
 * 1930s:
     - [Hogg 1931 (Nature 128)](http://doi.org/10.1038/128908b0): "_Aitken Condensation Nuclei_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/128908b0" data-style="small_rectangle"></span>
