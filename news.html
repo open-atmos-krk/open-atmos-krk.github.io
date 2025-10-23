@@ -4,7 +4,6 @@ title: News
 ---
 
     <img align="right" src="/img/conference.jpg" alt="team" class="pic" />
-    <h2>News</h2>
     <ul class="news list-unstyled">
         {% for post in site.posts limit: site.front_page_news %}
             {% include news-item.html item=post %}
