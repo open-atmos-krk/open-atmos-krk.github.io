@@ -4,7 +4,7 @@ sylwester_arabas:
     github: slayoo
     webpage: "https://slayoo.github.io"
     image: /img/people/slayoo.png
-    bio: "PhD, Physics, U. Warsaw, 2013" 
+    bio: "team lead (PhD, Physics, U. Warsaw, 2013)" 
 
 agnieszka_zaba:
     display_name: "Agnieszka Żaba"
@@ -12,7 +12,7 @@ agnieszka_zaba:
     webpage: "https://www.linkedin.com/in/agnieszka-%2525C5%2525BCaba-798742130"
     github: AgnieszkaZaba
     image: /img/people/AgnieszkaZaba.png
-    bio: "MSc, Appl. Math, AGH, 2023" 
+    bio: "ongoing PhD project (MSc in Appl. Math, AGH, 2023)" 
 
 konrad_bodzioch:
     display_name: "Konrad Bodzioch"
@@ -20,12 +20,12 @@ konrad_bodzioch:
     webpage: "https://www.linkedin.com/in/konrad-bodzioch"
     image: /img/people/kb_img.jpeg
     github: Bodzio-2
-    bio: "BEng, CS & Inteligent Systems, AGH, 2024"
+    bio: "ongoing MSc project (BEng in CS & Inteligent Systems, AGH, 2024)"
 
 gracjan_adamus:
     display_name: "Gracjan Adamus"
     role: ugrad
-    bio: "Appl. CS, AGH"
+    bio: "ongoing internship (Appl. CS, AGH)"
     webpage: "https://www.linkedin.com/in/gracjan-adamus"
     github: griger5
     image: "/img/people/GA.jpg"
@@ -36,14 +36,14 @@ daria_klimaszewska:
     webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
     github: thearia0
     image: "/img/people/thearia0.jpeg"
-    bio: "Technical Physics, AGH"
+    bio: "ongoing BEng proect (Technical Physics, AGH)"
 
 ola_strzabala:
     display_name: "Ola Strząbała"
     role: ugrad
     webpage: "https://www.linkedin.com/in/aleksandra-strz%C4%85ba%C5%82a"
     github: olastrz
-    bio: "Micro- and Nanotechnologies in Biophysics, AGH"
+    bio: "ongoing BEng project (Micro- and Nanotechnologies in Biophysics, AGH)"
 
 michal_wronski:
     display_name: "Michał Wroński"
@@ -51,12 +51,12 @@ michal_wronski:
     webpage: "https://github.com/Sfonxu"
     github: Sfonxu
     image: "/img/people/MW.jpg"
-    bio: "Micro- and Nanotechnologies in Biophysics, AGH"
+    bio: "ongoing BEng project (Micro- and Nanotechnologies in Biophysics, AGH)"
 
 emma_ware:
     display_name: "Emma Ware"
     role: alum
-    bio: "Erasmus+ at AGH (from U. California Davis), 2024/5"
+    bio: "completed Erasmus+ traineeship in 2024/25 at AGH (from U. California Davis)"
     webpage: https://emmaware.weebly.com/
     image: "/img/people/eware.jpg"
     github: emmacware
@@ -64,35 +64,35 @@ emma_ware:
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
     role: alum
-    bio: "MSc, CS & Intelligent Systems, AGH, 2025"
+    bio: "completed MSc project in 2025 (CS & Intelligent Systems, AGH)"
     webpage: "https://linkedin.com/in/pmagnu"
     github: pawelmagnu
 
 michal_kowalczyk:
     display_name: "Michał Kowalczyk"
     role: alum
-    bio: "BEng, Technical Physics, AGH, 2025"
+    bio: "completed BEng project in 2025 (Technical Physics, AGH)"
     webpage: https://www.linkedin.com/in/micha%C5%82-kowalczyk-0a8912323
     github: Caastlefox
 
 kacper_derlatka:
     display_name: "Kacper Derlatka"
     role: alum
-    bio: "MSc, CS, Jagiellonian Univ., 2023"
+    bio: "completed MSc project in 2023 (CS, Jagiellonian Univ.)"
     webpage: "https://linkedin.com/in/kacper-derlatka-262095191"
     github: Delcior
 
 oleksii_bulenok:
     display_name: "Oleksii Bulenok"
     role: alum
-    bio: "MSc, CS, Jagiellonian Univ., 2023"
+    bio: "completed MSc project in 2023 (CS, Jagiellonian Univ.)"
     webpage: "https://linkedin.com/in/abulenok"
     github: abulenok
 
 piotr_bartman:
     display_name: "Piotr Bartman-Szwarc"
     role: alum
-    bio: "MSc, CS, Jagiellonian Univ., 2020"
+    bio: "completed MSc project in 2020 (CS, Jagiellonian Univ.)"
     webpage: "https://piotr.bartman-szwarc.pl"
     github: piotrbartman
     image: /img/people/pbs.png
@@ -100,7 +100,7 @@ piotr_bartman:
 michael_olesik:
     display_name: "Michael Olesik"
     role: alum
-    bio: "MSc, Physics, Jagiellonian Univ., 2020"
+    bio: "completed MSc project in 2020 (Physics, Jagiellonian Univ.)"
     webpage: https://github.com/rlhycd
     image: /img/people/fot_mao.jpg
     github: rlhycd
