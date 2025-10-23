@@ -15,6 +15,7 @@ people:
   - ola_strzabala
   - konrad_bodzioch
   - agnieszka_zaba
+  - agnieszka_makulska
   - sylwester_arabas
 
 layout: project
