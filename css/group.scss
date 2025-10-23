@@ -52,7 +52,11 @@ a > .fa {
     text-align: justify;
     padding-top: 1.5em;
     padding-bottom: 0.5em;
-    font-size: 100%
+    font-size: 100%;
+    border-bottom-left-radius: 8.8px;
+    border-bottom-right-radius: 8.8px;
+    border-top-left-radius: 8.8px;
+    border-top-right-radius: 8.8px;
 }
 
 /* Group logo */
@@ -155,10 +159,10 @@ svg {
 img.pic {
   width: 100%;
   padding: 2em;
-  border-bottom-left-radius: 4.8px;
-  border-bottom-right-radius: 4.8px;
-  border-top-left-radius: 4.8px;
-  border-top-right-radius: 4.8px;
+  border-bottom-left-radius: 8.8px;
+  border-bottom-right-radius: 8.8px;
+  border-top-left-radius: 8.8px;
+  border-top-right-radius: 8.8px;
   background-color: white;
 }
 
@@ -188,5 +192,5 @@ img.pic {
 }
 
 .rounded-circle {
-  border-radius: 4.8px !important;
+  border-radius: 8.8px !important;
 }
