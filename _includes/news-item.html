@@ -29,20 +29,20 @@
     {% if post.image %}
 
         {% capture img %}
-            <img class="img-fluid d-block mx-auto"
+            <img class="img-fluid d-block mx-auto rounded"
                  style="{{ post.image_style }}"
                  src="{{ post.image }}">
         {% endcapture %}
 
         <div class="row">
-            <div class="col-sm-3">
+            <div class="col" style="width:150px">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
                 {% else %}
                     {{ img }}
                 {% endif %}
             </div>
-            <div class="col-sm-9">
+            <div class="col-sm-auto">
                 {{ header }}
                 {{ news }}
             </div>
