@@ -12,7 +12,7 @@ agnieszka_zaba:
     webpage: "https://www.linkedin.com/in/agnieszka-%2525C5%2525BCaba-798742130"
     github: AgnieszkaZaba
     image: /img/people/AgnieszkaZaba.png
-    bio: "Ongoing PhD project (MSc in Appl. Math, AGH, 2023)" 
+    bio: "Ongoing PhD project (prior: MSc in Applied Mathematics, AGH, 2023)" 
 
 konrad_bodzioch:
     display_name: "Konrad Bodzioch"
@@ -20,12 +20,12 @@ konrad_bodzioch:
     webpage: "https://www.linkedin.com/in/konrad-bodzioch"
     image: /img/people/kb_img.jpeg
     github: Bodzio-2
-    bio: "Ongoing MSc project (BEng in CS & Inteligent Systems, AGH, 2024)"
+    bio: "Ongoing MSc project (prior: BEng in Computer Science & Inteligent Systems, AGH, 2024)"
 
 gracjan_adamus:
     display_name: "Gracjan Adamus"
     role: ugrad
-    bio: "Ongoing internship (Appl. CS, AGH)"
+    bio: "Ongoing internship (major: Applied Computer Science, AGH)"
     webpage: "https://www.linkedin.com/in/gracjan-adamus"
     github: griger5
     image: "/img/people/GA.jpg"
@@ -36,14 +36,14 @@ daria_klimaszewska:
     webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
     github: thearia0
     image: "/img/people/thearia0.jpeg"
-    bio: "Ongoing BEng project (Technical Physics, AGH, BEng in Nanomaterials Engineering, AGH)"
+    bio: "Ongoing BEng project (major: Technical Physics, AGH; prior: BEng in Nanomaterials Engineering, AGH)"
 
 ola_strzabala:
     display_name: "Ola Strząbała"
     role: ugrad
     webpage: "https://www.linkedin.com/in/aleksandra-strz%C4%85ba%C5%82a"
     github: olastrz
-    bio: "Ongoing BEng project (Micro- and Nanotechnologies in Biophysics, AGH)"
+    bio: "Ongoing BEng project (major: Micro- and Nanotechnologies in Biophysics, AGH)"
 
 michal_wronski:
     display_name: "Michał Wroński"
@@ -51,7 +51,7 @@ michal_wronski:
     webpage: "https://github.com/Sfonxu"
     github: Sfonxu
     image: "/img/people/MW.jpg"
-    bio: "Ongoing BEng project (Micro- and Nanotechnologies in Biophysics, AGH)"
+    bio: "Ongoing BEng project (major: Micro- and Nanotechnologies in Biophysics, AGH)"
 
 emma_ware:
     display_name: "Emma Ware"
@@ -64,21 +64,21 @@ emma_ware:
 pawel_magnuszewski:
     display_name: "Paweł Magnuszewski"
     role: alum
-    bio: "Completed MSc project in 2025 (CS & Intelligent Systems, AGH)"
+    bio: "Completed MSc project in 2025 (major: Computer Science & Intelligent Systems, AGH)"
     webpage: "https://linkedin.com/in/pmagnu"
     github: pawelmagnu
 
 michal_kowalczyk:
     display_name: "Michał Kowalczyk"
     role: alum
-    bio: "Completed BEng project in 2025 (Technical Physics, AGH)"
+    bio: "Completed BEng project in 2025 (major: Technical Physics, AGH)"
     webpage: https://www.linkedin.com/in/micha%C5%82-kowalczyk-0a8912323
     github: Caastlefox
 
 agnieszka_makulska:
     display_name: "Agnieszka Makulska"
     role: alum
-    bio: "Completed summer internship in 2023 (from Univ. Warsaw)"
+    bio: "Completed summer internship in 2023 (from Physics, Univ. Warsaw)"
     webpage: https://pl.linkedin.com/in/agnieszka-makulska-b48167262
     image: "/img/people/agnieszka_m.jpg"
     github: AgnieszkaMakulska
@@ -86,7 +86,7 @@ agnieszka_makulska:
 kacper_derlatka:
     display_name: "Kacper Derlatka"
     role: alum
-    bio: "Completed MSc project in 2023 (CS, Jagiellonian Univ.)"
+    bio: "Completed MSc project in 2023 (major: Computer Science, Jagiellonian Univ.)"
     webpage: "https://linkedin.com/in/kacper-derlatka-262095191"
     image: "/img/people/KDerlatka.jpg"
     github: Delcior
@@ -94,14 +94,14 @@ kacper_derlatka:
 oleksii_bulenok:
     display_name: "Oleksii Bulenok"
     role: alum
-    bio: "Completed MSc project in 2023 (CS, Jagiellonian Univ.)"
+    bio: "Completed MSc project in 2023 (major: Computer Science, Jagiellonian Univ.)"
     webpage: "https://linkedin.com/in/abulenok"
     github: abulenok
 
 piotr_bartman:
     display_name: "Piotr Bartman-Szwarc"
     role: alum
-    bio: "Completed MSc project in 2020 (CS, Jagiellonian Univ.)"
+    bio: "Completed MSc project in 2020 (major: Computer Science, Jagiellonian Univ.)"
     webpage: "https://piotr.bartman-szwarc.pl"
     github: piotrbartman
     image: /img/people/pbs.png
@@ -109,7 +109,7 @@ piotr_bartman:
 michael_olesik:
     display_name: "Michael Olesik"
     role: alum
-    bio: "Completed MSc project in 2020 (Physics, Jagiellonian Univ.)"
+    bio: "Completed MSc project in 2020 (major: Physics, Jagiellonian Univ.)"
     webpage: https://github.com/rlhycd
     image: /img/people/fot_mao.jpg
     github: rlhycd
