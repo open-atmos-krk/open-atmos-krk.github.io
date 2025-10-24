@@ -35,14 +35,14 @@
         {% endcapture %}
 
         <div class="row justify-content-start">
-            <div class="col" style="min-width:160px">
+            <div class="col" style="width:160px">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
                 {% else %}
                     {{ img }}
                 {% endif %}
             </div>
-            <div class="col" style="min-width:666px">
+            <div class="col" style="min-width:500px">
                 {{ header }}
                 {{ news }}
             </div>
