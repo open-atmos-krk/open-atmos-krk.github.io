@@ -3,7 +3,6 @@ layout: post
 shortnews: true
 icon: newspaper-o
 image: /img/euroscipy_logo.jpg
-image_style: "max-height: 150px; max-width: 150px"
 ---
 
 During the <a href="https://archive.euroscipy.org/2025">EuroSciPy 2025 conference</a> at AGH in Kraków,
