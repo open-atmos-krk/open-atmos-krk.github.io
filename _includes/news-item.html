@@ -30,12 +30,12 @@
 
         {% capture img %}
             <img class="rounded"
-                 style="width:100px; height:auto; padding:10px"
+                 style="width:100px; height:auto; margin:10px"
                  src="{{ post.image }}">
         {% endcapture %}
 
         <div class="d-flex align-items-start">
-            <div class="flex-shrink-0" style="width:100px">
+            <div class="flex-shrink-0">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
                 {% else %}
