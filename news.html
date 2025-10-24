@@ -3,7 +3,7 @@ layout: default
 title: News
 ---
 
-    <img align="right" src="/img/conference.jpg" alt="team" class="pic" />
+    <img src="/img/conference.jpg" alt="team" class="pic float-end ms-3" />
     <ul class="news list-unstyled">
         {% for post in site.posts limit: site.front_page_news %}
             {% include news-item.html item=post %}
