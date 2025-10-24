@@ -35,7 +35,7 @@
         {% endcapture %}
 
         <div class="row justify-content-start">
-            <div class="col" style="width:160px">
+            <div class="col-auto">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
                 {% else %}
@@ -46,7 +46,7 @@
                 {{ header }}
                 {{ news }}
             </div>
-            <div class="col">
+            <div class="col flex-grow-1">
             </div>
         </div>
      {% else %}
