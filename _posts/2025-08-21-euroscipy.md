@@ -11,5 +11,5 @@ During the <a href="https://archive.euroscipy.org/2025">EuroSciPy 2025 conferenc
 <b>Ola Strząbała</b> presented a poster on "<em>Paraview via Python on Github CI</em>" and 
   <b>Michał Wroński</b> presented a poster on "<em>Numba-MPI &amp; PyMPDATA: JIT-compilation and multi-threading for high performance computing in Python</em>".
 <p>
-  <img src="/img/euroscipy.jpg" alt="Ola and Michał presenting posters" style="width: 100%" />
+  <img src="/img/euroscipy.jpg" alt="Ola and Michał presenting posters" style="width: 100%; padding: 10px" />
 </p>
