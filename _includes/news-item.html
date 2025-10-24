@@ -34,7 +34,7 @@
                  src="{{ post.image }}">
         {% endcapture %}
 
-        <div class="row">
+        <div class="row justify-content-start">
             <div class="col" style="width:150px">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
@@ -42,7 +42,7 @@
                     {{ img }}
                 {% endif %}
             </div>
-            <div class="col-sm-auto">
+            <div class="col-9">
                 {{ header }}
                 {{ news }}
             </div>
