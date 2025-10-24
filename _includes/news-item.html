@@ -29,13 +29,13 @@
     {% if post.image %}
 
         {% capture img %}
-            <img class="img-fluid rounded"
-                 style="width:100px"
+            <img class="rounded"
+                 style="width:100px; height:auto"
                  src="{{ post.image }}">
         {% endcapture %}
 
         <div class="d-flex align-items-start">
-            <div class="flex-shrink-0" style="width:125px">
+            <div class="flex-shrink-0 me-3" style="width:100px">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
                 {% else %}
