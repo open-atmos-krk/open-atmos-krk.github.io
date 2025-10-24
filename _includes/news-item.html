@@ -34,19 +34,17 @@
                  src="{{ post.image }}">
         {% endcapture %}
 
-        <div class="row justify-content-start">
-            <div class="col-auto">
+        <div class="d-flex">
+            <div style="width:160px">
                 {% if post.image_link %}
                     <a href="{{ post.image_link }}">{{ img }}</a>
                 {% else %}
                     {{ img }}
                 {% endif %}
             </div>
-            <div class="col" style="min-width:550px">
+            <div class="flex-grow-1">
                 {{ header }}
                 {{ news }}
-            </div>
-            <div class="col flex-grow-1">
             </div>
         </div>
      {% else %}
