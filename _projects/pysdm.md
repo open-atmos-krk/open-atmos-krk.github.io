@@ -12,7 +12,7 @@ people:
   - piotr_bartman
   - oleksii_bulenok
   - emma_ware
-  - ola_strzabala
+  - aleksandra_strzabala
   - konrad_bodzioch
   - agnieszka_zaba
   - agnieszka_makulska

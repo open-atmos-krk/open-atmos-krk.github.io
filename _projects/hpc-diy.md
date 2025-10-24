@@ -10,11 +10,13 @@ people:
   - gracjan_adamus
   - michal_wronski
   - kacper_derlatka
+  - aleksandra_strzabala
+  - daria_klimaszewska
   - sylwester_arabas
 
 layout: project
 image: "/img/magritte.jpg"
-last-updated: 2025-10-19
+last-updated: 2025-10-24
 ---
 
 Some preliminary text.
