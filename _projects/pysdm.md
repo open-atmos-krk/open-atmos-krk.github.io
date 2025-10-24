@@ -23,3 +23,8 @@ no-link: true
 last-updated: 2016-11-11
 image: "/img/logo_pysdm.png"
 ---
+
+<h3>Potential MSc projects</h3>
+<ul>
+  <li>distributed-memory parallelism for PySDM using numba-mpi</li>
+</ul>
