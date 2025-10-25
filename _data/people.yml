@@ -120,11 +120,11 @@ you_grad:
     role: grad
     bio: Interested in joining our team? Reach out!
     webpage: "mailto:sylwester.arabas@agh.edu.pl" 
-    image: /img/people/join_f.jpg
+    image: /img/people/join.jpg
 
 you_ugrad:
     display_name: "You?"
     role: ugrad
     bio: Interested in joining our team? Reach out!
     webpage: "mailto:sylwester.arabas@agh.edu.pl" 
-    image: /img/people/join_m.jpg
+    image: /img/people/join.jpg
