@@ -118,7 +118,7 @@ michael_olesik:
 you_faculty:
     display_name: "You?"
     role: faculty
-    bio: Interested in a postdoc in Kraków? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
+    bio: Interested in a postdoctoral research role at AGH in Kraków? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
     image: /img/people/join.jpg
 
 you_grad:
