@@ -17,19 +17,21 @@ image: "/img/short_course.jpg"
 last-updated: 2025-10-25
 ---
 
-## Polish edition of the Rogers & Yau <em>Short course on cloud physics</em>
+## Polish edition of the Rogers & Yau "<em>Short course on cloud physics</em>"
 
 Our flagship outreach project! 
-<a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">Published in 2023 and available on bookstore shelves (as well as for purchase online 
-  either as an e-book or hard copy)</a>.
-The one and only (to date) book on cloud physics published in Polish language. 
+<a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">Published in 2023 and available in bookstores and online (as both an e-book and a hard copy)</a>.
+The first and, so far, the only book devoted exclusively to cloud physics published in the Polish language. 
 
 Kudos to <a href="https://www.linkedin.com/in/rafal-korycinski-15116027/">Rafał Koryciński</a>
-  for an amazing job in translating the book into Polish!
-Kudos to <a href="https://matuszko.wordpress.com/">Dorota Matuszko</a> 
-  for the editorial work and getting us connected with the <a href="https://wuj.pl/">Jagiellonian University Press</a>,
-  which did an amazing job in all legal and practical matters.
-Kudos to <a href="https://www.linkedin.com/in/marta-jaszczuk-8594b0178/">Marta Jaszczuk</a> for designing the cover.
+  for his excellent work translating the book into Polish,
+  to <a href="https://matuszko.wordpress.com/">Dorota Matuszko</a> 
+  for her editorial guidance and for connecting us with <a href="https://wuj.pl/">Jagiellonian University Press</a>,
+  which handled all legal, practical and technical matters superbly, and to
+  <a href="https://www.linkedin.com/in/marta-jaszczuk-8594b0178/">Marta Jaszczuk</a> her sleek cover design, which we greatly appreciate.
+The entire book was typeset in La<span style="position: relative; top: -0.3em; font-size: 80%;">T</span><span style="text-transform: uppercase;">e</span>X
+  by our team — many thanks to the La<span style="position: relative; top: -0.3em; font-size: 80%;">T</span><span style="text-transform: uppercase;">e</span>X
+  community for making scientific typesetting possible!
 
 ## Wikipedia articles
 
