@@ -115,6 +115,12 @@ michael_olesik:
     image: /img/people/fot_mao.jpg
     github: rlhycd
 
+you_faculty:
+    display_name: "You?"
+    role: faculty
+    bio: Interested in a postdoc in Kraków? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
+    image: /img/people/join.jpg
+
 you_grad:
     display_name: "You?"
     role: grad
