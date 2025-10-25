@@ -8,6 +8,7 @@ description: |
 people:
   - agnieszka_zaba
   - michal_wronski
+  - pawel_magnuszewski
   - sylwester_arabas
 
 layout: project
