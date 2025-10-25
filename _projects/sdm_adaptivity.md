@@ -1,5 +1,5 @@
 ---
-title: SDM adaptive timestepping
+title: SDM Adaptive Timestepping
 subtitle: <a href="https://arxiv.org/abs/2509.05536">arXiv:2509.05536</a>
 
 description: |

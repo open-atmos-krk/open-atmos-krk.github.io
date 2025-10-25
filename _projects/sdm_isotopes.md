@@ -1,5 +1,5 @@
 ---
-title: SDM meets isotopes
+title: SDM meets Isotopes
 
 description: |
   The goal of the project is to develop a novel particle-based Monte-Carlo cloud microphysics model 
