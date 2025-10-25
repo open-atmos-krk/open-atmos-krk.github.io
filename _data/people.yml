@@ -130,5 +130,5 @@ you_grad:
 you_ugrad:
     display_name: "You?"
     role: ugrad
-    bio: Interested in an internship or BEng project with us? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
+    bio: Internship or BEng project with us? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
     image: /img/people/join.jpg
