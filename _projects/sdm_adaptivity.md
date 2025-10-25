@@ -7,8 +7,8 @@ description: |
     for the SDM Monte-Carlo coagulation algorithm.
 
 people:
-  - emma_ware
   - piotr_bartman
+  - emma_ware
   - sylwester_arabas
 
 layout: project
