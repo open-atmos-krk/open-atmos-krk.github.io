@@ -1,5 +1,5 @@
 ---
-title: Cloud Phyics Outreach
+title: Cloud Physics Outreach
 subtitle: <a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">wuj.pl/ksiazka/zarys-fizyki-chmur</a>
 
 description: |
@@ -8,6 +8,8 @@ description: |
 
 people:
   - daria_klimaszewska
+  - emma_ware
+  - pawel_magnuszewski
   - sylwester_arabas
 
 layout: project
@@ -29,3 +31,13 @@ Kudos to <a href="https://matuszko.wordpress.com/">Dorota Matuszko</a>
   which did an amazing job in all legal and practical matters.
 Kudos to <a href="https://www.linkedin.com/in/marta-jaszczuk-8594b0178/">Marta Jaszczuk</a> for designing the cover.
 
+## Wikipedia articles
+
+We've had major contributions to the following articles:
+- <a href="https://en.wikipedia.org/wiki/Draft:Super_droplet_method">Super droplet method (in English) - draft!</a>
+- <a href="https://en.wikipedia.org/wiki/Draft:MPDATA">MPDATA (in English) - draft!</a>
+- <a href="https://pl.wikipedia.org/wiki/Isztar_Zawadzki">Isztar Zawadzki (in Polish)</a>
+
+## Cloud-physics themes examples in general-purpose open-source packages
+
+Stay tuned! (working on parcel-model example for <a href="https://docs.sciml.ai/">DifferentialEquations.jl</a>).
