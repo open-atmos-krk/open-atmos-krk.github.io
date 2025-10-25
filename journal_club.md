@@ -196,7 +196,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779): "_Smoking Rain Clouds over the Amazon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1092779" data-style="small_rectangle"></span>
     - [Koren et al. 2004 (Sciece 303)](https://doi.org/10.1126/science.1089424): "_Measurement of the Effect of Amazon Smoke on Inhibition of Cloud Formation_"
-    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.108942" data-style="small_rectangle"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1089424" data-style="small_rectangle"></span>
     - [Fridlind et al. 2004 (Science 304)](https://doi.org/10.1126/science.1094947): "_Evidence for the Predominance of Mid-Tropospheric Aerosols as Subtropical Anvil Cloud Nuclei_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1094947" data-style="small_rectangle"></span>
     - [Penner et al. 2004 (Nature 427)](https://doi.org/10.1038/nature02234): "_Observational evidence of a change in radiative forcing due to the indirect aerosol effect_"
