@@ -29,8 +29,10 @@ Kudos to <a href="https://www.linkedin.com/in/rafal-korycinski-15116027/">Rafał
   for her editorial guidance and for connecting us with <a href="https://wuj.pl/">Jagiellonian University Press</a>,
   which handled all legal, practical and technical matters superbly, and to
   <a href="https://www.linkedin.com/in/marta-jaszczuk-8594b0178/">Marta Jaszczuk</a> her sleek cover design, which we greatly appreciate.
-The entire book was typeset in La<span style="position: relative; top: -0.3em; font-size: 80%;">T</span><span style="text-transform: uppercase;">e</span>X
-  by our team — many thanks to the La<span style="position: relative; top: -0.3em; font-size: 80%;">T</span><span style="text-transform: uppercase;">e</span>X
+The entire book was typeset in 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX logo" style="height: 1em; vertical-align: -0.2ex;">
+  by our team — many thanks to the 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX logo" style="height: 1em; vertical-align: -0.2ex;">
   community for making scientific typesetting possible!
 
 ## Wikipedia articles
