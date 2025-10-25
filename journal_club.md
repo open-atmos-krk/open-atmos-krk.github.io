@@ -183,6 +183,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.287.5459.1793" data-style="small_rectangle"></span>
     - [Ackerman 2000 (Science 288)](https://doi.org/10.1126/science.288.5468.1042): "_Reduction of Tropical Cloudiness by Soot_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.288.5468.1042" data-style="small_rectangle"></span>
+    - [Griffith et al. 2000 (Science 300)](https://doi.org/10.1126/science.290.5491.509): "_Detection of Daily Clouds on Titan_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.290.5491.509" data-style="small_rectangle"></span>
     - [Rosenfeld and Woodley 2000 (Nature 405)](https://doi.org/10.1038/35013030): "_Deep convective clouds with sustained supercooled liquid water down to -37.5 °C_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/35013030" data-style="small_rectangle"></span>
     - [Liu & Daum 2002 (Nature 419)](http://doi.org/10.1038/419580a): "_Indirect warming effect from dispersion forcing_"
@@ -193,6 +195,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1073869" data-style="small_rectangle"></span>
     - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779): "_Smoking Rain Clouds over the Amazon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1092779" data-style="small_rectangle"></span>
+    - [Koren et al. 2004 (Sciece 303)](https://doi.org/10.1126/science.1089424): "_Measurement of the Effect of Amazon Smoke on Inhibition of Cloud Formation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.108942" data-style="small_rectangle"></span>
     - [Fridlind et al. 2004 (Science 304)](https://doi.org/10.1126/science.1094947): "_Evidence for the Predominance of Mid-Tropospheric Aerosols as Subtropical Anvil Cloud Nuclei_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1094947" data-style="small_rectangle"></span>
     - [Penner et al. 2004 (Nature 427)](https://doi.org/10.1038/nature02234): "_Observational evidence of a change in radiative forcing due to the indirect aerosol effect_"
@@ -203,6 +207,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/438746a" data-style="small_rectangle"></span>
     - [Dusek et al. 2006 (Science 312)](https://doi.org/10.1126/science.1125261): "_Size matters more than chemistry for cloud-nucleating ability of aerosol particles_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1125261" data-style="small_rectangle"></span>
+    - [Abbatt et al. 2006 (Science 313)](https://doi.org/10.1126/science.1129726): "_Solid Ammonium Sulfate Aerosols as Ice Nuclei: A Pathway for Cirrus Cloud Formation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1129726" data-style="small_rectangle"></span>
     - [Peter et al. 2006 (Science 314)](https://doi.org/10.1126/science.1135199): "_When Dry Air Is Too Humid_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1135199" data-style="small_rectangle"></span>
     - [Worden et al. 2007 (Nature 445)](http://doi.org/10.1038/nature05508): "_Importance of rain evaporation and continental convection in the tropical water cycle_"
@@ -261,6 +267,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     - ✔ [Rosenfeld et al. 2019 (Science 363)](http://doi.org/10.1126/science.aav0566): "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aav0566" data-style="small_rectangle"></span>
 * 2020s
+    - [Fedorova et al. 2020 (Science 367)](https://doi.org/10.1126/science.aay9522): "_Stormy water on Mars: The distribution and saturation of atmospheric water during the dusty season_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aay9522" data-style="small_rectangle"></span>
     - [Palmer 2020 (Nature 582)](https://doi.org/10.1038/d41586-020-01484-5): "_Short-term tests validate long-term estimates of climate change_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-020-01484-5" data-style="small_rectangle"></span>
     - [Abbott & Cronin 2021 (Science 371)](https://doi.org/10.1126/science.abc5181): "_Aerosol invigoration of atmospheric convection through increases in humidity_":
@@ -275,5 +283,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adl0303" data-style="small_rectangle"></span>
     - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4): "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08192-4" data-style="small_rectangle"></span>
+    - [Zhang et al. 2024 (Science 385)](https://doi.org/10.1126/science.adn2961): "_Stratospheric air intrusions promote global-scale new particle formation_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adn2961" data-style="small_rectangle"></span>
     - [Di Girolamo 2025 (Nature 643)](https://doi.org/10.1038/s41586-025-09242-1): "_Decadal changes in atmospheric circulation detected in cloud motion vectors_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-025-09242-1" data-style="small_rectangle"></span>
