@@ -1,6 +1,6 @@
 ---
 title: MPDATA&thinsp;meets&thinsp;Black&dash;Scholes
-status: inactive
+last-updated: 2025-10-23
 
 description: |
   We explore a robust numerical method for option pricing that recasts the Black-Merton-Scholes equation 
