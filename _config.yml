@@ -20,9 +20,6 @@ roles:
   - key: alum
     name: Alumni (@<a href="https://agh.edu.pl/en">agh.edu.pl</a> &amp; @<a href="https://www.uj.edu.pl/en">uj.edu.pl</a>)
 
-# Number of news stories on the front page.
-front_page_news: 100
-
 # Base pathname for links.
 base: ''
 
