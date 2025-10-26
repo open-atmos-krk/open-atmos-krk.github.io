@@ -1,4 +1,4 @@
-title: open-atmos-krk team
+title: open-atmos-krk team at AGH University of Krakow
 url: http://open-atmos-krk.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -18,7 +18,7 @@ roles:
   - key: ugrad
     name: Undergraduate Students (@<a href="https://fis.agh.edu.pl/en">fis.agh.edu.pl</a>)
   - key: alum
-    name: Alumni (@<a href="https://www.uj.edu.pl/en">uj.edu.pl</a> &amp; @<a href="https://agh.edu.pl/en">agh.edu.pl</a>)
+    name: Alumni (@<a href="https://agh.edu.pl/en">agh.edu.pl</a> &amp; @<a href="https://www.uj.edu.pl/en">uj.edu.pl</a>)
 
 # Number of news stories on the front page.
 front_page_news: 10
