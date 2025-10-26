@@ -119,16 +119,16 @@ you_faculty:
     display_name: "You?"
     role: faculty
     bio: Interested in a postdoctoral research role at AGH in Kraków? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
-    image: /img/people/join.jpg
+    image: /img/people/join_a.jpg
 
 you_grad:
     display_name: "You?"
     role: grad
-    bio: Interested in joining our team for an MSc or PhD project? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
-    image: /img/people/join.jpg
+    bio: Interested in joining our team for an MSc or PhD project — or have new research ideas to explore? <a href="mailto:sylwester.arabas@agh.edu.pl">Get in touch with us!</a>
+    image: /img/people/join_b.jpg
 
 you_ugrad:
     display_name: "You?"
     role: ugrad
-    bio: Internship or BEng project with us? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
-    image: /img/people/join.jpg
+    bio: Looking for an internship or BEng project with us? Check out <a href="/projects.html">our projects</a> and <a href="mailto:sylwester.arabas@agh.edu.pl">reach out!</a>
+    image: /img/people/join_c.jpg
