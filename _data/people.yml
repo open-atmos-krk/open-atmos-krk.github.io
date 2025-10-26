@@ -76,11 +76,18 @@ michal_kowalczyk:
     webpage: https://www.linkedin.com/in/micha%C5%82-kowalczyk-0a8912323
     github: Caastlefox
 
+weronika_romaniec:
+    display_name: "Weronika Romaniec"
+    role: alum
+    bio: "Completed a (visual identity design) summer internship at AGH in 2024 (from Social Informatics, AGH)"
+    webpage: https://www.linkedin.com/in/weronika-romaniec-09205a237
+    github: NeKo2903
+
 agnieszka_makulska:
     display_name: "Agnieszka Makulska"
     role: alum
-    bio: "Completed summer internship at AGH in 2023 (from Physics, Univ. Warsaw)"
-    webpage: https://pl.linkedin.com/in/agnieszka-makulska-b48167262
+    bio: "Completed a summer internship at AGH in 2023 (from Physics, Univ. Warsaw)"
+    webpage: https://www.linkedin.com/in/agnieszka-makulska-b48167262
     image: "/img/people/agnieszka_m.jpg"
     github: AgnieszkaMakulska
 
