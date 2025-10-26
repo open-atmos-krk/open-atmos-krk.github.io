@@ -131,7 +131,7 @@ you_faculty:
 you_grad:
     display_name: "You?"
     role: grad
-    bio: Interested in joining our team for an MSc or PhD project — or have new research ideas to explore? <a href="mailto:sylwester.arabas@agh.edu.pl">Get in touch with us!</a>
+    bio: Interested in joining our team for an MSc or PhD project? <a href="mailto:sylwester.arabas@agh.edu.pl">Get&nbsp;in&nbsp;touch&nbsp;with&nbsp;us!</a>
     image: /img/people/join_b.jpg
 
 you_ugrad:
