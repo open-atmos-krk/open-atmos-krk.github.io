@@ -13,6 +13,7 @@ people:
   - oleksii_bulenok
   - emma_ware
   - aleksandra_strzabala
+  - sanket_bhiogade
   - konrad_bodzioch
   - agnieszka_zaba
   - agnieszka_makulska
