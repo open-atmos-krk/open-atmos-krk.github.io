@@ -25,12 +25,23 @@ image: "/img/logo_pympdata.png"
 </script>
 ## pure-python, open-source implementation of the MPDATA algorithm
 <b>PyMPDATA</b> is a high-perforamance Numba-accelerated Python package implementing the <it>MPDATA</it> algorithm by [Smolarkiewicz et al.](#papers-on-the-mpdata-algorithm) 
-  aimed at solving generalised advection-diffusion PDEs used in geophysical fluid dynamics and beyond.
+  aimed at solving generalised advection-diffusion PDEs in geophysical fluid dynamics and beyond.
 It numerically solves equations of form: <br> <center>
   $$
-  \partial_t (G\psi) + \nabla \cdot (Gu\psi) + \mu \Delta (G\psi) = 0
+  \partial_t (G\psi) + \nabla \cdot (G\vec{u}\psi) + \mu \Delta (G\psi) = 0
   $$ </center>
-  where $$\psi$$ is the advectee, $$u$$ is the advector and the $$G$$ factor describes the coordinate transformation. The last term is related to Fickian diffiusion and is optional. 
+  where $$\psi$$ is the advectee, $$u$$ is the advector and the $$G$$ factor describes the coordinate transformation. 
+The last term is related to Fickian diffiusion and is optional. 
+The crux of the method lies in iterative application of the [upwind scheme](https://en.wikipedia.org/wiki/Upwind_scheme). 
+The first iteration employs the advective velocity $$\vec{u}$$, while each subsequent iteration employs a so-called antidiffusive velocity which 
+  corrects solution from prior iteration reducing the [numerical diffusion](https://en.wikipedia.org/wiki/Numerical_diffusion). 
+The antidiffusive velocities are formulated through modified equation analysis of the upwind scheme and feature cross-dimensional dependencies 
+  (i.e., applying MPDATA in multiple dimensions is not equivalent to application of one-dimensional MPDATA in all dimensions), 
+  the scheme is thus not [dimensionally split](https://en.wikipedia.org/wiki/Strang_splitting), hence "M" in the algorithm name. 
+Since each iteration of the scheme constitutes a [forward-in-time](https://en.wikipedia.org/wiki/Explicit_and_implicit_methods) upwind pass, the scheme inherits characteristics of the upwind scheme: 
+  [CFL stability criterion](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition), conservativeness, embarrassingly parallel domain decomposition, and sign-preservation. 
+For non-negative fields $$\psi$$, sign-preservation translates to [positive definiteness](https://en.wikipedia.org/wiki/Positive-definite_function), hence the "PD" in the algorithm name. 
+Application of the corrective iterations improves scheme [convergence rate](https://en.wikipedia.org/wiki/Rate_of_convergence) compared with first-order upwind. 
 <center>
 <div style="display:flex; align-items:center; justify-content: center;">
 <figure>
