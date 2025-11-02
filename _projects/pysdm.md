@@ -33,10 +33,18 @@ The package features two number-crunching backends: multi-threaded CPU backend u
   and a CUDA GPU backend using <a href="https://github.com/fynv/ThrustRTC?tab=readme-ov-file#thrustrtc">ThrustRTC</a>
   and <a href="https://github.com/fynv/CURandRTC?tab=readme-ov-file#curandrtc">CURandRTC</a>.
 PySDM ships with a set of examples shipped as Jupyter-notebooks, and covering simulation setups spanning
-  box-model cases, adiabatic parcel simulations, single-column and two-dimensional kinematic frameworks.
+  box-model cases, adiabatic parcel simulations, single-column and two-dimensional kinematic frameworks (see animation below).
 <a href="https://open-atmos.github.io/PySDM/">Documentation of the package</a> covers the API as well as 
   tutorials exemplifying usage of PySDM from Python, Julia and Matlab.
+Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on GitHub</a>.
 </p>
+
+<figure>
+    <p style="margin-bottom:50px"> </p>
+    <img height="400px" src="https://github.com/open-atmos/PySDM/releases/download/tip/docs_intro_animation_ubuntu-24.04.gif" />
+	<p style="margin-bottom:50px"> </p>
+	<figcaption>Two-dimensional prescribed-flow warm-rain simulation using PySDM</figcaption>
+</figure>
 
 <h2>Release history and papers on PySDM</h2>
 <p>PySDM v1 constituted the <a href="https://www.ap.uj.edu.pl/diplomas/141204/">MSc thesis of Piotr Bartman</a> who had
