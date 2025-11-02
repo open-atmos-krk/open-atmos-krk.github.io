@@ -86,3 +86,4 @@ The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its
  - [immersed boundary method](https://en.wikipedia.org/wiki/Immersed_boundary_method) with PyMPDATA
  - [fully third-order MPDATA](https://doi.org/10.1016/j.jcp.2018.01.005) variant for PyMPDATA
  - coupling PyMPDATA's Boussinesq solver with [PySDM](https://open-atmos-krk.github.io/projects/pysdm.html) to simulate convective cloud
+ - [shallow-water equations](https://en.wikipedia.org/wiki/Shallow_water_equations) on a sphere using PyMPDATA
