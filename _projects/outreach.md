@@ -3,8 +3,8 @@ title: Cloud Physics Outreach
 subtitle: <a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">wuj.pl/ksiazka/zarys-fizyki-chmur</a>
 
 description: |
-  We engage in public outreach activities aimed at popularising cloud physics,
-    as well as filling gaps in availability of academic materials in Polish language.
+  We engage in public outreach activities aimed at popularising cloud physics and
+    addressing gaps in the availability of academic materials in both Polish and English.
 
 people:
   - daria_klimaszewska
