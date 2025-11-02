@@ -23,7 +23,7 @@ image: "/img/logo_pympdata.png"
 <script type="text/javascript" async
      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-## pure-python, open-source implementation of the MPDATA algorithm
+## pure-Python, open-source implementation of the MPDATA algorithm
 <b>PyMPDATA</b> is a high-perforamance Numba-accelerated Python package implementing the <it>MPDATA</it> algorithm by [Smolarkiewicz et al.](#papers-on-the-mpdata-algorithm) 
   aimed at solving generalised advection-diffusion PDEs in geophysical fluid dynamics and beyond.
 It numerically solves equations of form: <br> <center>
