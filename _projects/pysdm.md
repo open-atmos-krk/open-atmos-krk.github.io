@@ -59,7 +59,7 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
    <a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025 arXiv preprint</a>.
 </p>
 
-<h2>Papers usng PySDM</h2>
+<h2>Papers using PySDM</h2>
 <ul>
   <li><a href="https://doi.org/10.1029/2022MS002994">Bieli et al. 2022</a>: "<em>An Efficient Bayesian Approach to Learning Droplet Collision Kernels: Proof of Concept Using “Cloudy,” a New n-Moment Bulk Microphysics Scheme</em>"</li>
   <li><a href="https://doi.org/10.1029/2022MS003186">de Jong e al. 2022</a>: "<em>Spanning the Gap From Bulk to Bin: A Novel Spectral Microphysics Method</em>"</li>
