@@ -81,7 +81,7 @@ The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its
  - [Derlatka et al. 2024 (SoftwareX 28)](https://doi.org/10.1016/j.softx.2024.101897): "<em>Numba-MPI v1.0: Enabling MPI communication within Numba/LLVM JIT-compiled Python code</em>"
  - [Magnuszewski et al. 2025 (arXiv)](https://doi.org/10.48550/arXiv.2505.24435): "<em> Path-dependent option pricing with two-dimensional PDE using MPDATA</em>"
 
-## Potential MSc projects
+## Potential BEng/MSc projects
  - [traffic flow](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model) dynamics with PyMPDATA
  - [immersed boundary method](https://en.wikipedia.org/wiki/Immersed_boundary_method) with PyMPDATA
  - [fully third-order MPDATA](https://doi.org/10.1016/j.jcp.2018.01.005) variant for PyMPDATA

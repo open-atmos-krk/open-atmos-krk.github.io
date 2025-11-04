@@ -70,10 +70,11 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <li><a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025</a>: "<em>Adaptive time-stepping for the Super-Droplet Method Monte Carlo collision-coalescence scheme</em>"</li>
 </ul>
 
-<h2>Potential MSc projects</h2>
+<h2>Potential BEng/MSc projects</h2>
 <ul>
   <li>Distributed-memory parallelism for PySDM using <a href="https://doi.org/10.1016/j.softx.2024.101897">Numba-MPI</a></li>
   <li>Brownian coagulation in PySDM and development of aerosol-related examples</li>
   <li>Super-particle attribute initialisation using <a href="https://en.wikipedia.org/wiki/Copula_(statistics)">copulae</a></li>
   <li>Immersion freezing and coagulation: effective freezing-temperature spectra under singular and time-dependent models</li>
+  <li>Venusian cloud particle-based microphysics (e.g., using the models introduced in <a href="https://doi.org/10.1029/2025JE009177">Ando et al. 2025</a>)</li>
 </ul>
