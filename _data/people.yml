@@ -12,7 +12,7 @@ agnieszka_zaba:
     webpage: "https://www.linkedin.com/in/agnieszka-%2525C5%2525BCaba-798742130"
     github: AgnieszkaZaba
     image: /img/people/AgnieszkaZaba.png
-    bio: "Ongoing PhD project co-advised with [Mirosław Zimnoch](http://aurora.fis.agh.edu.pl/~zimnoch/) (prior: MSc in Mathematics, AGH, 2023, BEng in Applied Mathematics, Wrocław University of Science and Technology, 2018)"
+    bio: 'Ongoing PhD project co-advised with <a href="http://aurora.fis.agh.edu.pl/~zimnoch/">Mirosław Zimnoch</a> (prior: MSc in Mathematics, AGH, 2023, BEng in Applied Mathematics, Wrocław University of Science and Technology, 2018)'
 
 konrad_bodzioch:
     display_name: "Konrad Bodzioch"
