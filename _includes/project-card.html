@@ -20,9 +20,9 @@
             </a>
         {% endif %}
         {% if project.notitle != true %}
-            <h5 class="card-title">
+            <h5 class="card-title"><a href="{{ proj-url }}">
                 {{  project.title }}
-            </h5>
+            </a></h5>
         {% endif %}
         {% if project.subtitle != null and project.subtitle != "" %}
             <h6 class="card-subtitle mb-2 text-muted">
