@@ -9,17 +9,17 @@ people:
   - agnieszka_zaba
   - sylwester_arabas
 
-image: "img/isotopes.jpg"
+image: "/img/isotopes.jpg"
 layout: project
 last-updated: 2025-10-19
 ---
 
 ## Modelling isotopic signatures in precipitation using particle-based cloud microphysics
 We model the evolution of isotopic composition of water droplets and ambient vapour.
-Our focus is on stable water isotopologues: $\mathrm{H_2O},$ $\mathrm{HDO},$
-  $\mathrm{H_2^{18}O},$ $\mathrm{H_2^{17}O}$.
+Our focus is on stable water isotopologues: H<sub>2</sub>O, <a href="https://en.wikipedia.org/wiki/Semiheavy_water">HDO</a>, 
+  <a href="https://en.wikipedia.org/wiki/Heavy_water#Heavy-oxygen_water">H<sub>2</sub><sup>18</sup>O, H<sub>2</sub><sup>17</sup>O</a>.
 Among considered processes are the diffusional and collisional growth/breakage 
-  of droplets and the concurrent isotopic fractionation (including kinetic effects).
+  of droplets and the concurrent <a href="https://en.wikipedia.org/wiki/Kinetic_fractionation">isotopic kinetic fractionation</a>.
 
 We use the Lagrangian particle-based approach for modelling cloud microphysics.
 Particle-resolved formulation, using the so-called super-droplet Monte-Carlo method, 
@@ -32,11 +32,11 @@ Among the attributes of super-particles are such extensive quantities
   as mass of water per droplet,
   and the multiplicity, i.e. the number of real-world particles 
   represented by a computational super-particle.
-In this project, the set of attributes is extended to include: moles of deuterium 
-  $(\mathrm{D})$, oxygen-17 $(^{17}\mathrm{O})$, and oxygen-18 $(^{18}\mathrm{O})$.
+In this project, the set of attributes is extended to include: moles of deuterium
+(D), oxygen-17 (<sup>17</sup>O), and oxygen-18 (<sup>18</sup>O}.
 The evolution in time of a droplet water isotopic composition is driven by
   kinetically limited diffusion processes (condensation, evaporation, 
-  deposition, sublimation), and is further modulated by collision-triggered coalescence and breakage.
+  deposition, sublimation), and is further modulated by collision-triggered <a href="https://en.wikipedia.org/wiki/Coalescence_(physics)">coalescence</a> and breakage.
 
 Defining and prototyping a new model of the above phenomena, 
   we use [PySDM](https://open-atmos-krk.github.io/projects/pysdm.html) -
