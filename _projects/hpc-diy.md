@@ -23,6 +23,15 @@ last-updated: 2025-10-25
 We are building, from scratch, a multi-node GPU-enabled computing cluster
   using Raspberry Pi hardware, and open-source software stack (Linux/Slurm/OpenMPI/...).
 
+## Compute nodes
+
+...
+
+<figure>
+    <img width="400px" src="/img/hpc-diy/compute_nodes.jpg">
+    <figcaption></figcaption>
+</figure>
+
 ## Access/storage node
 The role of access node is held by a single-plate Raspberry Pi 5 computer with built-in 16GB RAM memory and 4 core CPU ARM 2.4 GHz. 
 The power is supplied via USB. 
@@ -51,11 +60,11 @@ Grounding layout uses a dedicated copper plate and cabling connecting the chasis
     <figcaption>Power supply and grounding layout with ventilation fan, thermostat and temperature sensor</figcaption>
 </figure>
 
-## Compute nodes
+## Chasis
 
 ...
 
 <figure>
-    <img width="400px" src="/img/hpc-diy/compute_nodes.jpg">
+    <img width="400px" src="/img/hpc-diy/chasis.jpg">
     <figcaption></figcaption>
 </figure>
