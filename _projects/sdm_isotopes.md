@@ -17,33 +17,37 @@ last-updated: 2025-10-19
 ## Modelling isotopic signatures in precipitation using particle-based cloud microphysics
 We model the evolution of isotopic composition of water droplets and ambient vapour.
 Our focus is on stable water isotopologues: $\mathrm{H_2O},$ $\mathrm{HDO},$
-  $\mathrm{H_2^{18}O},$ $\mathrm{H_2^{17}O}.$
-Among considered processes are the diffusional and collisional growth/breakage of droplets 
-  and the concurrent isotopic fractionation (including kinetic effects).
+  $\mathrm{H_2^{18}O},$ $\mathrm{H_2^{17}O}$.
+Among considered processes are the diffusional and collisional growth/breakage 
+  of droplets and the concurrent isotopic fractionation (including kinetic effects).
 
-We use the Lagrangian approach for modelling cloud microphysics. 
-The particle-resolved models offer a uniquely suitable framework 
-  for simulating the above phenomena.
-This is due to their ability to represent
+We use the Lagrangian particle-based approach for modelling cloud microphysics.
+Particle-resolved formulation, using the so-called super-droplet Monte-Carlo method, 
+  offers a uniquely suitable framework 
+  for simulating the isotopic fractionation in clouds and precipitation.
+This is due to the ability to represent, with high fidelity, the dynamics of particles in
+  a multidimensional space of attributes.
 
-The _super-droplet method_ (SDM) is particularly well-suited to this task 
-  due to its favorable scaling with the number of particle attributes.
-This allow us to extend the multi-dimensional space of attributes
-  without excessive computational cost.
-In addition to standard droplet properties (radius, temperature, hygroscopicity, etc.), 
-  we introduce new super-droplet attributes representing the  moles of heavy isotopes 
-  $(\mathrm{D}$, $\mathrm{^{17}O}$, $\mathrm{^{18}O})$.
-The isotopic composition of each droplet is updated to account for fractionation effects for $\mathrm{D/H},$ $^{18}\mathrm{O}/^{16}\mathrm{O}$, and $^{17}\mathrm{O}/^{16}\mathrm{O}$.
+Among the attributes of super-particles are such extensive quantities 
+  as mass of water per droplet,
+  and the multiplicity, i.e. the number of real-world particles 
+  represented by a computational super-particle.
+In this project, the set of attributes is extended to include: moles of deuterium 
+  $(\mathrm{D})$, oxygen-17 $(^{17}\mathrm{O})$, and oxygen-18 $(^{18}\mathrm{O})$.
+The evolution in time of a droplet water isotopic composition is driven by
+  kinetically limited diffusion processes (condensation, evaporation, 
+  deposition, sublimation), and is further modulated by collision-triggered coalescence and breakage.
 
-Our two main objectives are related :
- - to improve understanding of cloud microphysics, such as mixing and supersaturation, 
-   through analysis of isotope tracers, and
- - to develop novel tools hydrological and paleoclimate interpretation by applying cloud-resolving models 
-   to isotopic data (e.g. from ice cores).
+Defining and prototyping a new model of the above phenomena, 
+  we use [PySDM](https://open-atmos-krk.github.io/projects/pysdm.html) -
+  a Python particle-based cloud microphysics package developed and maintained in our group.
 
-We are extending PySDM, a particle-based modeling framework, 
-  with support from our group’s specialists in isotope modeling, measurements, and instrumentation at AGH.
-open-source
+Our objective is to create a novel tool enabling:
+ - usage of isotopic composition data to constrain the unknown aspects of cloud microphysical processes 
+   such as evolution of supersaturation, turbulent mixing, and formation of hydrometeors;
+ - improvements in methods for inferring atmospheric thermodynamic state from meteoric water 
+   isotopic composition data (e.g., from ice cores). 
+
 #### Potential BEng/MSc projects
 - Extending PySDM to explicitly resolve droplet heat budget and thus capture non-equilibrium drop temperature 
   (as an alternative to the current equilibrium approximation). 
