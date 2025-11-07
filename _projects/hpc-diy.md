@@ -21,7 +21,19 @@ last-updated: 2025-10-25
 ---
 
 We are building, from scratch, a multi-node GPU-enabled computing cluster
-  using Raspberry Pi hardware, and open-source software stack (Linux/Slurm/OpenMPI/...).
+  using <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> hardware, 
+  and open-source software stack (Linux/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
+The project is truly a team-wide effort and has multiple goals:
+<ul>
+  <li>to provide a fully controllable development and testing environment for our MPI-based projects:  
+   <a href="https://open-atmos-krk.github.io/projects/numba-mpi.html">Numba-MPI</a> and 
+   <a href="https://open-atmos-krk.github.io/projects/pympdata.html">PyMPDATA-MPI</a>;</li>
+  <li>to offer a (multi)-GPU environment for the development and testing of the <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a> project;</li>
+  <li>to provide a playground cluster for teaching parallel computing courses (MPI + threading and GPUs);</li>
+  <li>to build up DevOps know-how on cluster configuration and maintenance;</li>
+  <li>to bring a tangible element to our software-focused research for presenting during open days and outreach events (the cluster is mounted on a mobile platform);</li>
+  <li>last but not least, to have fun tinkering together with DIY hardware project!</li>
+</ul>
 
 ## Compute nodes
 
