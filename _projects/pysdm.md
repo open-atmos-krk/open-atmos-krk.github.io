@@ -40,7 +40,7 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
 </p>
 
 <figure>
-  <img height="400px" src="https://github.com/open-atmos/PySDM/releases/download/tip/docs_intro_animation_ubuntu-24.04.gif" />
+  <img src="https://github.com/open-atmos/PySDM/releases/download/tip/docs_intro_animation_ubuntu-24.04.gif" />
   <figcaption>Two-dimensional prescribed-flow warm-rain simulation using PySDM</figcaption>
 </figure>
 

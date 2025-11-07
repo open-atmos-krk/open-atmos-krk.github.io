@@ -31,7 +31,7 @@ The project is truly a team-wide effort and has multiple goals:
   <li>to offer a (multi)-GPU environment for the development and testing of the <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a> project;</li>
   <li>to provide a playground cluster for teaching parallel computing courses (MPI + threading and GPUs);</li>
   <li>to build up DevOps know-how on cluster configuration and maintenance;</li>
-  <li>to bring a tangible element to our software-focused research for presenting during open days and outreach events (cluster mounted on a mobile platform);</li>
+  <li>to bring a tangible element to our software-focused research for presenting at open days and outreach events (cluster mounted on a mobile platform);</li>
   <li>last but not least, to have fun tinkering together with DIY hardware project!</li>
 </ul>
 

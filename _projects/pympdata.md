@@ -45,14 +45,12 @@ Application of the corrective iterations improves scheme [convergence rate](http
 <center>
 <div style="display:flex; align-items:center; justify-content: center;">
 <figure>
-    <p style="margin-bottom:50px"> </p>
-    <img height="300px" src="https://github.com/open-atmos/PyMPDATA/releases/download/tip/n_iters.3_rank_0_size_1_c_field_.0.5.0.25._mpi_dim_0_n_threads_3-CartesianScenario-anim.gif">
-	<p style="margin-bottom:50px"> </p>
-	<figcaption><b>Fig 1.</b> : Basic 2D advection</figcaption>
+    <img src="https://github.com/open-atmos/PyMPDATA/releases/download/tip/n_iters.3_rank_0_size_1_c_field_.0.5.0.25._mpi_dim_0_n_threads_3-CartesianScenario-anim.gif">
+    <figcaption>Basic 2D advection</figcaption>
 </figure>
 <figure>
-    <img height="400px" src="https://github.com/open-atmos/PyMPDATA/releases/download/tip/boussinesq_2d_anim.gif">
-	<figcaption><b>Fig 2.</b> : Burgers equation example</figcaption>
+    <img src="https://github.com/open-atmos/PyMPDATA/releases/download/tip/boussinesq_2d_anim.gif">
+	<figcaption>Buoyancy-driven flow in Boussinesq approximation</figcaption>
 </figure>
 </div>
 </center>
