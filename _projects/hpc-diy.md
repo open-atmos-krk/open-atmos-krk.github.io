@@ -12,6 +12,7 @@ people:
   - kacper_derlatka
   - aleksandra_strzabala
   - daria_klimaszewska
+  - agnieszka_zaba
   - sylwester_arabas
 
 layout: project
