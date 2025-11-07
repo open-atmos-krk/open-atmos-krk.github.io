@@ -7,14 +7,13 @@ title: Journal Club
 We meet every two weeks at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/)
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
-<h3>Planned presentations:</h3>
+<!--<h3>Planned presentations:</h3>-->
+
+<h3>Past presentations:</h3>
 
 * 2025-11-07: Daria Klimaszewska    
   [Perkel 2019 (Nature 572)](https://doi.org/10.1038/d41586-019-02310-3): "_Julia: come for the syntax, stay for the speed_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-019-02310-3" data-style="small_rectangle"></span>
-
-<h3>Past presentations:</h3>
-
 * 2025-10-17: Sylwester Arabas    
   [Hallett & Mossop 1974 (Nature 249)](https://doi.org/10.1038/249026a0): "_Production of secondary ice particles during the riming process_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/249026a0" data-style="small_rectangle"></span>
