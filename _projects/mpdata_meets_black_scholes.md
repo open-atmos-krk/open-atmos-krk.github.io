@@ -26,6 +26,6 @@ As a result, all terms of the Black-Merton-Sholes equation are consistently repr
 So far, we have demonstrated the methodology for European-, American- and Asian-style contracts in the following papers:
 <ul>
   <li><a href="https://doi.org/10.1016/j.cam.2019.05.023">Arabas &amp; Farhat 2020</a>: "<em>Derivative pricing as a transport problem: MPDATA solutions to Black–Scholes-type equations</em>"</li>
-  <li><a href="https://arxiv.org/abs/2505.24435">Magnuszewski &amp; Arabas 2025</a>: "<em>Path-dependent option pricing with two-dimensional PDE using MPDATA<em>"</li>
+  <li><a href="https://arxiv.org/abs/2505.24435">Magnuszewski &amp; Arabas 2025</a>: "<em>Path-dependent option pricing with two-dimensional PDE using MPDATA</em>"</li>
 </ul>
 
