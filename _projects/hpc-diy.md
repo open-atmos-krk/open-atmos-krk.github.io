@@ -48,7 +48,7 @@ For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (80
 ## Access/storage node
 The role of access node is held by a single-plate <a href="https://en.wikipedia.org/wiki/Raspberry_Pi#Series_and_generations">Raspberry Pi 5</a> 
   computer with built-in 16GB RAM memory and 4-core ARM 2.4 GHz CPU. 
-Access node has a 16&nbsp;GB microSD memory card, and is connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a> (Seagate FireCuda). 
+Access node has a 16&nbsp;GB microSD memory card, and is&nbsp;connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a> (Seagate FireCuda). 
 Raspberry has only one network interface controller, so&nbsp;one network is&nbsp;connected through Ethernet wire and another one has additional USB network adapter. 
 The Raspberry Pi is also connected (through goldpins) to a temperature sensor. 
 
@@ -57,11 +57,11 @@ The Raspberry Pi is also connected (through goldpins) to a temperature sensor.
 </figure>
 
 ## Power supply and consumption monitoring, thermal control, electrical wiring
-The external power supply is connected to a Bluetooth power consumption meter (Voltcraft SEM6000).
-A power strip with six USB ports (2.1&nbsp;A power per pair) is used to supply all components including 
-  the Gigabit Ethernet switch which is connected directly into power strip. 
-A 230V fan (Elmeko 10&nbsp;080&nbsp;150) is connected to the power strip through a thermostat (Siemens 8MR2171-2BB)
-  which is factory-set to enable ventilation above 60C.
+The external power supply is&nbsp;connected to a Bluetooth power consumption meter (Voltcraft SEM6000).
+A power strip with six USB ports (2.1&nbsp;A power per&nbsp;pair) is used to supply all components including 
+  the Gigabit Ethernet switch which is&nbsp;connected directly into power strip. 
+A 230V fan (Elmeko 10&nbsp;080&nbsp;150) is&nbsp;connected to the power strip through a thermostat (Siemens 8MR2171-2BB)
+  which is factory-set to enable ventilation above 60°C.
 A temperature sensor (Joy-it SEN-DHT22 with AM2302 chip) is placed next to the thermostat to enable monitoring of the
   temperature.
 We use a dedicated grounding busbar connected to the chassis, patch-panels and other metal items.
