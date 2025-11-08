@@ -7,7 +7,11 @@ title: Journal Club
 We meet every two weeks at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/)
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
-<!--<h3>Planned presentations:</h3>-->
+<h3>Planned presentations:</h3>
+
+* 2025-11-21: Michał Wroński    
+  [Shen et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08196-0): "_New particle formation from isoprene under upper-tropospheric conditions_"
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08196-0" data-style="small_rectangle"></span>
 
 <h3>Past presentations:</h3>
 
@@ -280,6 +284,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adi5550" data-style="small_rectangle"></span>
     - [Toll et al. 2024 (Science 386)](https://doi.org/10.1126/science.adl0303): "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adl0303" data-style="small_rectangle"></span>
+    - [Shen et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08196-0): "_New particle formation from isoprene under upper-tropospheric conditions_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08196-0" data-style="small_rectangle"></span>
     - [Curtius et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08192-4): "_Isoprene nitrates drive new particle formation in Amazon’s upper troposphere_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08192-4" data-style="small_rectangle"></span>
     - [Zhang et al. 2024 (Science 385)](https://doi.org/10.1126/science.adn2961): "_Stratospheric air intrusions promote global-scale new particle formation_"
