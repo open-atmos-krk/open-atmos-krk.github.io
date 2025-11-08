@@ -39,7 +39,7 @@ The project is truly a team-wide effort and has multiple goals:
 As of the present proof-of-concept stage, we start of with two compute nodes. 
 Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer J1010) with 4GB and 128-core CUDA GPUs.
 The compute nodes and the access node are connected using a <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">Gigabit Ethernet</a> switch.
-For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, TC-8589556) screen mounted inside the chasis.
+For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, TC-8589556) screen mounted inside the chassis.
 
 <figure>
     <img width="400px" src="/img/hpc-diy/compute_nodes.jpg">
@@ -64,17 +64,31 @@ A 230V fan (Elmeko 10&nbsp;080&nbsp;150) is connected to the power strip through
   which is factory-set to enable ventilation above 60C.
 A temperature sensor (Joy-it SEN-DHT22 with AM2302 chip) is placed next to the thermostat to enable monitoring of the
   temperature.
-We use a dedicated grounding busbar connected to the chasis, patch-panels and other metal items.
+We use a dedicated grounding busbar connected to the chassis, patch-panels and other metal items.
 
 <figure>
     <img width="400px" src="/img/hpc-diy/power_supply.jpg">
 </figure>
 
-## Chasis and cable management
-The system is mounted within a 9-unit <a href="https://en.wikipedia.org/wiki/19-inch_rack#10-inch_rack">10-inch rack</a>.
+## Chassis and cable management
+The system is mounted within a 9-unit <a href="https://en.wikipedia.org/wiki/19-inch_rack#10-inch_rack">10-inch rack</a> with two 
+  shelves (one for access node and SSD; one for compute nodes and the HDMI switch).
+The 7-inch display is also mounted within the rack (occupying ca. 2.5 units).
 Most of the cabling is routed through two 12-port <a href="https://en.wikipedia.org/wiki/Patch_panel">patch-panels</a>
   with USB, Ethernet and HDMI <a href="https://en.wikipedia.org/wiki/Keystone_module">Keystone modules</a>. 
+Front-side USB ports and cables used for power supply are white, while data connections are laid out with black cabling.
 
 <figure>
-    <img width="400px" src="/img/hpc-diy/chasis.jpg">
+    <img width="400px" src="/img/hpc-diy/chassis.jpg">
+</figure>
+
+## Mobile platform
+The rack is attached to a mobile platform which also has a laptop docking station attached for connecting
+  up to two displays used for demonstration purposes (not directly connected to the cluster or the rack).
+The whole system is in a proof-of-concept stage, and we are having great fun learning how to assemble,
+  set up and use it!
+Stay tuned for more updates.
+
+<figure>
+    <img width="400px" src="/img/hpc-diy/mobile_stand.jpg">
 </figure>
