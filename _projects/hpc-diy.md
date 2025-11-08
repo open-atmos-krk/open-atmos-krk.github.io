@@ -31,12 +31,12 @@ The project is truly a team-wide effort and has multiple goals:
   <li>to offer a (multi)-GPU environment for the development and testing of the <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a> project;</li>
   <li>to provide a playground cluster for learning and teaching parallel computing (<a href="https://en.wikipedia.org/wiki/Message_Passing_Interface">MPI</a>&nbsp;+&nbsp;<a href="https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)">threading</a> and <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPUs</a>);</li>
   <li>to build up <a href="https://en.wikipedia.org/wiki/DevOps">DevOps</a> know-how on cluster configuration and maintenance;</li>
-  <li>to bring a tangible element to our software-focused research for presenting at open days and outreach events (cluster mounted on a mobile platform);</li>
-  <li>last but not least, to have fun tinkering together with DIY hardware project!</li>
+  <li>to bring a tangible element for our <a href="https://en.wikipedia.org/wiki/Research_software_engineering">RSE</a> and simulation projects, which can be showcased at open days and outreach events (the cluster mounted on a mobile platform);</li>
+  <li>last but not least, to have fun tinkering together with a DIY hardware project!</li>
 </ul>
 
 ## Compute nodes and interconnection network
-As of the present proof-of-concept stage, we start of with two compute nodes. 
+As of the present proof-of-concept stage, we start off with two compute nodes. 
 Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer J1010) with 4GB and 128-core CUDA GPUs.
 The compute nodes and the access node are connected using a <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">Gigabit Ethernet</a> switch.
 For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, TC-8589556) screen mounted inside the chassis.
@@ -76,7 +76,7 @@ The system is mounted within a 9-unit <a href="https://en.wikipedia.org/wiki/19-
 The 7-inch display is also mounted within the rack (occupying ca. 2.5 units).
 Most of the cabling is routed through two 12-port <a href="https://en.wikipedia.org/wiki/Patch_panel">patch-panels</a>
   with USB, Ethernet and HDMI <a href="https://en.wikipedia.org/wiki/Keystone_module">Keystone modules</a>. 
-Front-side USB ports and cables used for power supply are white, while data connections are laid out with black cabling.
+We use different colours for front-side USB ports and cables used for power supply (white) and data connections (black).
 
 <figure>
     <img width="400px" src="/img/hpc-diy/chassis.jpg">
