@@ -22,7 +22,7 @@ last-updated: 2025-10-25
 
 We are building, from scratch, a multi-node GPU-enabled <a href="https://en.wikipedia.org/wiki/Computer_cluster">computing cluster</a>
   using <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> single-board computers and other commodity hardware.
-We aim for open-source software stack (Linux/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
+We&nbsp;aim for open-source software stack (Linux/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
 The project is truly a team-wide effort and has multiple goals:
 <ul>
   <li>to provide a fully controllable development and testing environment for our MPI-based projects:  
@@ -49,7 +49,7 @@ For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (80
 The role of access node is held by a single-plate <a href="https://en.wikipedia.org/wiki/Raspberry_Pi#Series_and_generations">Raspberry Pi 5</a> 
   computer with built-in 16GB RAM memory and 4-core ARM 2.4 GHz CPU. 
 Access node has a 16&nbsp;GB microSD memory card, and is connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a> (Seagate FireCuda). 
-Raspberry has only one network interface controller, so one network is connected through Ethernet wire and another one has additional USB network adapter. 
+Raspberry has only one network interface controller, so&nbsp;one network is&nbsp;connected through Ethernet wire and another one has additional USB network adapter. 
 The Raspberry Pi is also connected (through goldpins) to a temperature sensor. 
 
 <figure>
@@ -85,10 +85,13 @@ Front-side USB ports and cables used for power supply are white, while data conn
 ## Mobile platform
 The rack is attached to a mobile platform which also has a laptop docking station attached for connecting
   up to two displays used for demonstration purposes (not directly connected to the cluster or the rack).
-The whole system is in a proof-of-concept stage, and we are having great fun learning how to assemble,
-  set up and use it!
-Stay tuned for more updates.
+The whole system is in a proof-of-concept stage, and we are having great fun learning how to&nbsp;assemble,
+  set up and use it.
+Stay tuned for more updates! 😉
 
 <figure>
     <img width="400px" src="/img/hpc-diy/mobile_stand.jpg">
 </figure>
+
+<br />
+<br />
