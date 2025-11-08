@@ -20,9 +20,12 @@ image: "/img/magritte.jpg"
 last-updated: 2025-10-25
 ---
 
-We are building, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU-enabled</a> <a href="https://en.wikipedia.org/wiki/Computer_cluster">computing cluster</a>
-  using <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> single-board computers and other commodity hardware.
-We&nbsp;aim for open-source software stack (Linux/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
+We are building, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU-enabled</a> 
+  <a href="https://en.wikipedia.org/wiki/Computer_cluster">computing cluster</a>
+  using <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> single-board computers and other commodity hardware
+  (in the spirit of <a href="https://en.wikipedia.org/wiki/Beowulf_cluster">Beowulf-style clusters</a>).
+We&nbsp;aim for open-source software stack 
+  (Linux/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
 The project is truly a team-wide effort and has multiple goals:
 <ul>
   <li>to provide a fully controllable development and testing environment for our MPI-based projects:  
@@ -31,7 +34,7 @@ The project is truly a team-wide effort and has multiple goals:
   <li>to offer a (multi)-GPU environment for the development and testing of the <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a> project;</li>
   <li>to provide a playground cluster for learning and teaching parallel computing (<a href="https://en.wikipedia.org/wiki/Message_Passing_Interface">MPI</a>&nbsp;+&nbsp;<a href="https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)">threading</a> and <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPUs</a>);</li>
   <li>to build up <a href="https://en.wikipedia.org/wiki/DevOps">DevOps</a> know-how on cluster configuration and maintenance;</li>
-  <li>to bring a tangible element for our <a href="https://en.wikipedia.org/wiki/Research_software_engineering">RSE</a> and simulation projects, which can be showcased at open days and outreach events (the cluster mounted on a mobile platform);</li>
+  <li>to bring a tangible element to our <a href="https://en.wikipedia.org/wiki/Research_software_engineering">RSE</a> and simulation projects, which can be showcased at open days and outreach events (the cluster mounted on a mobile platform);</li>
   <li>last but not least, to have fun tinkering together with a DIY hardware project!</li>
 </ul>
 
