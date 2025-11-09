@@ -17,7 +17,6 @@ people:
 
 layout: project
 image: "/img/magritte.jpg"
-last-updated: 2025-10-25
 ---
 
 We are building, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU-enabled</a> 

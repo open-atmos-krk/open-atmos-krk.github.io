@@ -15,7 +15,6 @@ people:
 
 layout: project
 image: "/img/short_course.jpg"
-last-updated: 2025-10-25
 ---
 
 ## Polish edition of the Rogers & Yau "<em>Short course on cloud physics</em>"

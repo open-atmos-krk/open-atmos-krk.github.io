@@ -12,7 +12,6 @@ people:
   - sylwester_arabas
 
 layout: project
-last-updated: 2025-10-24
 image: "/img/adaptivesdm.jpg"
 ---
 

@@ -22,7 +22,6 @@ people:
 
 layout: project
 no-link: true
-last-updated: 2016-11-11
 image: "/img/logo_pysdm.png"
 ---
 

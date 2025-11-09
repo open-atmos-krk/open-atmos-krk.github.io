@@ -11,7 +11,6 @@ people:
 
 image: "/img/isotopes.jpg"
 layout: project
-last-updated: 2025-10-19
 ---
 
 ## Modelling isotopic signatures in precipitation using particle-based cloud microphysics

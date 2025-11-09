@@ -1,6 +1,5 @@
 ---
 title: MPDATA&thinsp;meets&thinsp;Black&dash;Scholes
-last-updated: 2025-10-23
 
 description: |
   We apply the MPDATA scheme to option pricing by reformulating the Black-Scholes-Merton equation 
