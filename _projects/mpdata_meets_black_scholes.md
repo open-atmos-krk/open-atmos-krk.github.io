@@ -3,10 +3,10 @@ title: MPDATA&thinsp;meets&thinsp;Black&dash;Scholes
 last-updated: 2025-10-23
 
 description: |
-  We explore a robust numerical method for option pricing that recasts the Black-Merton-Scholes equation 
-    as an advection problem and applies the high-order, non-oscillatory MPDATA scheme 
-    to consistently handle all PDE terms with a single numerical operator, demonstrating 
-    effectiveness across European-, American-, and Asian-type contracts.
+  We apply the MPDATA scheme to option pricing by reformulating the Black-Scholes-Merton equation 
+    as an advection problem. 
+  This novel application enables all PDE terms to be handled consistently with a single non-oscillatory,
+    high-order and positive-definite numerical operator.
 
 people:
   - pawel_magnuszewski

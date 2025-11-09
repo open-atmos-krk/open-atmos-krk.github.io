@@ -14,7 +14,6 @@ people:
 
 layout: project
 no-link: true
-last-updated: 2025-10-15
 image: "/img/utils.jpg"
 ---
 
