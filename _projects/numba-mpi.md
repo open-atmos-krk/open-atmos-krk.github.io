@@ -48,4 +48,5 @@ Numba-MPI has been developed by an open group of developers from Jagiellonian Un
    <source src="https://video.fosdem.org/2023/UD2.120%20(Chavanne)/numba_mpi.webm" type="video/webm"> 
    Your browser does not support the video tag.
   </video>
+  <figcaption><a href="https://archive.fosdem.org/2023/schedule/event/numba_mpi/">FOSDEM 2023 Numba-MPI talk at the HPC, Big Data, and Data Science Devroom</a></figcaption>
 </figure>
