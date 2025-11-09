@@ -18,9 +18,19 @@ last-updated: 2016-11-11
 image: "/img/logo_pypartmc.png"
 ---
 
-<h2>Project overview talk</h2>
+<h2>Project publications</h2>
+<ul>
+  <li><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024 (SoftwareX 25)</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</li>
+  <li><a href=""></a>
+</ul>
+
+
+<h2>Project overview talks</h2>
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=QF8xTyhdKQ4miVbS&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/uZwqEpjp8xc?si=sE4VgoMQHsnBKtt1&amp;start=5587" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+<figure>
+  <iframe src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=QF8xTyhdKQ4miVbS&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 <h2>Potential BEng/MSc projects</h2>
