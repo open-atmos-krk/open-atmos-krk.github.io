@@ -28,6 +28,10 @@ Here are our solutions: just replace <code><a href="https://matplotlib.org/stabl
   and use <code><a href="https://open-atmos.github.io/jupyter-utils/open_atmos_jupyter_utils/show_anim.html#show_anim">show_anim()</a></code> for animations.
 </p>
 
+<p>open-atmos-jupyter-utils has been developed for and used in numerous Jupyter notebooks 
+  in <a href="https://github.com/open-atmos/PySDM">PySDM</a>, <a href="https://github.com/open-atmos/PyMPDATA">PyMPDATA</a> and <a href="https://github.com/open-atmos/PyPartMC">PyPartMC</a> projects.
+</p>
+
 <h4>Project resources</h4>
 <ul>
   <li><a href="https://open-atmos.github.io/jupyter-utils">Documentation</a></li>
@@ -36,7 +40,9 @@ Here are our solutions: just replace <code><a href="https://matplotlib.org/stabl
 </ul>
 
 <h4>Project overview video (FOSDEM lightning talk)</h4>
-<video controls width="640">
-  <source src="https://ftp.fau.de/fosdem/2025/k1105/fosdem-2025-6674-lightning-lightning-talks.av1.webm#t=120" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+<figure>
+  <video controls width="640">
+    <source src="https://ftp.fau.de/fosdem/2025/k1105/fosdem-2025-6674-lightning-lightning-talks.av1.webm#t=1472" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</figure>
