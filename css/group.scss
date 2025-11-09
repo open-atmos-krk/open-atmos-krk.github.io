@@ -161,6 +161,7 @@ svg {
 img.pic {
   border-radius: 8.8px !important;
   background-color: white;
+  padding: 0
 }
 
 @media screen and (max-width: 800px) {
@@ -182,7 +183,6 @@ img.pic {
 
   img.pic {
     width: 30%;
-    padding: 0
   }
 }
 
