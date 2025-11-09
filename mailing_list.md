@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mailing Lists
+title: Mailing List
 ---
 <img src="/img/mailing_list.jpg" alt="mailing list" class="pic" align="right" />
 <h4>particle-based-cloud-modelling</h4>
