@@ -18,12 +18,13 @@ image: "/img/logo_numbampi.png"
 ---
 
 <p>
-The numba-mpi package enables just-in-time (JIT) compiled Python code using <a href="https://numba.pydata.org/">Numba</a> 
+The Numba-MPI package enables just-in-time (JIT) compiled Python code using <a href="https://numba.pydata.org/">Numba</a> 
   to call <a href="https://en.wikipedia.org/wiki/Message_Passing_Interface">Message Passing Interface (MPI)</a>
   routines directly, allowing parallel communication without leaving compiled execution blocks.
 Designed as a lightweight, NumPy-based wrapper around the MPI C API, it provides cross-platform high-performance 
   communication capabilities, bridging the gap between Python productivity and native MPI efficiency.
-We have outlined the project design, features and performance in a <a href="https://doi.org/10.1016/j.softx.2024.101897">SoftwareX paper (Derlatka et al. 2024)</a>. 
+We have outlined the project design, features and performance in a 
+  <a href="https://doi.org/10.1016/j.softx.2024.101897">SoftwareX paper (Derlatka, Manna, Bulenok, Zwicker & Arabas 2024)</a>. 
 </p>
 
 <p>
