@@ -18,4 +18,13 @@ last-updated: 2016-11-11
 image: "/img/logo_pypartmc.png"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=TheEZcCiVbtIR7Cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>Project overview talk</h2>
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=TheEZcCiVbtIR7Cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+
+<h2>Potential BEng/MSc projects</h2>
+<ul>
+  <li>Engineering and documenting a way to use PyPartMC C++ classes as C++ bindings to PartMC Fortran codebase</li>
+  <li>Developing a new Python package, based on PyPartMC solutions, for exposing to Python selected routines from the <a href="https://github.com/scale-met/scale/">RIKEN SCALE</a> Fortran codebase</li>
+</ul>
