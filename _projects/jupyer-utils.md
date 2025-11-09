@@ -45,4 +45,5 @@ Here are our solutions: just replace <code><a href="https://matplotlib.org/stabl
     <source src="https://ftp.fau.de/fosdem/2025/k1105/fosdem-2025-6674-lightning-lightning-talks.av1.webm#t=1472" type="video/webm">
     Your browser does not support the video tag.
   </video>
+  <figcaption>Agnieszka Żaba presenting a <a href="https://archive.fosdem.org/2025/schedule/event/fosdem-2025-6674-lightning-lightning-talks/">lightning talk on open-atmos-jupyter-utils at FOSDEM 2025</a></figcaption>
 </figure>
