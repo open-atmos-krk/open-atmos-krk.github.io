@@ -3,7 +3,8 @@ title: Numba-MPI
 subtitle: <a href="https://pypi.org/p/numba-mpi">PyPI.org/p/numba-mpi</a>
 
 description: |
-  Numba-MPI provides Python wrappers to the C MPI API callable from within Numba JIT-compiled code (@jit mode). 
+  Numba-MPI provides Python wrappers to the C MPI API callable from within Numba JIT-compiled code and
+    enabling distributed-memory parallelism. 
 
 people:
   - kacper_derlatka
@@ -30,6 +31,11 @@ We have outlined the project design, features and performance in a
 Numba-MPI has been developed by an open group of developers from Jagiellonian University in Kraków, Poland,
   from the Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany, from
   our team at the AGH University of Krakow, Poland, with much appreciated contributions from the users' community.
+</p>
+
+<p>
+Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/">py-pde</a> 
+  and <a href="https://pypi.org/project/pympdata-mpi/">PyMPDATA-MPI</a>.
 </p>
 
 <h4>Project resources</h4>
