@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4.1.6
       - uses: urlstechie/urlchecker-action@master
         with:
-          file_types: .md,.html,.json,.yaml,.yml,.txt
+          file_types: .md,.html,.json,.yaml,.yml,.txt,.bib
           print_all: false
           verbose: true
           timeout: 7

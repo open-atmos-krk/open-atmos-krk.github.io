@@ -74,7 +74,7 @@ The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its
 
 ## Papers on or using PyMPDATA
  - [Bartman et al. 2022 (JOSS 7)](https://doi.org/10.21105/joss.03896): "<em> PyMPDATA v1: Numba-accelerated implementation of MPDATA with examples in Python, Julia and Matlab</em>"
- - [Olesik et al. 2022 (Geosci. Model Dev. 15)](https://doi.org/10.5194/gmd-15-3879-20220): "<em>On numerical broadening of particle-size spectra: a condensational growth study using PyMPDATA 1.0</em>"
+ - [Olesik et al. 2022 (Geosci. Model Dev. 15)](https://doi.org/10.5194/gmd-15-3879-2022): "<em>On numerical broadening of particle-size spectra: a condensational growth study using PyMPDATA 1.0</em>"
  - [Derlatka et al. 2024 (SoftwareX 28)](https://doi.org/10.1016/j.softx.2024.101897): "<em>Numba-MPI v1.0: Enabling MPI communication within Numba/LLVM JIT-compiled Python code</em>"
  - [Magnuszewski et al. 2025 (arXiv)](https://doi.org/10.48550/arXiv.2505.24435): "<em> Path-dependent option pricing with two-dimensional PDE using MPDATA</em>"
 
