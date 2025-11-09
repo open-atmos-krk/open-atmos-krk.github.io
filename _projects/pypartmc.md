@@ -20,23 +20,26 @@ image: "/img/logo_pypartmc.png"
 
 <h2>Project publications</h2>
 <ul>
-  <li><a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1125642">Curtis et al. 2022 (AGU Fall Meeting)</a>: "<em>PyPartMC: Aerosol model intercomparisons with particle resolved models via Python bindings to C++ and Fortran</em>"</li>
-  <li><a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421645">D'Aquino et al. 2023 (AMS Annual Meeting)</a>: "<em>PyPartMC: a Pythonic Interface to a Particle-Resolved Monte-Carlo Aerosol Simulation Framework</em>"</li>
-  <li><a href="https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2338-pypartmc-engineering-python-to-fortran-bindings-in-c-for-use-in-julia-and-matlab/">Arabas et al. 2024 (FOSDEM)</a>: "<em>PyPartMC: engineering Python-to-Fortran bindings in C++, for use in Julia and Matlab</em>"</li>
-  <li><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024 (SoftwareX 25)</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</li>
+  <li><a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1125642">Curtis et al. 2022 (AGU Fall Meeting, Chicago, IL, USA)</a>: "<em>PyPartMC: Aerosol model intercomparisons with particle resolved models via Python bindings to C++ and Fortran</em>"</li>
+  <li><a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421645">D'Aquino et al. 2023 (AMS Annual Meeting, Denver, CO, USA)</a>: "<em>PyPartMC: a Pythonic Interface to a Particle-Resolved Monte-Carlo Aerosol Simulation Framework</em>"</li>
+  <li><a href="https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2338-pypartmc-engineering-python-to-fortran-bindings-in-c-for-use-in-julia-and-matlab/">Arabas et al. 2024 (FOSDEM, Université Libre de Bruxelles, Belgium)</a>: "<em>PyPartMC: engineering Python-to-Fortran bindings in C++, for use in Julia and Matlab</em>"</li>
+  <li><b><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024 (SoftwareX 25)</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</b></li>
 </ul>
 
 
 <h2>Project overview talk videos</h2>
 <figure>
   <iframe src="https://www.youtube-nocookie.com/embed/uZwqEpjp8xc?si=sE4VgoMQHsnBKtt1&amp;start=5587" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption>Zach D'Aquino (UIUC) presenting on "<em>PyPartMC: A Pythonic interface to a particle-resolved Monte Carlo aerosol simulation framework</em>" at the <a href="https://airquality.ucdavis.edu/events/2023-international-aerosol-modeling-algorithms-conference">International Aerosol Modeling and Algorithms Conference 2023</a>, UCDavis, CA, USA</figcaption>
 </figure>
 <figure>
   <iframe src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=QF8xTyhdKQ4miVbS&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption>Sylwester Arabas (AGH) presenting on "<em>PyPartMC Aerosol Dynamics Package: Engineering Python-to-Fortran Bindings in C++</em>" at the <a href="https://leap.columbia.edu/">LEAP Science and Technology Center, Columbia University, NY, USA</a></figcaption>
 </figure>
 
 <h2>Potential BEng/MSc projects</h2>
 <ul>
   <li>Engineering and documenting a way to use PyPartMC C++ classes as C++ bindings to PartMC Fortran codebase</li>
+  <li>Engineering semi-automated binding-generation layer to reduce boilerplate Fortran and C code in PyPartMC (informed by the existing C++ abstractions)</li>
   <li>Developing a new Python package, based on PyPartMC solutions, for exposing to Python selected routines from the <a href="https://github.com/scale-met/scale/">RIKEN SCALE</a> Fortran codebase</li>
 </ul>
