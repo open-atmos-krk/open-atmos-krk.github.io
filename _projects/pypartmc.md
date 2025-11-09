@@ -18,7 +18,6 @@ last-updated: 2016-11-11
 image: "/img/logo_pypartmc.png"
 ---
 
-<h2></h2>
 <p>
 PyPartMC is a jointly developed effort between <a href="https://www.atmos.illinois.edu/~nriemer/">Nicole Riemer's group at University of Illinois Urbana-Champaign</a>,
   and our team at AGH University of Krakow, as well as an open contributor and user community.
@@ -42,6 +41,17 @@ Its design retains the unmodified Fortran core while using <a href="https://nano
   Fortran-implemented custom "spec file" input API.
 Comprehensive test coverage ensures maintainability of the codebase, and interoperability across platforms.
 Integration with Matlab and Julia is depicted with examples included in the PyPartMC documentation.
+</p>
+
+<h2>Resources</h2>
+<p>
+<ul>
+  <li><a href="https://github.com/open-atmos/PyPartMC/">PyPartMC GitHub repository</a></li>
+  <li><a href="https://open-atmos.github.io/PyPartMC/">PyPartMC Documentation</a></li>
+  <li><a href="https://pypi.org/project/PyPartMC/">PyPI PyPartMC package page</a></li>
+  <li><a href="https://doi.org/10.5281/zenodo.7662635">PyPartMC Zenodo release archive</a></li>
+  <li><a href="https://www.pyopensci.org/python-packages.html">pyOpenSci package listing</a> with PyPartMC included</li>
+</ul>
 </p>
 
 <h2>Project publications</h2>
