@@ -33,7 +33,7 @@ Among the attributes of super-particles are such extensive quantities
   and the multiplicity, i.e. the number of real-world particles 
   represented by a computational super-particle.
 In this project, the set of attributes is extended to include: moles of deuterium
-(D), oxygen-17 (<sup>17</sup>O), and oxygen-18 (<sup>18</sup>O}.
+(D), oxygen-17 (<sup>17</sup>O), and oxygen-18 (<sup>18</sup>O).
 The evolution in time of a droplet water isotopic composition is driven by
   kinetically limited diffusion processes (condensation, evaporation, 
   deposition, sublimation), and is further modulated by collision-triggered <a href="https://en.wikipedia.org/wiki/Coalescence_(physics)">coalescence</a> and breakage.
