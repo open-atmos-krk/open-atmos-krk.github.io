@@ -18,14 +18,41 @@ last-updated: 2016-11-11
 image: "/img/logo_pypartmc.png"
 ---
 
+<h2></h2>
+<p>
+PyPartMC is a jointly developed effort between <a href="https://www.atmos.illinois.edu/~nriemer/">Nicole Riemer's group at University of Illinois Urbana-Champaign</a>,
+  and our team at AGH University of Krakow, as well as an open contributor and user community.
+The goal of the project is to provide a maintainable, multi-platform, and pip-installable Python interface to 
+  <a href="http://compdyn.github.io/partmc">PartMC</a> — an open-source aerosol dynamics simulation framework. 
+PartMC itself has been under active development for nearly two decades and has been used in computational studies 
+  ranging from chamber-experiment modelling, through cloud-microphysics process studies, to large-scale air pollution modelling.
+With its modular Fortran&nbsp;90 codebase and dependencies such as <a href="https://computing.llnl.gov/projects/sundials">SUNDIALS</a>, 
+  <a href="https://en.wikipedia.org/wiki/NetCDF">netCDF</a>, <a href="https://doi.org/10.5194/gmd-15-3663-2022">CAMP</a>, 
+  PartMC represents a robust but technically demanding HPC tool. 
+PyPartMC bridges this complexity by enabling seamless interoperability between the Python ecosystem and the existing Fortran-based computational core.
+</p>
+
+<p>
+The PyPartMC project aims to enhance accessibility for both seasoned PartMC users and newcomers to atmospheric modelling by simplifying 
+  the previously intricate setup, compilation, and analysis workflows into a unified Python environment.
+The package, distributed via <a href="https://pypi.org/">PyPI</a> in both source and binary forms for Linux, Windows, and macOS, 
+  relies on a <a href="https://en.wikipedia.org/wiki/CMake">CMake-based</a> build system that statically links all dependencies. 
+Its design retains the unmodified Fortran core while using <a href="https://nanobind.readthedocs.io/">nanobind</a> 
+  for implementing automatic garbage collection for Fortran objects, and offering a JSON-based configuration system compatible with the original 
+  Fortran-implemented custom "spec file" input API.
+Comprehensive test coverage ensures maintainability of the codebase, and interoperability across platforms.
+Integration with Matlab and Julia is depicted with examples included in the PyPartMC documentation.
+</p>
+
 <h2>Project publications</h2>
+<p>
 <ul>
   <li><a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1125642">Curtis et al. 2022 (AGU Fall Meeting, Chicago, IL, USA)</a>: "<em>PyPartMC: Aerosol model intercomparisons with particle resolved models via Python bindings to C++ and Fortran</em>"</li>
   <li><a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421645">D'Aquino et al. 2023 (AMS Annual Meeting, Denver, CO, USA)</a>: "<em>PyPartMC: a Pythonic Interface to a Particle-Resolved Monte-Carlo Aerosol Simulation Framework</em>"</li>
   <li><a href="https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2338-pypartmc-engineering-python-to-fortran-bindings-in-c-for-use-in-julia-and-matlab/">Arabas et al. 2024 (FOSDEM, Université Libre de Bruxelles, Belgium)</a>: "<em>PyPartMC: engineering Python-to-Fortran bindings in C++, for use in Julia and Matlab</em>"</li>
   <li><b><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024 (SoftwareX 25)</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</b></li>
 </ul>
-
+</p>
 
 <h2>Project overview talk videos</h2>
 <figure>
