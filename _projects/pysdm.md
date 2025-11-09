@@ -3,10 +3,11 @@ title: PySDM
 subtitle: <a href="https://pypi.org/p/pysdm">PyPI.org/p/PySDM</a>
 
 description: |
-  PySDM is a particle-based (super-droplet) cloud microphysics package with box,
+  PySDM is a particle-based cloud microphysics package with box,
     parcel & 1D/2D prescribed-flow examples in Python, Julia and Matlab. 
-  The package features a Pythonic high-performance implementation of the Super-Droplet Method (SDM)
-    Monte-Carlo algorithm for representing collisional growth (<a href="https://doi.org/10.1002/qj.441">Shima et al. 2009</a>), hence the name.
+  PySDM is a Pythonic high-performance (CPU/GPU) implementation of the Super-Droplet Method (SDM)
+    Monte-Carlo scheme for collisional growth (<a href="https://doi.org/10.1002/qj.441">Shima et al. 2009</a>) 
+    with original drop-breakage and adaptive-time-stepping extensions.
 
 people:
   - piotr_bartman

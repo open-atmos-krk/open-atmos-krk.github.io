@@ -213,9 +213,17 @@ figure {
 
 figure img, figure iframe {
   display: block;
-  margin: 0 auto;
-  width: 60%;
+  margin: 8px auto;
   height: auto;
+}
+
+figure img {
+  width: 60%;
+}
+
+figure iframe {
+  width: 672px;
+  height: 378px;
 }
 
 @media (max-width: 768px) {

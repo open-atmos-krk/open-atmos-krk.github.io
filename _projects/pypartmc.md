@@ -20,12 +20,14 @@ image: "/img/logo_pypartmc.png"
 
 <h2>Project publications</h2>
 <ul>
+  <li><a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1125642">Curtis et al. 2022 (AGU Fall Meeting)</a>: "<em>PyPartMC: Aerosol model intercomparisons with particle resolved models via Python bindings to C++ and Fortran</em>"</li>
+  <li><a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421645">D'Aquino et al. 2023 (AMS Annual Meeting)</a>: "<em>PyPartMC: a Pythonic Interface to a Particle-Resolved Monte-Carlo Aerosol Simulation Framework</em>"</li>
+  <li><a href="https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2338-pypartmc-engineering-python-to-fortran-bindings-in-c-for-use-in-julia-and-matlab/">Arabas et al. 2024 (FOSDEM)</a>: "<em>PyPartMC: engineering Python-to-Fortran bindings in C++, for use in Julia and Matlab</em>"</li>
   <li><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024 (SoftwareX 25)</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</li>
-  <li><a href=""></a>
 </ul>
 
 
-<h2>Project overview talks</h2>
+<h2>Project overview talk videos</h2>
 <figure>
   <iframe src="https://www.youtube-nocookie.com/embed/uZwqEpjp8xc?si=sE4VgoMQHsnBKtt1&amp;start=5587" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
