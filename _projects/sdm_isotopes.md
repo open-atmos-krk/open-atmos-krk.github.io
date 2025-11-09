@@ -2,8 +2,9 @@
 title: SDM meets Isotopes
 
 description: |
-  The goal of the project is to develop a novel particle-based Monte-Carlo cloud microphysics model 
-    resolving water isotopic composition of precipitation. 
+  We develop a novel particle-based Monte-Carlo cloud and precipitation 
+    microphysics model resolving the dynamics of water isotopic composition 
+    upon diffusional and collisional processes. 
 
 people:
   - agnieszka_zaba
