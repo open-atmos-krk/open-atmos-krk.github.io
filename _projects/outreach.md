@@ -4,7 +4,8 @@ subtitle: <a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">wuj.pl/ksiazka/zar
 
 description: |
   We engage in public outreach activities aimed at popularising cloud physics and
-    addressing gaps in the availability of academic materials in both Polish and English.
+    addressing gaps in the availability of academic materials in both Polish and English,
+    including books, Wikipedia articles and coding tutorials.
 
 people:
   - daria_klimaszewska
