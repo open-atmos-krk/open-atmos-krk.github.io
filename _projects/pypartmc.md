@@ -20,7 +20,7 @@ image: "/img/logo_pypartmc.png"
 
 <h2>Project overview talk</h2>
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=TheEZcCiVbtIR7Cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=QF8xTyhdKQ4miVbS&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
 <h2>Potential BEng/MSc projects</h2>
