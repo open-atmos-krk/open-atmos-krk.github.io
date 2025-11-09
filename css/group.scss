@@ -159,13 +159,19 @@ svg {
 }
 
 img.pic {
-  width: 80%;
-  padding: 2em;
   border-bottom-left-radius: 8.8px;
   border-bottom-right-radius: 8.8px;
   border-top-left-radius: 8.8px;
   border-top-right-radius: 8.8px;
   background-color: white;
+}
+
+@media screen and (max-width: 800px) {
+  img.pic {
+    width: 80%;
+    padding: 2em;
+    display: block;
+  }
 }
 
 @media screen and (min-width: 800px) {
