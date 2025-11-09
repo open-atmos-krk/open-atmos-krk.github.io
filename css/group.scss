@@ -166,9 +166,10 @@ img.pic {
 
 @media screen and (max-width: 800px) {
   img.pic {
-    width: 98%;
+    width: 100%;
     float: none;
     text-align: center;
+    margin-bottom: 1em;
   }
 }
 
