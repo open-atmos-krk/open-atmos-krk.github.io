@@ -47,7 +47,8 @@ jobs:
       - uses: actions/download-artifact@v6
         with:
           name: github-pages
-      - run: tar xvf artifact.tar
+          path: _site
+      - run: tar xvf artifact.tar --wildcards --wildcards-match-slash '*.html'
       - uses: actions/checkout@v4
       - uses: rojopolis/spellcheck-github-actions@0.54.0
 
@@ -69,10 +70,9 @@ jobs:
       - uses: actions/download-artifact@v6
         with:
           name: github-pages
-      - run: tar xvf artifact.tar
+      - run: tar xvf artifact.tar --wildcards --wildcards-match-slash '*.html'
       - uses: urlstechie/urlchecker-action@master
         with:
-          subfolder: _site
           file_types: .html
           print_all: false
           verbose: true
