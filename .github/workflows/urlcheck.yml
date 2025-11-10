@@ -27,7 +27,7 @@ jobs:
         if: steps.filter.outputs.urlsToCheck == 'true'
         uses: urlstechie/urlchecker-action@master
         with:
-          files: ${{ steps.filter.outputs.urlsToCheck_files }}
+          include_files: ${{ steps.filter.outputs.urlsToCheck_files }}
           print_all: false
           verbose: true
           timeout: 7
