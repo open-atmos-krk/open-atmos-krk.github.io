@@ -2,7 +2,7 @@
 title: MPDATA&thinsp;meets&thinsp;Black&dash;Scholes
 
 description: |
-  We apply the MPDATA scheme to option pricing by reformulating the Black-Scholes-Merton equation 
+  🎓 We apply the MPDATA scheme to option pricing by reformulating the Black-Scholes-Merton equation 
     as an advection problem. 
   This novel application enables all PDE terms to be handled consistently with a single non-oscillatory,
     high-order and positive-definite numerical operator.
@@ -36,7 +36,7 @@ All figures and tables from the above papers are reproducible with Jupyter noteb
 </p>
 
 
-<h3>Student project opportunities</h3>
+<h3>🎓 Student project opportunities</h3>
 <ul>
   <li>Pricing Amerasian (Hawaiian) options and other exotics with MPDATA</li>
   <li>Geomeric-average Asian option valuation using MPDATA (requires a source term) for comparison with analytic solution</li>

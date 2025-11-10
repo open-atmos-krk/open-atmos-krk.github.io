@@ -2,7 +2,7 @@
 title: PyPartMC
 
 description: |
-  PyPartMC is a C++-implemented Python interface to <a href="https://lagrange.mechse.illinois.edu/partmc/">PartMC</a>, 
+  🎓 PyPartMC is a C++-implemented Python interface to <a href="https://lagrange.mechse.illinois.edu/partmc/">PartMC</a>, 
     a particle-resolved Monte-Carlo code for atmospheric aerosol simulation. 
   The Python API facilitates using PartMC from Julia, Matlab, etc.
 
@@ -71,7 +71,7 @@ Integration with Matlab and Julia is depicted with examples included in the PyPa
   <figcaption>Sylwester Arabas (AGH) presenting on "<em>PyPartMC Aerosol Dynamics Package: Engineering Python-to-Fortran Bindings in C++</em>" at the <a href="https://leap.columbia.edu/">LEAP Science and Technology Center, Columbia University, NY, USA</a></figcaption>
 </figure>
 
-<h3>Student project opportunities</h3>
+<h3>🎓 Student project opportunities</h3>
 <ul>
   <li>Engineering and documenting a way to use PyPartMC C++ classes as C++ bindings to PartMC Fortran codebase</li>
   <li>Engineering semi-automated binding-generation layer to reduce boilerplate Fortran and C code in PyPartMC (informed by the existing C++ abstractions)</li>

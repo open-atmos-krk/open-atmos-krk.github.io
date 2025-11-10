@@ -2,7 +2,7 @@
 title: SDM meets Isotopes
 
 description: |
-  We develop a novel particle-based Monte-Carlo cloud and precipitation 
+  🎓 We develop a novel particle-based Monte-Carlo cloud and precipitation 
     microphysics model resolving the dynamics of water isotopic composition 
     upon kinetically limited diffusional processes and particle collisions.
 
@@ -48,7 +48,7 @@ Our objective is to create a novel tool enabling:
  - improvements in methods for inferring atmospheric thermodynamic state from meteoric water 
    isotopic composition data (e.g., from ice cores). 
 
-### Student project opportunities
+### 🎓 Student project opportunities
 - Extending PySDM to explicitly resolve droplet heat budget and thus capture non-equilibrium drop temperature 
   (as an alternative to the current equilibrium approximation). 
 
