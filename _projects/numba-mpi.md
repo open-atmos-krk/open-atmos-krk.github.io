@@ -63,4 +63,6 @@ Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/
   <li>Extending the API to support non-default communicators (for subsetting groups of processes)</li>
   <li>Engineering support for <code>MPI_IN_PLACE</code> in [<code>all</code>]<code>gather</code>/<code>scatter</code> and <code>allreduce</code></li>
   <li>Extending the test suite to include hybrid threading+MPI parallelism with performance checks</li>
+  <li>Adding support for decoding MPI status codes by wrapping <code>MPI_ERROR_CLASS</code></li>
+  <li>Enabling support for passing CuPy arrays to MPI calls (key challenge: GPU support in CI)</li>
 </ul>
