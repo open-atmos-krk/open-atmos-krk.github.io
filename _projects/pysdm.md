@@ -25,7 +25,7 @@ no-link: true
 image: "/img/logo_pysdm.png"
 ---
 
-<h2>pure-Python, open-source implementation of the SDM algorithm</h2>
+<h3>pure-Python, open-source implementation of the SDM algorithm</h3>
 <p>
 <b>PySDM</b> is built around a Pythonic implementation of the Super-Droplet Method Monte-Carlo scheme for 
   coagulation (<a href="https://doi.org/10.1002/qj.441">Shima et al. 2009</a>). 
@@ -44,7 +44,7 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <figcaption>Two-dimensional prescribed-flow warm-rain simulation using PySDM</figcaption>
 </figure>
 
-<h2>Release history and papers on PySDM</h2>
+<h3>Release history and papers on PySDM</h3>
 <p>PySDM v1 constituted the <a href="https://www.ap.uj.edu.pl/diplomas/141204/">MSc thesis of Piotr Bartman (Jagiellonian Univ., 2020)</a> who had
    developed PySDM API, adaptive numerical solvers and package architecture.
   Features and examples of PySDM v1 are sumarised in a <a href="https://doi.org/10.21105/joss.03219">Bartman et al. 2022 JOSS paper</a>.
@@ -59,7 +59,7 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
    <a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025 arXiv preprint</a>.
 </p>
 
-<h2>Papers using PySDM</h2>
+<h3>Papers using PySDM</h3>
 <ul>
   <li><a href="https://doi.org/10.1029/2022MS002994">Bieli et al. 2022</a>: "<em>An Efficient Bayesian Approach to Learning Droplet Collision Kernels: Proof of Concept Using “Cloudy,” a New n-Moment Bulk Microphysics Scheme</em>"</li>
   <li><a href="https://doi.org/10.1029/2022MS003186">de Jong e al. 2022</a>: "<em>Spanning the Gap From Bulk to Bin: A Novel Spectral Microphysics Method</em>"</li>
@@ -70,7 +70,7 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <li><a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025</a>: "<em>Adaptive time-stepping for the Super-Droplet Method Monte Carlo collision-coalescence scheme</em>"</li>
 </ul>
 
-<h2>Potential BEng/MSc projects</h2>
+<h3>Student project opportunities</h3>
 <ul>
   <li>Distributed-memory parallelism for PySDM using <a href="https://doi.org/10.1016/j.softx.2024.101897">Numba-MPI</a></li>
   <li>Brownian coagulation in PySDM and development of aerosol-related examples</li>

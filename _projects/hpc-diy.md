@@ -37,7 +37,7 @@ The project is truly a team-wide effort and has multiple goals:
   <li>last but not least, to have fun tinkering together with a DIY hardware project!</li>
 </ul>
 
-## Compute nodes and interconnection network
+### Compute nodes and interconnection network
 As of the present proof-of-concept stage, we start off with two compute nodes. 
 Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer J1010) with 4GB and 128-core CUDA GPUs.
 The compute nodes and the access node are connected using a <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">Gigabit Ethernet</a> switch.
@@ -47,7 +47,7 @@ For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (80
     <img width="400px" src="/img/hpc-diy/compute_nodes.jpg">
 </figure>
 
-## Access/storage node
+### Access/storage node
 The role of access node is held by a single-plate <a href="https://en.wikipedia.org/wiki/Raspberry_Pi#Series_and_generations">Raspberry Pi 5</a> 
   computer with built-in 16GB RAM memory and 4-core ARM 2.4 GHz CPU. 
 Access node has a 16&nbsp;GB microSD memory card, and is&nbsp;connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a> (Seagate FireCuda). 
@@ -58,7 +58,7 @@ The Raspberry Pi is also connected (through goldpins) to a temperature sensor.
     <img width="400px" src="/img/hpc-diy/access_storage_node.jpg">
 </figure>
 
-## Power supply and consumption monitoring, thermal control, electrical wiring
+### Power supply and consumption monitoring, thermal control, electrical wiring
 The external power supply is&nbsp;connected to a Bluetooth power consumption meter (Voltcraft SEM6000).
 A power strip with six USB ports (2.1&nbsp;A power per&nbsp;pair) is used to supply all components including 
   the Gigabit Ethernet switch which is&nbsp;connected directly into power strip. 
@@ -72,7 +72,7 @@ We use a dedicated grounding busbar connected to the chassis, patch-panels and o
     <img width="400px" src="/img/hpc-diy/power_supply.jpg">
 </figure>
 
-## Chassis and cable management
+### Chassis and cable management
 The system is mounted within a 9-unit <a href="https://en.wikipedia.org/wiki/19-inch_rack#10-inch_rack">10-inch rack</a> with two 
   shelves (one for access node and SSD; one for compute nodes and the HDMI switch).
 The 7-inch display is also mounted within the rack (occupying ca. 2.5 units).
@@ -84,7 +84,7 @@ We use different colours for front-side USB ports and cables used for power supp
     <img width="400px" src="/img/hpc-diy/chassis.jpg">
 </figure>
 
-## Mobile platform
+### Mobile platform
 The rack is attached to a mobile platform which also has a laptop docking station attached for connecting
   up to two displays used for demonstration purposes (not directly connected to the cluster or the rack).
 The whole system is in a proof-of-concept stage, and we are having great fun learning how to&nbsp;assemble,

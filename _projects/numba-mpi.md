@@ -38,7 +38,7 @@ Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/
   and <a href="https://pypi.org/project/pympdata-mpi/">PyMPDATA-MPI</a>.
 </p>
 
-<h4>Project resources</h4>
+<h3>Project resources</h3>
 <ul>
   <li><a href="https://numba-mpi.github.io/numba-mpi/">Documentation</a></li>
   <li><a href="https://pypi.org/project/numba-mpi/">PyPI package</a></li>
@@ -48,7 +48,7 @@ Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/
   <li><a href="https://zenodo.org/badge/latestdoi/316911228">Zenodo release archive</a></li>
 </ul>
 
-<h4>Project overview video (FOSDEM talk)</h4>
+<h3>Project overview video (FOSDEM talk)</h3>
 <figure>
   <video controls>
    <source src="https://video.fosdem.org/2023/UD2.120%20(Chavanne)/numba_mpi.webm" type="video/webm"> 
@@ -56,3 +56,12 @@ Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/
   </video>
   <figcaption><a href="https://archive.fosdem.org/2023/schedule/event/numba_mpi/">FOSDEM 2023 Numba-MPI talk at the HPC, Big Data, and Data Science Devroom</a></figcaption>
 </figure>
+
+<h3>Student project opportunities</h3>
+<ul>
+  <li>Engineering support for <code>MPI_Type_create_struct</code> (mapping to Numpy structured arrays)</li>
+  <li>Redesigning the API to allow for custom JIT-compiler flags to be passed to Numba (e.g., <code>boundscheck</code>, <code>fastmath</code>, <code>nogil</code>, <code>cache</code> or <code>error_model</code>)</li>
+  <li>Extending the API to support non-default communicators (for subsetting groups of processes)</li>
+  <li>Engineering support for <code>MPI_IN_PLACE</code> in [<code>all</code>]<code>gather</code>/<code>scatter</code> and <code>allreduce</code></li>
+  <li>Extending the test suite to include hybrid threading+MPI parallelism with performance checks</li>
+</ul>

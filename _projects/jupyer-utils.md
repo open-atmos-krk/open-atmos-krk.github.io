@@ -31,14 +31,14 @@ Here are our solutions: just replace <code><a href="https://matplotlib.org/stabl
   in <a href="https://github.com/open-atmos/PySDM">PySDM</a>, <a href="https://github.com/open-atmos/PyMPDATA">PyMPDATA</a> and <a href="https://github.com/open-atmos/PyPartMC">PyPartMC</a> projects.
 </p>
 
-<h4>Project resources</h4>
+<h3>Project resources</h3>
 <ul>
   <li><a href="https://open-atmos.github.io/jupyter-utils">Documentation</a></li>
   <li><a href="https://pypi.org/project/open-atmos-jupyter-utils/">PyPI package page</a></li>
   <li><a href="https://github.com/open-atmos/jupyter-utils/">GitHub repository</a></li>
 </ul>
 
-<h4>Project overview video (FOSDEM lightning talk)</h4>
+<h3>Project overview video (FOSDEM lightning talk)</h3>
 <figure>
   <video controls>
    <source src="https://ftp.fau.de/fosdem/2025/k1105/fosdem-2025-6674-lightning-lightning-talks.av1.webm#t=1475" type="video/webm">

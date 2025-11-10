@@ -34,7 +34,7 @@ Implemented in the open-source <a href="https://open-atmos-krk.github.io/project
   coalescence modelling and provides a framework for more faithful representations of cloud microphysics.
 </p>
 
-<h4>Presentations and publications on the adaptive time-stepping for SDM</h4>
+<h3>Presentations and publications on the adaptive time-stepping for SDM</h3>
 <ul>
   <li><a href="https://www.igf.fuw.edu.pl/en/seminars/presentation/pysdm-pythonic-particle-based-cloud-microphysics-2020-20211/">Bartman 2020 (Atmospheric Physics Seminar talk, Univ. Warsaw, Poland)</a>: "<em>PySDM: Pythonic particle-based cloud microphysics package</em>"</li>
   <li><a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/419078">Bartman &amp; Arabas 2023 (AMS Annual Meeting, Denver, CO, USA)</a>: "<em>Adaptive Time-Stepping for Particle-Based Cloud Microphysics: Super-Droplet Transport, Collisions and Condensational Growth</em>"</li>

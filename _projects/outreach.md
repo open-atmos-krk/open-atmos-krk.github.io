@@ -17,7 +17,7 @@ layout: project
 image: "/img/short_course.jpg"
 ---
 
-## Polish edition of the Rogers & Yau "<em>Short course on cloud physics</em>"
+### Polish edition of the Rogers & Yau "<em>Short course on cloud physics</em>"
 
 Our flagship outreach project! 
 <a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">Published in 2023 and available in bookstores and online (as both an e-book and a hard copy)</a>.
@@ -35,13 +35,13 @@ The entire book was typeset in
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX logo" style="height: 1em; vertical-align: -0.2ex;">
   community for making scientific typesetting possible!
 
-## Wikipedia articles
+### Wikipedia articles
 
 We've had major contributions to the following articles:
 - <a href="https://en.wikipedia.org/wiki/Draft:Super_droplet_method">Super droplet method (in English) - draft!</a>
 - <a href="https://en.wikipedia.org/wiki/Draft:MPDATA">MPDATA (in English) - draft!</a>
 - <a href="https://pl.wikipedia.org/wiki/Isztar_Zawadzki">Isztar Zawadzki (in Polish)</a>
 
-## Cloud-physics examples for general-purpose open-source packages
+### Cloud-physics examples for general-purpose open-source packages
 
 Stay tuned! (working on parcel-model example for <a href="https://docs.sciml.ai/">DifferentialEquations.jl</a>).

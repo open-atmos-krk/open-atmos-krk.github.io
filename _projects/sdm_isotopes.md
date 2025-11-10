@@ -14,7 +14,7 @@ image: "/img/isotopes.jpg"
 layout: project
 ---
 
-## Modelling isotopic signatures in precipitation using particle-based cloud microphysics
+### Modelling isotopic signatures in precipitation using particle-based cloud microphysics
 We model the evolution of isotopic composition of water droplets and ambient vapour.
 Our focus is on stable water isotopologues: H<sub>2</sub>O, <a href="https://en.wikipedia.org/wiki/Semiheavy_water">HDO</a>, 
   <a href="https://en.wikipedia.org/wiki/Heavy_water#Heavy-oxygen_water">H<sub>2</sub><sup>18</sup>O, H<sub>2</sub><sup>17</sup>O</a>.
@@ -48,11 +48,11 @@ Our objective is to create a novel tool enabling:
  - improvements in methods for inferring atmospheric thermodynamic state from meteoric water 
    isotopic composition data (e.g., from ice cores). 
 
-#### Potential BEng/MSc projects
+### Student project opportunities
 - Extending PySDM to explicitly resolve droplet heat budget and thus capture non-equilibrium drop temperature 
   (as an alternative to the current equilibrium approximation). 
 
-#### Acknowledgement
+### Acknowledgement
 This project received support from
 <a href="https://ncn.gov.pl/en">Polish National Science Centre</a> (SONATA grant no. <a href="https://projekty.ncn.gov.pl/en/index.php?projekt_id=499886">2020/39/D/ST10/01220</a>) and the
 <a href="https://excellence.agh.edu.pl/">Excellence Initiative – Research University pragramme at the AGH University of Krakow</a> (priority research area: Water-Energy-Climate).

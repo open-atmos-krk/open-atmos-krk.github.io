@@ -22,7 +22,7 @@ image: "/img/logo_pympdata.png"
 <script type="text/javascript" async
      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-## pure-Python, open-source implementation of the MPDATA algorithm
+### pure-Python, open-source implementation of the MPDATA algorithm
 <b>PyMPDATA</b> is a high-perforamance Numba-accelerated Python package implementing the <it>MPDATA</it> algorithm by [Smolarkiewicz et al.](#papers-on-the-mpdata-algorithm) 
   aimed at solving generalised advection-diffusion PDEs in geophysical fluid dynamics and beyond.
 It numerically solves equations of form: <br> <center>
@@ -63,7 +63,7 @@ PyMPDATA has an example gallery available as a separate Python package, showing 
 The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its source code hosted on [GitHub](https://github.com/open-atmos/PyMPDATA), 
   along with the [documentation and example gallery](https://open-atmos.github.io/PyMPDATA/). 
 
-## Selected papers on the MPDATA algorithm (features implemented in PyMPDATA)
+### Selected papers on the MPDATA algorithm (features implemented in PyMPDATA)
  - [Smolarkiewicz 1983 (Mon. Weather Rev. 111)](https://doi.org/10.1175/1520-0493(1983)111%3C0479:ASPDAS%3E2.0.CO;2): "<em>A Simple Positive Definite Advection Scheme with Small Implicit Diffusion</em>" 
  - [Smolarkiewicz 1984 (J. Comp. Phys. 54)](https://doi.org/10.1016/0021-9991(84)90121-9): "<em>A fully multidimensional positive definite advection transport algorithm with small implicit diffusion</em>"
  - [Smolarkiewicz & Grabowski 1990](https://doi.org/10.1016/0021-9991(90)90105-A): "<em>The multidimensional positive definite advection transport algorithm: nonoscillatory option</em>"
@@ -72,13 +72,13 @@ The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its
  - [Margolin & Shashkov 2006 (Int. J. Numer. Methods Fluids 50)](https://doi.org/10.1002/fld.1070): "<em>MPDATA: gauge transformations, limiters and monotonicity†</em>"
  - [Jaruga et al. 2015 (Geosci. Model Dev. 8)](https://doi.org/10.5194/gmd-8-1005-2015): "<em>libmpdata++ 1.0: a library of parallel MPDATA solvers for systems of generalised transport equations</em>"
 
-## Papers on or using PyMPDATA
+### Papers on or using PyMPDATA
  - [Bartman et al. 2022 (JOSS 7)](https://doi.org/10.21105/joss.03896): "<em> PyMPDATA v1: Numba-accelerated implementation of MPDATA with examples in Python, Julia and Matlab</em>"
  - [Olesik et al. 2022 (Geosci. Model Dev. 15)](https://doi.org/10.5194/gmd-15-3879-2022): "<em>On numerical broadening of particle-size spectra: a condensational growth study using PyMPDATA 1.0</em>"
  - [Derlatka et al. 2024 (SoftwareX 28)](https://doi.org/10.1016/j.softx.2024.101897): "<em>Numba-MPI v1.0: Enabling MPI communication within Numba/LLVM JIT-compiled Python code</em>"
  - [Magnuszewski et al. 2025 (arXiv)](https://doi.org/10.48550/arXiv.2505.24435): "<em> Path-dependent option pricing with two-dimensional PDE using MPDATA</em>"
 
-## Potential BEng/MSc projects
+### Student project opportunities
  - [traffic flow](https://en.wikipedia.org/wiki/Macroscopic_traffic_flow_model) dynamics with PyMPDATA
  - [immersed boundary method](https://en.wikipedia.org/wiki/Immersed_boundary_method) with PyMPDATA
  - [fully third-order MPDATA](https://doi.org/10.1016/j.jcp.2018.01.005) variant for PyMPDATA

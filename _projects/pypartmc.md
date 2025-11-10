@@ -41,7 +41,7 @@ Comprehensive test coverage ensures maintainability of the codebase, and interop
 Integration with Matlab and Julia is depicted with examples included in the PyPartMC documentation.
 </p>
 
-<h2>Resources</h2>
+<h3>Resources</h3>
 <p>
 <ul>
   <li><a href="https://github.com/open-atmos/PyPartMC/">PyPartMC GitHub repository</a></li>
@@ -52,7 +52,7 @@ Integration with Matlab and Julia is depicted with examples included in the PyPa
 </ul>
 </p>
 
-<h2>Project publications</h2>
+<h3>Project publications</h3>
 <p>
 <ul>
   <li><a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1125642">Curtis et al. 2022 (AGU Fall Meeting, Chicago, IL, USA)</a>: "<em>PyPartMC: Aerosol model intercomparisons with particle resolved models via Python bindings to C++ and Fortran</em>"</li>
@@ -62,7 +62,7 @@ Integration with Matlab and Julia is depicted with examples included in the PyPa
 </ul>
 </p>
 
-<h2>Project overview talk videos</h2>
+<h3>Project overview talk videos</h3>
 <figure>
   <iframe src="https://www.youtube-nocookie.com/embed/uZwqEpjp8xc?si=sE4VgoMQHsnBKtt1&amp;start=5587" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption>Zach D'Aquino (UIUC) presenting on "<em>PyPartMC: A Pythonic interface to a particle-resolved Monte Carlo aerosol simulation framework</em>" at the <a href="https://airquality.ucdavis.edu/events/2023-international-aerosol-modeling-algorithms-conference">International Aerosol Modeling and Algorithms Conference 2023</a>, UCDavis, CA, USA</figcaption>
@@ -72,7 +72,7 @@ Integration with Matlab and Julia is depicted with examples included in the PyPa
   <figcaption>Sylwester Arabas (AGH) presenting on "<em>PyPartMC Aerosol Dynamics Package: Engineering Python-to-Fortran Bindings in C++</em>" at the <a href="https://leap.columbia.edu/">LEAP Science and Technology Center, Columbia University, NY, USA</a></figcaption>
 </figure>
 
-<h2>Potential BEng/MSc projects</h2>
+<h3>Student project opportunities</h3>
 <ul>
   <li>Engineering and documenting a way to use PyPartMC C++ classes as C++ bindings to PartMC Fortran codebase</li>
   <li>Engineering semi-automated binding-generation layer to reduce boilerplate Fortran and C code in PyPartMC (informed by the existing C++ abstractions)</li>
