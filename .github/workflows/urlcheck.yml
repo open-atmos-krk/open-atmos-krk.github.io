@@ -12,13 +12,24 @@ jobs:
   url-check:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4.1.6
-      - uses: urlstechie/urlchecker-action@master
+      - uses: actions/checkout@v4
         with:
-          file_types: .md,.html,.json,.yaml,.yml,.txt,.bib
+          fetch-depth: 0
+
+      - uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            urlsToCheck:
+              - '**/*.{md,html,json,yml,yaml,txt,bib}'
+
+      - name: Run URL checker
+        if: steps.filter.outputs.urlsToCheck == 'true'
+        uses: urlstechie/urlchecker-action@master
+        with:
+          files: ${{ steps.filter.outputs.urlsToCheck_files }}
           print_all: false
           verbose: true
           timeout: 7
           retry_count: 3
-          exclude_files: .github/workflows/urlcheck.yml
 
