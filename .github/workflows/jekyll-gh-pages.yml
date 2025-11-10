@@ -48,6 +48,7 @@ jobs:
         with:
           name: github-pages
           path: _site
+      - run: cd _site; tar xvf artifact.tar
       - uses: actions/checkout@v4
       - uses: rojopolis/spellcheck-github-actions@0.54.0
 
@@ -70,7 +71,7 @@ jobs:
         with:
           name: github-pages
           path: _site
-      - run: ls -R _site
+      - run: cd _site; tar xvf artifact.tar
       - uses: urlstechie/urlchecker-action@master
         with:
           subfolder: _site
