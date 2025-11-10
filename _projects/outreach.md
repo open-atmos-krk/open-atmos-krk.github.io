@@ -1,6 +1,5 @@
 ---
 title: Cloud Physics Outreach
-subtitle: <a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">wuj.pl/ksiazka/zarys-fizyki-chmur</a>
 
 description: |
   We engage in public outreach activities aimed at popularising cloud physics and

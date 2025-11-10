@@ -1,6 +1,5 @@
 ---
 title: PyMPDATA
-subtitle: <a href="https://pypi.org/p/pympdata">PyPI.org/p/PyMPDATA</a>
 
 description: |
   PyMPDATA is a Numba-accelerated Pythonic implementation of the MPDATA algorithm of Smolarkiewicz et al. 

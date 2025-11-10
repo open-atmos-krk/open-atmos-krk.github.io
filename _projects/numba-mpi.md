@@ -1,6 +1,5 @@
 ---
 title: Numba-MPI
-subtitle: <a href="https://pypi.org/p/numba-mpi">PyPI.org/p/numba-mpi</a>
 
 description: |
   Numba-MPI provides Python wrappers to the C MPI API callable from within Numba JIT-compiled code and

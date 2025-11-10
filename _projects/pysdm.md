@@ -1,6 +1,5 @@
 ---
 title: PySDM
-subtitle: <a href="https://pypi.org/p/pysdm">PyPI.org/p/PySDM</a>
 
 description: |
   PySDM is a particle-based cloud microphysics package with box,
