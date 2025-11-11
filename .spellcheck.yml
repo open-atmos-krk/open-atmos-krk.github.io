@@ -57,6 +57,10 @@ matrix:
             close: '\biodine vapor with vapors\b'
           - open: '\bby dual-polarization radar\b'
             close: '\bby dual-polarization radar\b'
+          - open: '\bMini-workshop on particle-based cloud modeling 2025\b'
+            close: '\bMini-workshop on particle-based cloud modeling 2025\b'
+          - open: '\bIDL/PV-WAVE\b'
+            close: '\bIDL/PV-WAVE\b'
 
   sources:
     - './_site/**/*.html' 

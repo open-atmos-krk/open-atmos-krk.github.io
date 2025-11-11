@@ -68,6 +68,7 @@ CFL
 Charlson
 Chuang
 CliMA
+CliMAS
 climateinformatics
 CMake
 Coakley
@@ -104,8 +105,10 @@ Dziok
 EGU
 EGUsphere
 Elmeko
+ENES
 Enomoto
 Eulerian
+EuroSciPy
 etc
 Facchini
 Falkovich
@@ -122,6 +125,7 @@ Gasparini
 Gervat
 Gettelman
 Girolamo
+GitHub
 Glassmeier
 GMD
 goldpins
@@ -142,6 +146,7 @@ HPC
 Huillet
 Huybrechts
 hydrometeors
+Hyogo
 IATA
 ICCS
 IDL
@@ -159,6 +164,7 @@ Jakubiak
 Jagiellonian
 Jaruga
 Jaszczuk
+Jeju
 Jetson
 JIT
 Joussaume
@@ -246,6 +252,7 @@ PyPI
 PySDM
 Pythonic
 Pythonicity
+Pythran
 Rafał
 Ramanathan
 reComputer
