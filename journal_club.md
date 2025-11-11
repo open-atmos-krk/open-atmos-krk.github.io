@@ -276,7 +276,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-020-01484-5" data-style="small_rectangle"></span>
     - [Abbott & Cronin 2021 (Science 371)](https://doi.org/10.1126/science.abc5181): "_Aerosol invigoration of atmospheric convection through increases in humidity_":
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.abc5181" data-style="small_rectangle"></span>
-    - [Sullivan & Voigt 2021 (Nature Commun. Earth. Environ. 2)](https://doi.org/10.1038/s43247-021-00206-7): "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
+    - [Sullivan & Voigt 2021 (Nature Comm. Earth. Environ. 2)](https://doi.org/10.1038/s43247-021-00206-7): "_Ice microphysical processes exert a strong control on the simulated radiative energy budget in the tropics_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-021-00206-7" data-style="small_rectangle"></span>
     - [Glassmeier et al. 2021 (Science 371)](https://doi.org/10.1126/science.abd3980): "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.abd3980" data-style="small_rectangle"></span>

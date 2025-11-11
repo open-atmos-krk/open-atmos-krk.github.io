@@ -12,6 +12,7 @@ matrix:
         ignores:
           - code
           - pre
+          - sup
     - pyspelling.filters.context:
         context_visible_first: true
         delimiters:
@@ -49,8 +50,8 @@ matrix:
             close: "\\bGeosci\\. Model Dev\\.\\b"
           - open: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
             close: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
-          - open: "\\bCommun\\. Earth\\. Environ\\.\\b"
-            close: "\\bCommun\\. Earth\\. Environ\\.\\b"
+          - open: "\\bComm\\. Earth\\. Environ\\.\\b"
+            close: "\\bComm\\. Earth\\. Environ\\.\\b"
           - open: '\biodine vapor\b'
             close: '\biodine vapor\b'
           - open: '\bby dual-polarization radar\b'

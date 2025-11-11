@@ -28,7 +28,7 @@ The adaptive scheme dynamically adjusts the timestep to eliminate this deficit,
 Validation in benchmark test cases shows that it reproduces the precision of short fixed timesteps while 
   retaining the speed of longer ones. 
 Implemented in the open-source <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a> Python package 
-  (<a href="https://github.com/emmacware/droplets.jl">as well as in the Droplets Julia package</a>), 
+  (<a href="https://github.com/emmacware/droplets.jl">as well as in the <code>Droplets.jl</code> Julia package</a>), 
   this approach enhances the reliability of probabilistic 
   coalescence modelling and provides a framework for more faithful representations of cloud microphysics.
 </p>

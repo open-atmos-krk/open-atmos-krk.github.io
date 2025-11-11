@@ -26,7 +26,7 @@ Here are our solutions: just replace <code><a href="https://matplotlib.org/stabl
   and use <code><a href="https://open-atmos.github.io/jupyter-utils/open_atmos_jupyter_utils/show_anim.html#show_anim">show_anim()</a></code> for animations.
 </p>
 
-<p>The open-atmos-jupyter-utils package has been developed for and used in numerous Jupyter notebooks 
+<p>The <code>open-atmos-jupyter-utils</code> package has been developed for and used in numerous Jupyter notebooks 
   in <a href="https://github.com/open-atmos/PySDM">PySDM</a>, <a href="https://github.com/open-atmos/PyMPDATA">PyMPDATA</a> and <a href="https://github.com/open-atmos/PyPartMC">PyPartMC</a> projects.
 </p>
 
