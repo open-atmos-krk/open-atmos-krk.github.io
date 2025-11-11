@@ -15,8 +15,10 @@ matrix:
           - pre
     - pyspelling.filters.context:
         context_visible_first: true
-        contexts_hide:
-          - ['(?i)LEAP Science and Technology Center', '']
+        delimiters:
+          - open: '(?)\bLEAP Science and Technology Center\b'
+            close: '(?)\bLEAP Science and Technology Center\b'
+
   sources:
     - './_site/**/*.html' 
 
