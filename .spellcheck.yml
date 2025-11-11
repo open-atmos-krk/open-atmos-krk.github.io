@@ -8,12 +8,12 @@ matrix:
       - .wordlist.txt
     encoding: utf-8
   pipeline:
-  - pyspelling.filters.html:
-    comments: false
-    ignores:
-    - code
-    - pre
+    - pyspelling.filters.html:
+        comments: false
+        ignores:
+          - code
+          - pre
   sources:
-  - './_site/**/*.html' 
+    - './_site/**/*.html' 
 
   default_encoding: utf-8
