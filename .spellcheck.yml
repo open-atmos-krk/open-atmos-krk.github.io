@@ -1,7 +1,6 @@
 matrix:
 - name: open-atmos-krk
   hunspell:
-    lang: en
     d: en_GB
   dictionary:
     wordlists:
