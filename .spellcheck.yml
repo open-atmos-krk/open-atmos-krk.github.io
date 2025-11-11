@@ -66,6 +66,10 @@ matrix:
             close: '\bon maintaining reproducibility in atmospheric modeling\b'
           - open: '\bAerosol Modeling and Algorithms Conference\b'
             close: '\bAerosol Modeling and Algorithms Conference\b'
+          - open: '\bModeling of Immersion\b'
+            close: '\bModeling of Immersion\b'
+          - open: '\bMicrophysics Modeling\b'
+            close: '\bMicrophysics Modeling\b'
 
   sources:
     - './_site/**/*.html' 

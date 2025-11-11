@@ -46,5 +46,5 @@ We've had major contributions to the following articles:
 Stay tuned! (working on parcel-model example for <a href="https://docs.sciml.ai/">DifferentialEquations.jl</a>).
 
 ### 🎓 Student project opportunities
-- development of interative teaching/demo/tutorial materials on the Burgers and shallow-water equations using PyMPDATA
+- development of interactive teaching/demo/tutorial materials on the Burgers and shallow-water equations using PyMPDATA
 - ditto for cloud microphysics topics using PySDM
