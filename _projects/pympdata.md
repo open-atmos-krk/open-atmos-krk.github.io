@@ -2,7 +2,7 @@
 title: PyMPDATA
 
 description: |
-  🎓 PyMPDATA is a Numba-accelerated Pythonic implementation of the MPDATA algorithm of Smolarkiewicz et al. 
+  PyMPDATA is a Numba-accelerated Pythonic implementation of the MPDATA algorithm of Smolarkiewicz et al. 
     used in geophysical fluid dynamics and beyond for numerically solving generalised convection-diffusion PDEs.
   PyMPDATA ships with examples in Python, Julia, Rust and Matlab.
 

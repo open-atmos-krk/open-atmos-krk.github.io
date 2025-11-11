@@ -2,7 +2,7 @@
 title: SDM meets Isotopes
 
 description: |
-  🎓 We develop a novel particle-based Monte-Carlo cloud and precipitation 
+  We develop a novel particle-based Monte-Carlo cloud and precipitation 
     microphysics model resolving the dynamics of water isotopic composition 
     upon kinetically limited diffusional processes and particle collisions.
 

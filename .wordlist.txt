@@ -210,7 +210,7 @@ MPDATA
 MPI
 MSc
 multiscale
-\nabla
+nabla
 nanobind
 NCAR
 netCDF
@@ -324,8 +324,8 @@ v1
 v2
 Vaishnav
 Vali
-\vec
 Vié
+vec
 Voigt
 Voltcraft
 Weronika

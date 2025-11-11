@@ -2,7 +2,7 @@
 title: Numba-MPI
 
 description: |
-  🎓 Numba-MPI provides Python wrappers to the C MPI API callable from within Numba JIT-compiled code and
+  Numba-MPI provides Python wrappers to the C MPI API callable from within Numba JIT-compiled code and
     enabling distributed-memory parallelism. 
 
 people:

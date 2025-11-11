@@ -2,7 +2,7 @@
 title: PyPartMC
 
 description: |
-  🎓 PyPartMC is a C++-implemented Python interface to <a href="https://lagrange.mechse.illinois.edu/partmc/">PartMC</a>, 
+  PyPartMC is a C++-implemented Python interface to <a href="https://lagrange.mechse.illinois.edu/partmc/">PartMC</a>, 
     a particle-resolved Monte-Carlo code for atmospheric aerosol simulation. 
   The Python API facilitates using PartMC from Julia, Matlab, etc.
 
