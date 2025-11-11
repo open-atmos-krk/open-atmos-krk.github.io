@@ -1,3 +1,5 @@
+debug: true
+
 matrix:
 - name: open-atmos-krk
   hunspell:
@@ -65,6 +67,8 @@ matrix:
             close: '\bLa londe les Maures\b'
           - open: '\bon maintaining reproducibility in atmospheric modeling\b'
             close: '\bon maintaining reproducibility in atmospheric modeling\b'
+          - open: '\bAerosol Modeling and Algorithms Conference\b'
+            close: '\bAerosol Modeling and Algorithms Conference\b'
 
   sources:
     - './_site/**/*.html' 
