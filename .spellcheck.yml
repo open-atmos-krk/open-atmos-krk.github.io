@@ -13,6 +13,7 @@ matrix:
           - code
           - pre
           - sup
+          - entity
     - pyspelling.filters.context:
         context_visible_first: true
         delimiters:
