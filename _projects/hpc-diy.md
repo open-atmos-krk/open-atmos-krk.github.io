@@ -62,7 +62,7 @@ The Raspberry Pi is also connected (through goldpins) to a temperature sensor.
 The external power supply is&nbsp;connected to a Bluetooth power consumption meter (Voltcraft <code>SEM6000</code>).
 A power strip with six USB ports (2.1&nbsp;A power per&nbsp;pair) is used to supply all components including 
   the Gigabit Ethernet switch which is&nbsp;connected directly into power strip. 
-A 230V fan (Elmeko <code>10&nbsp;080&nbsp;150</code>) is&nbsp;connected to the power strip through a thermostat (Siemens <code>8MR2171-2BB</code>)
+A 230V fan (Elmeko <code>10&nbsp;080&nbsp;150</code>) is&nbsp;connected to the power strip through a thermostat (<a href="https://sieportal.siemens.com/en-ww/products-services/detail/8MR2171-2BB">Siemens <code>8MR2171-2BB</code></a>)
   which is factory-set to enable ventilation above 60°C.
 A temperature sensor (Joy-it <code>SEN-DHT22</code> with <code>AM2302</code> chip) is placed next to the thermostat to enable monitoring of the
   temperature.
