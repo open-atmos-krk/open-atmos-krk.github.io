@@ -35,8 +35,8 @@ matrix:
             close: "\\bagh\\.edu\\.pl\\b"
           - open: "\\bzfs\\.agh\\.edu\\.pl\\b"
             close: "\\bzfs\\.agh\\.edu\\.pl\\b"
-          - open: "\\bgithub\\.com/open-atmos\\b"
-            close: "\\bgithub\\.com/open-atmos\\b"
+          - open: "\\bgithub\\.com\/open-atmos\\b"
+            close: "\\bgithub\\.com\/open-atmos\\b"
           - open: "\\bDifferentialEquations\\.jl\\b"
             close: "\\bDifferentialEquations\\.jl\\b"
           - open: "\\bDroplets\\.jl\\b"
@@ -63,6 +63,8 @@ matrix:
             close: '\bIDL/PV-WAVE\b'
           - open: '\bLa londe les Maures\b'
             close: '\bLa londe les Maures\b'
+          - open: '\bon maintaining reproducibility in atmospheric modeling\b'
+            close: '\bon maintaining reproducibility in atmospheric modeling\b'
 
   sources:
     - './_site/**/*.html' 
