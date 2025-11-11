@@ -1,13 +1,13 @@
 title: open-atmos-krk team at AGH University of Krakow
 url: http://open-atmos-krk.github.io
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+exclude: [bibble, README.md, Makefile, screenshot.png, blog]
 
 # colorize code snippets with the pygments module
 highlighter: pygments
 
 # The path structure for blog posts.
-permalink: /blog/:year/:month/:day/:title.html
+#permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
