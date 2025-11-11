@@ -6,6 +6,8 @@ exclude: [bibble, README.md, Makefile, screenshot.png, blog]
 # colorize code snippets with the pygments module
 highlighter: pygments
 
+permalink: /blog/:year/:month/:day/:title.html
+
 # Sections on the "people" page.
 roles:
   - key: faculty
@@ -24,13 +26,6 @@ base: ''
 collections:
   projects:
     output: true
-
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      permalink: none
 
 # Navigation bar links.
 navigation:
