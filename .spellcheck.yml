@@ -18,6 +18,10 @@ matrix:
         delimiters:
           - open: '\bLEAP Science and Technology Center\b'
             close: '\bLEAP Science and Technology Center\b'
+          - open: '\bet al.\b'
+            close: '\bet al.\b'
+          - open: '\bCeci n'est pas un superordinateur. \b'
+          - close: '\bCeci n'est pas un superordinateur. \b'
 
   sources:
     - './_site/**/*.html' 

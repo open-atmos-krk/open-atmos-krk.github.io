@@ -55,5 +55,5 @@ Our objective is to create a novel tool enabling:
 ### Acknowledgement
 This project received support from
 <a href="https://ncn.gov.pl/en">Polish National Science Centre</a> (SONATA grant no. <a href="https://projekty.ncn.gov.pl/en/index.php?projekt_id=499886">2020/39/D/ST10/01220</a>) and the
-<a href="https://excellence.agh.edu.pl/">Excellence Initiative – Research University pragramme at the AGH University of Krakow</a> (priority research area: Water-Energy-Climate).
+<a href="https://excellence.agh.edu.pl/">Excellence Initiative – Research University programme at the AGH University of Krakow</a> (priority research area: Water-Energy-Climate).
 
