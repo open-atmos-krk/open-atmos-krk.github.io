@@ -50,7 +50,7 @@ For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (80
 ### Access/storage node
 The role of access node is held by a single-plate <a href="https://en.wikipedia.org/wiki/Raspberry_Pi#Series_and_generations">Raspberry Pi 5</a> 
   computer with built-in 16GB RAM memory and 4-core ARM 2.4 GHz CPU. 
-Access node has a 16&nbsp;GB microSD memory card, and is&nbsp;connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a> (Seagate FireCuda). 
+Access node has a 16&nbsp;GB microSD memory card, and is&nbsp;connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a>. 
 Raspberry has only one network interface controller, so&nbsp;one network is&nbsp;connected through Ethernet wire and another one has additional USB network adapter. 
 The Raspberry Pi is also connected (through goldpins) to a temperature sensor. 
 
