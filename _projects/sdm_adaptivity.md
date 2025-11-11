@@ -40,3 +40,8 @@ Implemented in the open-source <a href="https://open-atmos-krk.github.io/project
   <li><a href="https://www.igf.fuw.edu.pl/en/seminars/presentation/adaptive-time-stepping-within-the-super-droplet-me-2024-2025-043b0a">Ware 2025 (Atmospheric Physics Seminar talk, Univ. Warsaw, Poland)</a>: "<em>Adaptive Time-Stepping within the Super-Droplet Method Monte-Carlo Coagulation Scheme</em>"</li>
   <li><a href="https://arxiv.org/abs/2509.05536">Ware, Bartman-Szwarc et al. 2025 (arXiv e-print)</a>: "<em>Adaptive time-stepping for the Super-Droplet Method Monte Carlo collision-coalescence scheme</em>"</li>
 </ul>
+
+<h3>🎓 Student project opportunities</h3>
+<ul>
+  <li>Explore and document applicability of the adaptive scheme for drop breakup</li>
+</ul>

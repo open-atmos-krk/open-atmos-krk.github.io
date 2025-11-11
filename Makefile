@@ -11,7 +11,7 @@ _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 
 build: _includes/pubs.html
 	jekyll build
-	$(RM) -rf blog
+	$(RM) -rf _site/blog
 
 # you can configure these at the shell, e.g.:
 # SERVE_PORT=5001 make serve
