@@ -25,12 +25,12 @@ collections:
   projects:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      published: false
+#defaults:
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      published: false
 
 # Navigation bar links.
 navigation:
