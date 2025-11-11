@@ -18,6 +18,7 @@
 4GB
 16GB
 800x480
+5E1C
 Abbatt
 Adamus
 advection
@@ -152,7 +153,6 @@ Isono
 isotopologues
 Isztar
 Iwona
-J1010
 Jadwiga
 Jakubiak
 Jagiellonian
@@ -262,7 +262,6 @@ Schnell
 Scholes
 SDM
 Saibene
-SEM6000
 Shashkov
 Shima
 Shen

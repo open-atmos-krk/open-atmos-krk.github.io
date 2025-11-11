@@ -55,6 +55,8 @@ matrix:
             close: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
           - open: '\biodine vapor with vapors\b'
             close: '\biodine vapor with vapors\b'
+          - open: '\bby dual-polarization radar\b'
+            close: '\bby dual-polarization radar\b'
 
   sources:
     - './_site/**/*.html' 

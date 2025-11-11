@@ -39,9 +39,9 @@ The project is truly a team-wide effort and has multiple goals:
 
 ### Compute nodes and interconnection network
 As of the present proof-of-concept stage, we start off with two compute nodes. 
-Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer J1010) with 4GB and 128-core CUDA GPUs.
+Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer <code>J1010</code>) with 4GB and 128-core CUDA GPUs.
 The compute nodes and the access node are connected using a <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">Gigabit Ethernet</a> switch.
-For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, TC-8589556) screen mounted inside the chassis.
+For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, <code>TC-8589556</code>) screen mounted inside the chassis.
 
 <figure>
     <img width="400px" src="/img/hpc-diy/compute_nodes.jpg">
@@ -59,12 +59,12 @@ The Raspberry Pi is also connected (through goldpins) to a temperature sensor.
 </figure>
 
 ### Power supply and consumption monitoring, thermal control, electrical wiring
-The external power supply is&nbsp;connected to a Bluetooth power consumption meter (Voltcraft SEM6000).
+The external power supply is&nbsp;connected to a Bluetooth power consumption meter (Voltcraft <code>SEM6000</code>).
 A power strip with six USB ports (2.1&nbsp;A power per&nbsp;pair) is used to supply all components including 
   the Gigabit Ethernet switch which is&nbsp;connected directly into power strip. 
-A 230V fan (Elmeko 10&nbsp;080&nbsp;150) is&nbsp;connected to the power strip through a thermostat (Siemens 8MR2171-2BB)
+A 230V fan (Elmeko <code>10&nbsp;080&nbsp;150</code>) is&nbsp;connected to the power strip through a thermostat (Siemens <code>8MR2171-2BB</code>)
   which is factory-set to enable ventilation above 60°C.
-A temperature sensor (Joy-it SEN-DHT22 with AM2302 chip) is placed next to the thermostat to enable monitoring of the
+A temperature sensor (Joy-it <code>SEN-DHT22</code> with <code>AM2302</code> chip) is placed next to the thermostat to enable monitoring of the
   temperature.
 We use a dedicated grounding busbar connected to the chassis, patch-panels and other metal items.
 
