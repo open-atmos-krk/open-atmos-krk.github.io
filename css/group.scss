@@ -238,3 +238,11 @@ code {
   padding: 0;
   font-size: 100%;
 }
+
+.responsive-img {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
