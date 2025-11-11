@@ -1,12 +1,11 @@
 matrix:
 - name: open-atmos-krk
-  aspell:
+  hunspell:
     lang: en_GB
-    speller: hunspell
-  dictionary:
-    wordlists:
-      - .wordlist.txt
     encoding: utf-8
+    dictionary:
+      wordlists:
+        - .wordlist.txt
   pipeline:
     - pyspelling.filters.html:
         comments: false
