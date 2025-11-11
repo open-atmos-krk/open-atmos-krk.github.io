@@ -27,8 +27,8 @@ We have outlined the project design, features and performance in a
 </p>
 
 <p>
-Numba-MPI has been developed by an open group of developers from Jagiellonian University in Kraków, Poland,
-  from the Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany, from
+Numba-MPI has been developed by an open group of developers from Jagiellonian University in Kraków,
+  from the Max Planck Institute for Dynamics and Self-Organization in Göttingen, from
   our team at the AGH University of Krakow, Poland, with much appreciated contributions from the users' community.
 </p>
 

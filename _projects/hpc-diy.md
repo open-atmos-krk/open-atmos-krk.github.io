@@ -95,5 +95,7 @@ Stay tuned for more updates! 😉
     <img width="400px" src="/img/hpc-diy/mobile_stand.jpg">
 </figure>
 
-<br />
+<h3>🎓 Student project opportunities</h3>
+Stay tuned... 
+
 <br />
