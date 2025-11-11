@@ -25,8 +25,6 @@ matrix:
             close: '\bopen-atmos-krk\b'
           - open: "\\bCeci n'est pas un superordinateur\\b"
             close: "\\bCeci n'est pas un superordinateur\\b"
-          - open: "\\bOrganization in Göttingen\\b"
-            close: "\\bOrganization in Göttingen\\b"
           - open: "\\bfis\\.agh\\.edu\\.pl\\b"
             close: "\\bfis\\.agh\\.edu\\.pl\\b"
           - open: "\\buj\\.edu\\.pl\\b"
@@ -51,10 +49,10 @@ matrix:
             close: "\\bGeosci\\. Model Dev\\.\\b"
           - open: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
             close: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
-          - open: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
-            close: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
-          - open: '\biodine vapor with vapors\b'
-            close: '\biodine vapor with vapors\b'
+          - open: "\\bCommun\\. Earth\\. Environ\\.\\b"
+            close: "\\bCommun\\. Earth\\. Environ\\.\\b"
+          - open: '\biodine vapor\b'
+            close: '\biodine vapor\b'
           - open: '\bby dual-polarization radar\b'
             close: '\bby dual-polarization radar\b'
           - open: '\bMini-workshop on particle-based cloud modeling 2025\b'

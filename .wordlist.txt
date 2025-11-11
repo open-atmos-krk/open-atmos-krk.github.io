@@ -125,6 +125,7 @@ Fridlind
 Gasparini
 Gervat
 Gettelman
+gif
 Girolamo
 GitHub
 Glassmeier
@@ -212,6 +213,7 @@ MSc
 multiscale
 nabla
 nanobind
+nbconvert
 NCAR
 netCDF
 netlib
@@ -239,8 +241,10 @@ Pincus
 PDE
 PDEs
 pdf
+pdfs
 Penner
 Piotr
+plugin
 PLG
 PLGrid
 POIR
@@ -252,6 +256,7 @@ pyOpenSci
 PyPartMC
 PyPI
 PySDM
+pytest
 Pythonic
 Pythonicity
 Pythran
