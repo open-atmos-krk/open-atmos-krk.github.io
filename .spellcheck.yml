@@ -27,6 +27,16 @@ matrix:
             close: "\\bCeci n'est pas un superordinateur\\b"
           - open: "\\bDynamics and Self-Organization\\b"
             close: "\\bDynamics and Self-Organization\\b"
+          - open: "\\bfis\\.agh\\.edu\\.pl\\b"
+            close: "\\bfis\\.agh\\.edu\\.pl\\b"
+          - open: "\\buj\\.edu\\.pl\\b"
+            close: "\\buj\\.edu\\.pl\\b"
+          - open: "\\bagh\\.edu\\.pl\\b"
+            close: "\\bagh\\.edu\\.pl\\b"
+          - open: "\\bzfs\\.agh\\.edu\\.pl\\b"
+            close: "\\bzfs\\.agh\\.edu\\.pl\\b"
+          - open: "\\bgithub\\.com\\b"
+            close: "\\bgithub\\.com\\b"
 
   sources:
     - './_site/**/*.html' 

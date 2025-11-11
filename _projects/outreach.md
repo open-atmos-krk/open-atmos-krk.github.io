@@ -19,7 +19,7 @@ image: "/img/short_course.jpg"
 ### Polish edition of the Rogers & Yau "<em>Short course on cloud physics</em>"
 
 Our flagship outreach project! 
-<a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">Published in 2023 and available in bookstores and online (as both an e-book and a hard copy)</a>.
+<a href="https://wuj.pl/ksiazka/zarys-fizyki-chmur">Published in 2023 and available in bookshops and online (as both an e-book and a hard copy)</a>.
 The first and, so far, the only book devoted exclusively to cloud physics published in the Polish language. 
 
 Kudos to <a href="https://www.linkedin.com/in/rafal-korycinski-15116027/">Rafał Koryciński</a>
