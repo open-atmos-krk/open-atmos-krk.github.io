@@ -35,8 +35,8 @@ matrix:
             close: "\\bagh\\.edu\\.pl\\b"
           - open: "\\bzfs\\.agh\\.edu\\.pl\\b"
             close: "\\bzfs\\.agh\\.edu\\.pl\\b"
-          - open: "\\bgithub\\.com\\b"
-            close: "\\bgithub\\.com\\b"
+          - open: "\\bgithub\\.com/open-atmos\\b"
+            close: "\\bgithub\\.com/open-atmos\\b"
           - open: "\\bDifferentialEquations\\.jl\\b"
             close: "\\bDifferentialEquations\\.jl\\b"
           - open: "\\bDroplets\\.jl\\b"
@@ -53,6 +53,8 @@ matrix:
             close: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
           - open: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
             close: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
+          - open: '\biodine vapor with vapors\b'
+            close: '\biodine vapor with vapors\b'
 
   sources:
     - './_site/**/*.html' 

@@ -104,7 +104,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.154.3756.1555.b" data-style="small_rectangle"></span>
     - [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/2151371a0" data-style="small_rectangle"></span>
-    - [Hogan 1967 (Science 158)](https://doi.org/10.1126/science.158.3802.800.a): "_Ice  nuclei  from  direct  reaction  of  iodine  vapor  with  vapors  from leaded  gasoline_"
+    - [Hogan 1967 (Science 158)](https://doi.org/10.1126/science.158.3802.800.a): "_Ice nuclei from direct reaction of iodine vapor with vapors from leaded  gasoline_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.158.3802.800.a" data-style="small_rectangle"></span>
 * 1970s:
     - [Schnell & Vali 1972 (Nature 236)](https://doi.org/10.1038/236163a0): "_Atmospheric Ice Nuclei from Decomposing Vegetation_"
