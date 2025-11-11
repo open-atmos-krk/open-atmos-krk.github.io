@@ -37,6 +37,12 @@ matrix:
             close: "\\bzfs\\.agh\\.edu\\.pl\\b"
           - open: "\\bgithub\\.com\\b"
             close: "\\bgithub\\.com\\b"
+          - open: "\\bDifferentialEquations\\.jl\\b"
+            close: "\\bDifferentialEquations\\.jl\\b"
+          - open: "\\bDroplets\\.jl\\b"
+            close: "\\bDroplets\\.jl\\b"
+          - open: "\\bpy-pde\\b"
+            close: "\\bpy-pde\\b"
 
   sources:
     - './_site/**/*.html' 

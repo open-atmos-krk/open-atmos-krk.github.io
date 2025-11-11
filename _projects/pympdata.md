@@ -57,8 +57,8 @@ This allows for taking advantage of Just-In-Time (JIT) compilation provided by N
   with [PyMPDATA-MPI](https://pypi.org/project/pympdata-mpi/). 
 PyMPDATA has an example gallery available as a separate Python package, showing how it can be used to solve equations such as 
   the [Black-Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_equation) equation, 
-  [Burgers'](https://en.wikipedia.org/wiki/Burgers%27_equation) equation and 
-  [Shallow-Water](https://en.wikipedia.org/wiki/Shallow_water_equations) equations. 
+  [Burgers](https://en.wikipedia.org/wiki/Burgers%27_equation) equation and 
+  [shallow-water](https://en.wikipedia.org/wiki/Shallow_water_equations) equations. 
 The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its source code hosted on [GitHub](https://github.com/open-atmos/PyMPDATA), 
   along with the [documentation and example gallery](https://open-atmos.github.io/PyMPDATA/). 
 
