@@ -70,6 +70,8 @@ matrix:
             close: '\bModeling of Immersion\b'
           - open: '\bMicrophysics Modeling\b'
             close: '\bMicrophysics Modeling\b'
+          - open: '\bMultiscale Modeling\b'
+            close: '\bMultiscale Modeling\b'
 
   sources:
     - './_site/**/*.html' 
