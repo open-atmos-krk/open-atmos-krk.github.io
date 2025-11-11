@@ -43,12 +43,16 @@ matrix:
             close: "\\bDroplets\\.jl\\b"
           - open: "\\bpy-pde\\b"
             close: "\\bpy-pde\\b"
+          - open: "\\bes_jobs_net\\b"
+            close: "\\bes_jobs_net\\b"
           - open: "\\blibmpdata++\\b"
             close: "\\blibmpdata++\\b"
           - open: "\\bGeosci\\. Model Dev\\.\\b"
             close: "\\bGeosci\\. Model Dev\\.\\b"
           - open: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
             close: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
+          - open: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
+            close: "\\bNature Commun\\. Earth\\. Environ\\.\\b"
 
   sources:
     - './_site/**/*.html' 

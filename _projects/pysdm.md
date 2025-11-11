@@ -58,15 +58,16 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
    <a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025 arXiv preprint</a>.
 </p>
 
-<h3>Papers using PySDM</h3>
+<h3>Publications using PySDM</h3>
 <ul>
-  <li><a href="https://doi.org/10.1029/2022MS002994">Bieli et al. 2022</a>: "<em>An Efficient Bayesian Approach to Learning Droplet Collision Kernels: Proof of Concept Using “Cloudy,” a New n-Moment Bulk Microphysics Scheme</em>"</li>
-  <li><a href="https://doi.org/10.1029/2022MS003186">de Jong e al. 2022</a>: "<em>Spanning the Gap From Bulk to Bin: A Novel Spectral Microphysics Method</em>"</li>
-  <li><a href="https://doi.org/10.5194/gmd-16-4193-2023">de Jong et al. 2023</a>: "<em>Breakups are complicated: an efficient representation of collisional breakup in the superdroplet method</em>"</li>
-  <li><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</li>
-  <li><a href="https://doi.org/10.1029/2023MS004028">Azimi et al. 2024</a>: "<em>Training Warm-Rain Bulk Microphysics Schemes Using Super-Droplet Simulations</em>"</li>
-  <li><a href="https://doi.org/10.1029/2024MS004770">Arabas et al. 2025</a>: "<em>Immersion Freezing in Particle-Based Aerosol-Cloud Microphysics: A Probabilistic Perspective on Singular and Time-Dependent Models</em>"</li>
-  <li><a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025</a>: "<em>Adaptive time-stepping for the Super-Droplet Method Monte Carlo collision-coalescence scheme</em>"</li>
+  <li><a href="https://doi.org/10.1029/2022MS002994">Bieli et al. 2022 (JAMES)</a>: "<em>An Efficient Bayesian Approach to Learning Droplet Collision Kernels: Proof of Concept Using “Cloudy,” a New n-Moment Bulk Microphysics Scheme</em>"</li>
+  <li><a href="https://doi.org/10.1029/2022MS003186">de Jong e al. 2022 (JAMES)</a>: "<em>Spanning the Gap From Bulk to Bin: A Novel Spectral Microphysics Method</em>"</li>
+  <li><a href="https://doi.org/10.5194/gmd-16-4193-2023">de Jong et al. 2023 (GMD)</a>: "<em>Breakups are complicated: an efficient representation of collisional breakup in the superdroplet method</em>"</li>
+  <li><a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/408596">Singer et al. 2023 (AMS Annual Meeting)</a>: "<em>Surface-Active Organics: Results from a Particle-Based Microphysics Model Calibrated with Laboratory Experiments</em>"</li>
+  <li><a href="https://doi.org/10.1016/j.softx.2023.101613">D'Aquino et al. 2024 (SoftwareX)</a>: "<em>PyPartMC: A Pythonic interface to a particle-resolved, Monte Carlo aerosol simulation framework</em>"</li>
+  <li><a href="https://doi.org/10.1029/2023MS004028">Azimi et al. 2024 (JAMES)</a>: "<em>Training Warm-Rain Bulk Microphysics Schemes Using Super-Droplet Simulations</em>"</li>
+  <li><a href="https://doi.org/10.1029/2024MS004770">Arabas et al. 2025 (JAMES)</a>: "<em>Immersion Freezing in Particle-Based Aerosol-Cloud Microphysics: A Probabilistic Perspective on Singular and Time-Dependent Models</em>"</li>
+  <li><a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025 (arXiv)</a>: "<em>Adaptive time-stepping for the Super-Droplet Method Monte Carlo collision-coalescence scheme</em>"</li>
 </ul>
 
 <h3>🎓 Student project opportunities</h3>
