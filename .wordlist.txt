@@ -1,6 +1,15 @@
 AGH
 Agnieszka
 Arabas
+Bartman
+BEng
+Bulenok
+Jagiellonian
+Makulska
+MSc
+Oleksii
 PyMPDATA
 PySDM
+Sylwester
+Zimnoch
 Żaba
