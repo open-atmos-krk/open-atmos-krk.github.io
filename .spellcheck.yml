@@ -19,6 +19,10 @@ matrix:
             close: '\bLEAP Science and Technology Center\b'
           - open: '\bet al\.\b'
             close: '\bet al\.\b'
+          - open: '\bopen-atmos-jupyter-utils\b'
+            close: '\bopen-atmos-jupyter-utils\b'
+          - open: '\bopen-atmos-krk\b'
+            close: '\bopen-atmos-krk\b'
           - open: "\\bCeci n'est pas un superordinateur\\b"
             close: "\\bCeci n'est pas un superordinateur\\b"
 
