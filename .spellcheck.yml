@@ -15,9 +15,8 @@ matrix:
           - pre
     - pyspelling.filters.context:
         context_visible_first: true
-        contexts:
+        contexts_visible:
           - context: '(?i)\bLEAP Science and Technology Center\b'
-            replace: ''
   sources:
     - './_site/**/*.html' 
 
