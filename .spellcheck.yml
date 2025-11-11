@@ -1,5 +1,3 @@
-debug: true
-
 matrix:
 - name: open-atmos-krk
   hunspell:
