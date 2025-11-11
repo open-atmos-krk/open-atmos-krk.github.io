@@ -13,7 +13,6 @@ matrix:
           - code
           - pre
           - sup
-          - entity
     - pyspelling.filters.context:
         context_visible_first: true
         delimiters:
@@ -65,8 +64,8 @@ matrix:
             close: '\bIDL/PV-WAVE\b'
           - open: '\bLa londe les Maures\b'
             close: '\bLa londe les Maures\b'
-          - open: '<em><a href="https://ucar-sea.github.io/SEA-ISS-2025-Continuous-integration-with-research-notebooks/README.html">Continuous Integration with research notebooks: on maintaining reproducibility in atmospheric modeling</a></em>'
-            close: '<em><a href="https://ucar-sea.github.io/SEA-ISS-2025-Continuous-integration-with-research-notebooks/README.html">Continuous Integration with research notebooks: on maintaining reproducibility in atmospheric modeling</a></em>'
+          - open: '"<em><a href="https://ucar-sea.github.io/SEA-ISS-2025-Continuous-integration-with-research-notebooks/README.html">Continuous Integration with research notebooks: on maintaining reproducibility in atmospheric modeling</a></em>"'
+            close: '"<em><a href="https://ucar-sea.github.io/SEA-ISS-2025-Continuous-integration-with-research-notebooks/README.html">Continuous Integration with research notebooks: on maintaining reproducibility in atmospheric modeling</a></em>"'
           - open: '\bon maintaining reproducibility in atmospheric modeling\b'
             close: '\bon maintaining reproducibility in atmospheric modeling\b'
           - open: '\bAerosol Modeling and Algorithms Conference\b'
@@ -77,6 +76,7 @@ matrix:
             close: '\bMicrophysics Modeling\b'
           - open: '\bMultiscale Modeling\b'
             close: '\bMultiscale Modeling\b'
+          - open: '\b&nbsp;\b'
 
   sources:
     - './_site/**/*.html' 
