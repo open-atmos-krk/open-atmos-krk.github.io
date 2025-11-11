@@ -24,8 +24,13 @@ base: ''
 collections:
   projects:
     output: true
-  posts:
-    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      published: false
 
 # Navigation bar links.
 navigation:
