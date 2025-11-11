@@ -105,6 +105,7 @@ EGU
 EGUsphere
 Elmeko
 Enomoto
+Eulerian
 etc
 Facchini
 Falkovich
@@ -169,11 +170,12 @@ Kohnert
 Komabayasi
 Koren
 Koryciński
-Kowalczyk
 Knopf
+Kowalczyk
 Koop
 Kraków
 KRK
+Krzysztof
 Kubesh
 Kulmala
 Lebo
@@ -191,6 +193,7 @@ Margolin
 matplotlib
 Matuszko
 McInerney
+Michalski
 Michał
 microphysics
 Mirosław
@@ -215,9 +218,11 @@ Oleksii
 Olesik
 Onishi
 OpenMPI
+OpenMP
 Ovadnevaite
 Paweł
 Pawlowska
+Paraview
 PartMC
 Perkel
 Piasecki
@@ -240,6 +245,7 @@ PyPartMC
 PyPI
 PySDM
 Pythonic
+Pythonicity
 Rafał
 Ramanathan
 reComputer
@@ -298,6 +304,7 @@ Treude
 UCAR
 UCDavis
 UIUC
+ULB
 ultrafine
 Univ
 Université
