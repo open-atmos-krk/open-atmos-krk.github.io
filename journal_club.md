@@ -130,7 +130,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.237.4818.1020" data-style="small_rectangle"></span>
     - [Ochs III & Czys 1987 (Nature 327)](https://doi.org/10.1038/327606a0): "_Charge effects on the coalescence of water drops in free fall_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/327606a0" data-style="small_rectangle"></span>
-    - [Gervat et al. 1988 (Nature 333)](https://doi.org/10.1038/333241a0): "_Field evidence for the oxidation of SO2 by H2O2 in cap clouds_"
+    - [Gervat et al. 1988 (Nature 333)](https://doi.org/10.1038/333241a0): "_Field evidence for the oxidation of SO<sub>2</sub> by H<sub>2</sub>O<sub>2</sub> in cap clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/333241a0" data-style="small_rectangle"></span>
     - [Schlesinger 1988 (Nature 335)](https://doi.org/10.1038/335303c0): "_Negative or positive cloud optical depth feedback?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/335303c0" data-style="small_rectangle"></span>
@@ -140,7 +140,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/336754a0" data-style="small_rectangle"></span>
     - [Schwartz 1988 (Nature 336)](https://doi.org/10.1038/336441a0): "_Are global cloud albedo and climate controlled by marine phytoplankton?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/336441a0" data-style="small_rectangle"></span>
-    - [Chandler et al. 1988 (Nature 336)](https://doi.org/10.1038/336562a0): "_Measurements of H2O2 and SO2 in clouds and estimates of their reaction rate_"
+    - [Chandler et al. 1988 (Nature 336)](https://doi.org/10.1038/336562a0): "_Measurements of H<sub>2</sub>O<sub>2</sub> and SO<sub>2</sub> in clouds and estimates of their reaction rate_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/336562a0" data-style="small_rectangle"></span>
     - [Ramanathan et al. 1989 (Science 243)](https://doi.org/10.1126/science.243.4887.57): "_Cloud-Radiative Forcing and Climate: Results from the Earth Radiation Budget Experiment_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.243.4887.57" data-style="small_rectangle"></span>
@@ -148,9 +148,9 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.245.4923.1227" data-style="small_rectangle"></span>
     - [Cess et al. 1989 (Science 245)](https://doi.org/10.1126/science.245.4917.513): "_Interpretation of Cloud-Climate Feedback as Produced by 14 Atmospheric General Circulation Models_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.245.4917.513" data-style="small_rectangle"></span>
-    - [Wigley 1989 (Nature 339)](https://doi.org/10.1038/339365a0): "_Possible climate change due to SO2-derived cloud condensation nuclei_"
+    - [Wigley 1989 (Nature 339)](https://doi.org/10.1038/339365a0): "_Possible climate change due to SO<sub>2</sub>-derived cloud condensation nuclei_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/339365a0" data-style="small_rectangle"></span>
-    - [Mitchell et al. 1989 (Nature 341)](https://doi.org/10.1038/341132a0): "_CO2 and climate: a missing feedback?_"
+    - [Mitchell et al. 1989 (Nature 341)](https://doi.org/10.1038/341132a0): "_CO<sub>2</sub> and climate: a missing feedback?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/341132a0" data-style="small_rectangle"></span>
     - [Beard, Ochs III & Kubesh 1989 (Nature 342)](https://doi.org/10.1038/342408a0): "_Natural oscillations of small raindrops_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/342408a0" data-style="small_rectangle"></span>
@@ -198,7 +198,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1073869" data-style="small_rectangle"></span>
     - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779): "_Smoking Rain Clouds over the Amazon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1092779" data-style="small_rectangle"></span>
-    - [Koren et al. 2004 (Sciece 303)](https://doi.org/10.1126/science.1089424): "_Measurement of the Effect of Amazon Smoke on Inhibition of Cloud Formation_"
+    - [Koren et al. 2004 (Science 303)](https://doi.org/10.1126/science.1089424): "_Measurement of the Effect of Amazon Smoke on Inhibition of Cloud Formation_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1089424" data-style="small_rectangle"></span>
     - [Fridlind et al. 2004 (Science 304)](https://doi.org/10.1126/science.1094947): "_Evidence for the Predominance of Mid-Tropospheric Aerosols as Subtropical Anvil Cloud Nuclei_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1094947" data-style="small_rectangle"></span>
