@@ -51,6 +51,8 @@ jobs:
           path: _site
       - run: cd _site; tar xvf artifact.tar
       - uses: rojopolis/spellcheck-github-actions@0.54.0
+        with:
+          spell_checker: hunspell
 
   deploy:
     environment:
