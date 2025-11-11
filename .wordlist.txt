@@ -89,6 +89,7 @@ Rafał
 repo
 Riemer
 RIKEN
+Romaniec
 RSE
 Sanket
 Scholes
@@ -109,6 +110,7 @@ traineeship
 UCAR
 Urbana-Champaign
 uwsampa
+Weronika
 Wójcik
 Wroński
 Zimnoch
