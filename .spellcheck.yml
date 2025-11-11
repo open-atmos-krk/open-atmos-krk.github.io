@@ -61,6 +61,8 @@ matrix:
             close: '\bMini-workshop on particle-based cloud modeling 2025\b'
           - open: '\bIDL/PV-WAVE\b'
             close: '\bIDL/PV-WAVE\b'
+          - open: '\bLa londe les Maures\b'
+            close: '\bLa londe les Maures\b'
 
   sources:
     - './_site/**/*.html' 
