@@ -25,6 +25,8 @@ matrix:
             close: '\bopen-atmos-krk\b'
           - open: "\\bCeci n'est pas un superordinateur\\b"
             close: "\\bCeci n'est pas un superordinateur\\b"
+          - open: "\\bDynamics and Self-Organization\\b"
+            close: "\\bDynamics and Self-Organization\\b"
 
   sources:
     - './_site/**/*.html' 

@@ -13,6 +13,7 @@ Arabas
 arXiv
 Azimi
 backend
+backends
 Bartman
 Batko
 BEng
@@ -21,6 +22,7 @@ Bodzioch
 Boussinesq
 Bulenok
 Burgers
+CCN
 CFL
 CMake
 codebase
@@ -30,6 +32,7 @@ condensational
 CUDA
 CuPy
 CURandRTC
+Czioczo
 Czubkowska
 D'Aquino
 Daria
@@ -46,6 +49,8 @@ Fickian
 Florczyk
 Fortran
 fractionation
+Gasparini
+Göttingen
 GPU
 Grabowski
 Gracjan
@@ -69,6 +74,7 @@ Jupyter
 Kacper
 Kalinowska
 Klimaszewska
+Koren
 Koryciński
 Kowalczyk
 Kraków
@@ -136,7 +142,7 @@ timestepping
 traineeship
 UCAR
 UCDavis
-Univ.
+Univ
 Urbana-Champaign
 uwsampa
 Voltcraft

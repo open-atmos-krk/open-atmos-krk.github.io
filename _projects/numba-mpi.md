@@ -58,7 +58,7 @@ Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/
 
 <h3>🎓 Student project opportunities</h3>
 <ul>
-  <li>Engineering support for <code>MPI_Type_create_struct</code> (mapping to Numpy structured arrays)</li>
+  <li>Engineering support for <code>MPI_Type_create_struct</code> (mapping to NumPy structured arrays)</li>
   <li>Redesigning the API to allow for custom JIT-compiler flags to be passed to Numba (e.g., <code>boundscheck</code>, <code>fastmath</code>, <code>nogil</code>, <code>cache</code> or <code>error_model</code>)</li>
   <li>Extending the API to support non-default communicators (for subsetting groups of processes)</li>
   <li>Engineering support for <code>MPI_IN_PLACE</code> in [<code>all</code>]<code>gather</code>/<code>scatter</code> and <code>allreduce</code></li>

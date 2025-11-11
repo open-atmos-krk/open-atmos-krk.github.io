@@ -29,7 +29,7 @@ It numerically solves equations of form: <br> <center>
   \partial_t (G\psi) + \nabla \cdot (G\vec{u}\psi) + \mu \Delta (G\psi) = 0
   $$ </center>
   where $$\psi$$ is the advectee, $$u$$ is the advector and the $$G$$ factor describes the coordinate transformation. 
-The last term is related to Fickian diffiusion and is optional. 
+The last term is related to Fickian diffusion and is optional. 
 The crux of the method lies in iterative application of the [upwind scheme](https://en.wikipedia.org/wiki/Upwind_scheme). 
 The first iteration employs the advective velocity $$\vec{u}$$, while each subsequent iteration employs a so-called antidiffusive velocity which 
   corrects solution from prior iteration reducing the [numerical diffusion](https://en.wikipedia.org/wiki/Numerical_diffusion). 
