@@ -39,6 +39,6 @@ All figures and tables from the above papers are reproducible with Jupyter noteb
 <h3>🎓 Student project opportunities</h3>
 <ul>
   <li>Pricing Amerasian (Hawaiian) options and other exotics with MPDATA</li>
-  <li>Geomeric-average Asian option valuation using MPDATA (requires a source term) for comparison with analytic solution</li>
+  <li>Geometric-average Asian option valuation using MPDATA (requires a source term) for comparison with analytic solution</li>
   <li>Achieving third-order temporal/spatial accuracy for the Black-Scholes problem using MPDATA</li>
 </ul>

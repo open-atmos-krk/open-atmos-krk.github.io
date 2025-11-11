@@ -44,15 +44,15 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
 </figure>
 
 <h3>Release history and papers on PySDM</h3>
-<p>PySDM v1 constituted the <a href="https://www.ap.uj.edu.pl/diplomas/141204/">MSc thesis of Piotr Bartman (Jagiellonian Univ., 2020)</a> who had
+<p>PySDM v1 constituted the <a href="https://www.ap.uj.edu.pl/diplomas/141204/">MSc thesis of Piotr Bartman (Jagiellonian University, 2020)</a> who had
    developed PySDM API, adaptive numerical solvers and package architecture.
-  Features and examples of PySDM v1 are sumarised in a <a href="https://doi.org/10.21105/joss.03219">Bartman et al. 2022 JOSS paper</a>.
-  Subsequent developements had been largely spearheaded by&nbsp;<a href="https://github.com/ekdejong">Emily de Jong</a> and 
+  Features and examples of PySDM v1 are summarised in a <a href="https://doi.org/10.21105/joss.03219">Bartman et al. 2022 JOSS paper</a>.
+  Subsequent developments had been largely spearheaded by&nbsp;<a href="https://github.com/ekdejong">Emily de Jong</a> and 
    <a href="https://claresinger.github.io/">Clare Singer</a> during their PhD studies at the <a href="https://clima.caltech.edu">Caltech CliMA team</a>, and
    are summarised in the <a href="https://doi.org/10.21105/joss.04968">de Jong, Singer et al. 2023 JOSS paper</a>.
   The original collisional breakup scheme (maintaining the key constant-state-vector size trait of SDM)
    had been defined and validated in <a href="https://doi.org/10.5194/gmd-16-4193-2023">de Jong et al. 2023 GMD paper</a> 
-   (with section 3 based on <a href="https://www.ap.uj.edu.pl/diplomas/166879/">MSc thesis of Oleksii Bulenok (Jagiellonian Univ., 2023)</a>).
+   (with section 3 based on <a href="https://www.ap.uj.edu.pl/diplomas/166879/">MSc thesis of Oleksii Bulenok (Jagiellonian University, 2023)</a>).
   The original adaptive time-stepping scheme for SDM introduced in PySDM v1 has been the topic of further research
    by <a href="https://emmaware.weebly.com/">Emma Ware</a> which has been summarised in 
    <a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025 arXiv preprint</a>.

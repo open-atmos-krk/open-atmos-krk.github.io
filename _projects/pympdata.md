@@ -22,7 +22,7 @@ image: "/img/logo_pympdata.png"
      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 ### pure-Python, open-source implementation of the MPDATA algorithm
-<b>PyMPDATA</b> is a high-perforamance Numba-accelerated Python package implementing the <it>MPDATA</it> algorithm by [Smolarkiewicz et al.](#papers-on-the-mpdata-algorithm) 
+<b>PyMPDATA</b> is a high-performance Numba-accelerated Python package implementing the <it>MPDATA</it> algorithm by [Smolarkiewicz et al.](#papers-on-the-mpdata-algorithm) 
   aimed at solving generalised advection-diffusion PDEs in geophysical fluid dynamics and beyond.
 It numerically solves equations of form: <br> <center>
   $$
@@ -52,7 +52,7 @@ Application of the corrective iterations improves scheme [convergence rate](http
 </figure>
 </div>
 </center>
-The package depends on [Numpy](https://numpy.org/), [Numba](https://numba.pydata.org/) and [Numba-MPI](https://pypi.org/project/numba-mpi/). 
+The package depends on [NumPy](https://numpy.org/), [Numba](https://numba.pydata.org/) and [Numba-MPI](https://pypi.org/project/numba-mpi/). 
 This allows for taking advantage of Just-In-Time (JIT) compilation provided by Numba, and in case of computational clusters, distributed memory parallelism 
   with [PyMPDATA-MPI](https://pypi.org/project/pympdata-mpi/). 
 PyMPDATA has an example gallery available as a separate Python package, showing how it can be used to solve equations such as 
