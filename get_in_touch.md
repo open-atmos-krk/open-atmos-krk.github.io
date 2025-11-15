@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Mailing List
+title: Get in touch
 ---
 <img src="/img/mailing_list.jpg" alt="mailing list" class="pic" align="right" />
-<h4>particle-based-cloud-modelling</h4>
+
+<h4>particle-based-cloud-modelling mailing list</h4>
 <p>
 We host the <b>particle-based-cloud-modelling@mail.agh.edu.pl</b> mailing list. 
 The list was created back in&nbsp;2018.
@@ -28,4 +29,22 @@ Please subscribe before posting.
   <li><a href="https://mailman.ucar.edu/mailman/listinfo/es_jobs_net">es_jobs_net</a> @ <a href="https://ucar.edu/">UCAR</a> (Earth science jobs by <a href="https://eswnonline.org/">Earth Science Women's Network</a>, since 2019, both men and women are welcome)</li>
   <li><a href="https://groups.google.com/g/climate-informatics-news">climate informatics</a> @ <a href="http://www.climateinformatics.org/">climateinformatics.org</a> (since 2020)</li>
 </ul>
+</p>
+
+<h4>open-atmos-krk.slack.com Slack workspace</h4>
+<p>
+We use Slack for everyday communication and project-related discussions.
+<a href="mailto:sylwester.arabas@agh.edu.pl">Send us an e-mail</a> if you'd like to join!
+</p>
+
+<h4>contact and location</h4>
+<p>
+Most of our meetings are at the <a href="https://www.openstreetmap.org/node/6958500835">AGH Faculty of Physics and Applied Computer Science, building D-10</a>, room 7.
+For project-related questions, the best way to reach us is to use GitHub Discussions 
+  (<a href="https://github.com/open-atmos/PySDM/discussions/new/choose">PySDM</a>, 
+   <a href="https://github.com/open-atmos/PyMPDATA/discussions/new/choose">PyMPDATA</a>,
+   <a href="https://github.com/open-atmos/PyPartMC/discussions/new/choose">PyPartMC</a>, 
+   <a href="https://github.com/numba-mpi/numba-mpi/discussions/new/choose">numba-mpi</a>, ...) or Issues.
+Students' e-mail addresses are visible to other students in the <a href="https://web.usos.agh.edu.pl/">USOS</a> system.
+For more contact information, see the <a href="https://zfs.agh.edu.pl/en/team">Environmental Physics Group page</a>.
 </p>
