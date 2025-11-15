@@ -28,7 +28,7 @@
 			<span class="authors">
 				{{ entry.persons['author']|author_list }}
 			</span><br />
-			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>
+			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue"><cite>{{ entry|venue -}}</cite></span>
 			{%- if entry.fields['note'] %}
 			<span>
 			<br />
