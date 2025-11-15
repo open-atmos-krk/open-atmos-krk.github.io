@@ -43,7 +43,7 @@ We've had major contributions to the following articles:
 
 ### Cloud-physics examples for general-purpose open-source packages
 
-Stay tuned! (working on parcel-model example for <a href="https://docs.sciml.ai/">DifferentialEquations.jl</a>).
+Stay tuned! (working on parcel-model example for <a href="https://docs.sciml.ai/"><code>DifferentialEquations.jl</code></a>).
 
 ### 🎓 Student project opportunities
 - development of interactive teaching/demo/tutorial materials on the Burgers and shallow-water equations using PyMPDATA

@@ -13,19 +13,17 @@ matrix:
           - code
           - pre
           - sup
+          - cite
+          - span.emoji
     - pyspelling.filters.context:
         context_visible_first: true
         delimiters:
-          - open: '\bLEAP Science and Technology Center\b'
-            close: '\bLEAP Science and Technology Center\b'
           - open: '\bet al\.\b'
             close: '\bet al\.\b'
           - open: '\bopen-atmos-jupyter-utils\b'
             close: '\bopen-atmos-jupyter-utils\b'
           - open: '\bopen-atmos-krk\b'
             close: '\bopen-atmos-krk\b'
-          - open: "\\bCeci n'est pas un superordinateur\\b"
-            close: "\\bCeci n'est pas un superordinateur\\b"
           - open: "\\bfis\\.agh\\.edu\\.pl\\b"
             close: "\\bfis\\.agh\\.edu\\.pl\\b"
           - open: "\\buj\\.edu\\.pl\\b"
@@ -36,42 +34,6 @@ matrix:
             close: "\\bzfs\\.agh\\.edu\\.pl\\b"
           - open: "\\bgithub\\.com\/open-atmos\\b"
             close: "\\bgithub\\.com\/open-atmos\\b"
-          - open: "\\bDifferentialEquations\\.jl\\b"
-            close: "\\bDifferentialEquations\\.jl\\b"
-          - open: "\\bDroplets\\.jl\\b"
-            close: "\\bDroplets\\.jl\\b"
-          - open: "\\bpy-pde\\b"
-            close: "\\bpy-pde\\b"
-          - open: "\\bes_jobs_net\\b"
-            close: "\\bes_jobs_net\\b"
-          - open: "\\blibmpdata++\\b"
-            close: "\\blibmpdata++\\b"
-          - open: "\\bGeosci\\. Model Dev\\.\\b"
-            close: "\\bGeosci\\. Model Dev\\.\\b"
-          - open: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
-            close: "\\bInt\\. J\\. Numer\\. Methods Fluids\\b"
-          - open: "\\bComm\\. Earth\\. Environ\\.\\b"
-            close: "\\bComm\\. Earth\\. Environ\\.\\b"
-          - open: '\biodine vapor\b'
-            close: '\biodine vapor\b'
-          - open: '\bby dual-polarization radar\b'
-            close: '\bby dual-polarization radar\b'
-          - open: '\bMini-workshop on particle-based cloud modeling 2025\b'
-            close: '\bMini-workshop on particle-based cloud modeling 2025\b'
-          - open: '\bIDL/PV-WAVE\b'
-            close: '\bIDL/PV-WAVE\b'
-          - open: '\bLa londe les Maures\b'
-            close: '\bLa londe les Maures\b'
-          - open: '\bon maintaining reproducibility in atmospheric modeling\b'
-            close: '\bon maintaining reproducibility in atmospheric modeling\b'
-          - open: '\bAerosol Modeling and Algorithms Conference\b'
-            close: '\bAerosol Modeling and Algorithms Conference\b'
-          - open: '\bModeling of Immersion\b'
-            close: '\bModeling of Immersion\b'
-          - open: '\bMicrophysics Modeling\b'
-            close: '\bMicrophysics Modeling\b'
-          - open: '\bMultiscale Modeling\b'
-            close: '\bMultiscale Modeling\b'
 
   sources:
     - './_site/**/*.html' 
