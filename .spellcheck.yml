@@ -13,6 +13,7 @@ matrix:
           - code
           - pre
           - sup
+          - cite
     - pyspelling.filters.context:
         context_visible_first: true
         delimiters:
