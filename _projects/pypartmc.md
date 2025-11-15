@@ -64,11 +64,11 @@ Integration with Matlab and Julia is depicted with examples included in the PyPa
 <h3>Project overview talk videos</h3>
 <figure>
   <iframe src="https://www.youtube-nocookie.com/embed/uZwqEpjp8xc?si=sE4VgoMQHsnBKtt1&amp;start=5587" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <figcaption>Zach D'Aquino (UIUC) presenting on "<em>PyPartMC: A Pythonic interface to a particle-resolved Monte Carlo aerosol simulation framework</em>" at the <a href="https://airquality.ucdavis.edu/events/2023-international-aerosol-modeling-algorithms-conference">International Aerosol Modeling and Algorithms Conference 2023</a>, UCDavis, CA, USA</figcaption>
+  <figcaption>Zach D'Aquino (UIUC) presenting on "<em>PyPartMC: A Pythonic interface to a particle-resolved Monte Carlo aerosol simulation framework</em>" at the <a href="https://airquality.ucdavis.edu/events/2023-international-aerosol-modeling-algorithms-conference"><cite>International Aerosol Modeling and Algorithms Conference 2023</cite>cite></a>, UCDavis, CA, USA</figcaption>
 </figure>
 <figure>
   <iframe src="https://www.youtube-nocookie.com/embed/PgLGlfSPE7E?si=QF8xTyhdKQ4miVbS&amp;start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <figcaption>Sylwester Arabas (AGH) presenting on "<em>PyPartMC Aerosol Dynamics Package: Engineering Python-to-Fortran Bindings in C++</em>" at the <a href="https://leap.columbia.edu/">LEAP Science and Technology Center, Columbia University, NY, USA</a></figcaption>
+  <figcaption>Sylwester Arabas (AGH) presenting on "<em>PyPartMC Aerosol Dynamics Package: Engineering Python-to-Fortran Bindings in C++</em>" at the <a href="https://leap.columbia.edu/"><cite>LEAP Science and Technology Center</cite>, Columbia University, NY, USA</a></figcaption>
 </figure>
 
 <h3>🎓 Student project opportunities</h3>

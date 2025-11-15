@@ -20,15 +20,15 @@
 					<img src="img/pdficon_small.png" width="16"
 						height="16" alt="PDF" />
 					{%- endif %}
-				<a href="{{ url|escape }}">{{ entry|title }}</a>.
+				<a href="{{ url|escape }}"><cite>{{ entry|title }}</cite></a>.
 				{%- else %}
-				{{ entry|title }}
+				<cite>{{ entry|title }}</cite>
 				{%- endif %}
 			</span><br />
 			<span class="authors">
 				{{ entry.persons['author']|author_list }}
 			</span><br />
-			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>
+			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue"><cite>{{ entry|venue -}}</cite></span>
 			{%- if entry.fields['note'] %}
 			<span>
 			<br />

@@ -1,6 +1,6 @@
 ---
 title: HPC DIY
-subtitle: Ceci n'est pas un superordinateur.
+subtitle: <cite>Ceci n'est pas un superordinateur.</cite>
 
 description: |
   We are building, from scratch, a multi-node GPU-enabled computing cluster
