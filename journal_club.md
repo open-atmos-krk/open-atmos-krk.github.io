@@ -100,11 +100,11 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/187857a0" data-style="small_rectangle"></span>
     - [Fletcher 1961 (Science 134)](https://doi.org/10.1126/science.134.3476.361): "_Freezing Nuclei, Meteors, and Rainfall_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.134.3476.361" data-style="small_rectangle"></span>
-    - [Schaefer 1966 (Science 154)](https://doi.org/10.1126/science.154.3756.1555.b): "_Ice nuclei from automobile exhaust and iodine vapor_"
+    - [Schaefer 1966 (Science 154)](https://doi.org/10.1126/science.154.3756.1555.b): <cite>"_Ice nuclei from automobile exhaust and iodine vapor_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.154.3756.1555.b" data-style="small_rectangle"></span>
     - [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/2151371a0" data-style="small_rectangle"></span>
-    - [Hogan 1967 (Science 158)](https://doi.org/10.1126/science.158.3802.800.a): "_Ice nuclei from direct reaction of iodine vapor with vapors from leaded  gasoline_"
+    - [Hogan 1967 (Science 158)](https://doi.org/10.1126/science.158.3802.800.a): <cite>"_Ice nuclei from direct reaction of iodine vapor with vapors from leaded  gasoline_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.158.3802.800.a" data-style="small_rectangle"></span>
 * 1970s:
     - [Schnell & Vali 1972 (Nature 236)](https://doi.org/10.1038/236163a0): "_Atmospheric Ice Nuclei from Decomposing Vegetation_"
@@ -114,7 +114,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Mossop & Hallett 1974 (Science 186)](https://doi.org/10.1126/science.186.4164.632): "_Ice Crystal Concentration in Cumulus Clouds: Influence of the Drop Spectrum_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.186.4164.632" data-style="small_rectangle"></span>
 * 1980s:
-    - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0): "_Rain drop sizes and rainfall rate measured by dual-polarization radar_"
+    - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0): <cite>"_Rain drop sizes and rainfall rate measured by dual-polarization radar_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1038/285195a0" data-style="small_rectangle"></span>
     - [Joussaume et al. 1984 (Nature 311)](https://doi.org/10.1038/311024a0): "_A general circulation model of water isotope cycles in the atmosphere_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/311024a0" data-style="small_rectangle"></span>

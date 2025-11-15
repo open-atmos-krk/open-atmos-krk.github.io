@@ -26,7 +26,7 @@ Please subscribe before posting.
   <li><a href="https://na-digest.coecis.cornell.edu/">na-digest</a> @ <a href="https://www.cornell.edu/">Cornell University</a> (numerical analysis, scientific software, associated with <a href="https://en.wikipedia.org/wiki/Netlib">netlib.org</a>, <a href="https://blogs.mathworks.com/cleve/2024/08/31/na_digest-and-na_net/">started back in 1980s!</a>)</li>
   <li><a href="https://list.uvm.edu/cgi-bin/wa?A0=ISOGEOCHEM">isogeochem</a> @ <a href="https://www.uvm.edu/">University of Vermont</a> (stable isotope geochemistry, <a href="https://web.archive.org/web/*/http://geology.uvm.edu/geowww/isogeochem.html">since 1990-ties</a>)</li>
   <li><a href="https://maillists.reading.ac.uk/scripts/wa-READING.exe?A0=MET-JOBS">met-jobs</a> @ <a href="https://www.reading.ac.uk/meteorology/">University of Reading</a> (meteorology, oceanography and climatology, back since <a href="https://web.archive.org/web/*/http://www.lists.rdg.ac.uk/mailman/listinfo/met-jobs">at least 2003</a>)</li>
-  <li><a href="https://mailman.ucar.edu/mailman/listinfo/es_jobs_net">es_jobs_net</a> @ <a href="https://ucar.edu/">UCAR</a> (Earth science jobs by <a href="https://eswnonline.org/">Earth Science Women's Network</a>, since 2019, both men and women are welcome)</li>
+  <li><a href="https://mailman.ucar.edu/mailman/listinfo/es_jobs_net"><cite>es_jobs_net</cite></a> @ <a href="https://ucar.edu/">UCAR</a> (Earth science jobs by <a href="https://eswnonline.org/">Earth Science Women's Network</a>, since 2019, both men and women are welcome)</li>
   <li><a href="https://groups.google.com/g/climate-informatics-news">climate informatics</a> @ <a href="http://www.climateinformatics.org/">climateinformatics.org</a> (since 2020)</li>
 </ul>
 </p>
