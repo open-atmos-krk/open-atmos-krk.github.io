@@ -69,7 +69,7 @@ The project can be found on [PyPI](https://pypi.org/project/pympdata/), with its
  - [Smolarkiewicz & Margolin 1998 (J. Comp. Phys. 140)](https://doi.org/10.1006/jcph.1998.5901): "<em>MPDATA: A Finite-Difference Solver for Geophysical Flows</em>"
  - [Smolarkiewicz 2006 (Int. J. Numer. Methods Fluids 50)](https://doi.org/10.1002/fld.1071): "<em>Multidimensional positive definite advection transport algorithm: an overview</em>"
  - [Margolin & Shashkov 2006 (Int. J. Numer. Methods Fluids 50)](https://doi.org/10.1002/fld.1070): "<em>MPDATA: gauge transformations, limiters and monotonicity†</em>"
- - [Jaruga et al. 2015 (GMD 8)](https://doi.org/10.5194/gmd-8-1005-2015): "<em>libmpdata++ 1.0: a library of parallel MPDATA solvers for systems of generalised transport equations</em>"
+ - [Jaruga et al. 2015 (GMD 8)](https://doi.org/10.5194/gmd-8-1005-2015): "<em><cite>libmpdata++ 1.0</cite>: a library of parallel MPDATA solvers for systems of generalised transport equations</em>"
 
 ### Papers on or using PyMPDATA
  - [Bartman et al. 2022 (JOSS 7)](https://doi.org/10.21105/joss.03896): "<em> PyMPDATA v1: Numba-accelerated implementation of MPDATA with examples in Python, Julia and Matlab</em>"

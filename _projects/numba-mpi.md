@@ -33,7 +33,7 @@ Numba-MPI has been developed by an open group of developers from Jagiellonian Un
 </p>
 
 <p>
-Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/">py-pde</a> 
+Numba-MPI is an optional dependency of <a href="https://pypi.org/project/py-pde/"><cite>py-pde</cite></a> 
   and <a href="https://pypi.org/project/pympdata-mpi/">PyMPDATA-MPI</a>.
 </p>
 
