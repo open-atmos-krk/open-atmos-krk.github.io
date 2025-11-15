@@ -44,7 +44,7 @@ For project-related questions, the best way to reach us is to use GitHub Discuss
   (<a href="https://github.com/open-atmos/PySDM/discussions/new/choose">PySDM</a>, 
    <a href="https://github.com/open-atmos/PyMPDATA/discussions/new/choose">PyMPDATA</a>,
    <a href="https://github.com/open-atmos/PyPartMC/discussions/new/choose">PyPartMC</a>, 
-   <a href="https://github.com/numba-mpi/numba-mpi/discussions/new/choose">numba-mpi</a>, ...) or Issues.
+   <a href="https://github.com/numba-mpi/numba-mpi/discussions/new/choose">Numba-MPI</a>, ...) or Issues.
 Students' e-mail addresses are visible to other students in the <a href="https://web.usos.agh.edu.pl/">USOS</a> system.
 For more contact information, see the <a href="https://zfs.agh.edu.pl/en/team">Environmental Physics Group page</a>.
 </p>
