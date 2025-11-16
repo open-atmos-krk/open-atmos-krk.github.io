@@ -136,17 +136,17 @@ michael_olesik:
 you_faculty:
     display_name: "You?"
     role: faculty
-    bio: Interested in a postdoctoral research role at AGH in Kraków? <a href="mailto:sylwester.arabas@agh.edu.pl">Reach out!</a>
+    bio: Interested in a postdoctoral research role at AGH in Kraków? <a href="/contact.html">Reach out!</a>
     image: /img/people/join_a.jpg
 
 you_grad:
     display_name: "You?"
     role: grad
-    bio: Interested in joining our team for an MSc or PhD project? Browse through <a href="https://open-atmos-krk.github.io/projects.html">potential topics</a> (or propose your idea!) and <a href="mailto:sylwester.arabas@agh.edu.pl">get&nbsp;in&nbsp;touch&nbsp;with&nbsp;us!</a>
+    bio: Interested in joining our team for an MSc or PhD project? Browse through <a href="https://open-atmos-krk.github.io/projects.html">potential topics</a> (or propose your idea!) and <a href="/contact.html">get&nbsp;in&nbsp;touch&nbsp;with&nbsp;us!</a>
     image: /img/people/join_b.jpg
 
 you_ugrad:
     display_name: "You?"
     role: ugrad
-    bio: Looking for an internship or BEng project with us? Check out <a href="/projects.html">our projects</a> and <a href="mailto:sylwester.arabas@agh.edu.pl">reach out!</a>
+    bio: Looking for an internship or BEng project with us? Check out <a href="/projects.html">our projects</a> and <a href="/contact.html">reach out!</a>
     image: /img/people/join_c.jpg

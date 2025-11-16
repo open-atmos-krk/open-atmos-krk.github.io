@@ -1,9 +1,30 @@
 ---
 layout: default
-title: Mailing List
+title: Engage with us
 ---
 <img src="/img/mailing_list.jpg" alt="mailing list" class="pic" align="right" />
-<h4>particle-based-cloud-modelling</h4>
+
+<h4>Contact and location</h4>
+<p>
+For project-related questions, the best way to reach us is to use GitHub Discussions 
+  (<a href="https://github.com/open-atmos/PySDM/discussions/new/choose">PySDM</a>, 
+   <a href="https://github.com/open-atmos/PyMPDATA/discussions/new/choose">PyMPDATA</a>,
+   <a href="https://github.com/open-atmos/PyPartMC/discussions/new/choose">PyPartMC</a>, 
+   <a href="https://github.com/numba-mpi/numba-mpi/discussions/new/choose">Numba-MPI</a>, ...) or Issues.
+Students' e-mail addresses are visible to other students in the <a href="https://web.usos.agh.edu.pl/">USOS</a> system.
+For more contact information, see the <a href="https://zfs.agh.edu.pl/en/team">Environmental Physics Group page</a>.
+</p>
+<p>
+Most of our meetings are at the <a href="https://www.openstreetmap.org/node/6958500835">AGH Faculty of Physics and Applied Computer Science, building D-10</a>, room 7.
+</p>
+
+<h4>Slack workspace (open-atmos-krk.slack.com)</h4>
+<p>
+We use Slack for everyday communication and project-related discussions.
+<a href="mailto:sylwester.arabas@agh.edu.pl">Send us an e-mail</a> if you'd like to join!
+</p>
+
+<h4>Mailing list: particle-based-cloud-modelling</h4>
 <p>
 We host the <b>particle-based-cloud-modelling@mail.agh.edu.pl</b> mailing list. 
 The list was created back in&nbsp;2018.
@@ -19,8 +40,8 @@ Please subscribe before posting.
 (the list was previously <a href="https://mailing.uj.edu.pl/sympa/info/particle-based-cloud-modelling">hosted at Jagiellonian University</a>, all subscriptions were transferred)
 </p>
 
-<h4>other relevant mailing lists</h4>
 <p>
+BTW, here is a list of other relevant mailing lists:</h4>
 <ul>
   <li><a href="https://na-digest.coecis.cornell.edu/">na-digest</a> @ <a href="https://www.cornell.edu/">Cornell University</a> (numerical analysis, scientific software, associated with <a href="https://en.wikipedia.org/wiki/Netlib">netlib.org</a>, <a href="https://blogs.mathworks.com/cleve/2024/08/31/na_digest-and-na_net/">started back in 1980s!</a>)</li>
   <li><a href="https://list.uvm.edu/cgi-bin/wa?A0=ISOGEOCHEM">isogeochem</a> @ <a href="https://www.uvm.edu/">University of Vermont</a> (stable isotope geochemistry, <a href="https://web.archive.org/web/*/http://geology.uvm.edu/geowww/isogeochem.html">since 1990-ties</a>)</li>
@@ -29,3 +50,4 @@ Please subscribe before posting.
   <li><a href="https://groups.google.com/g/climate-informatics-news">climate informatics</a> @ <a href="http://www.climateinformatics.org/">climateinformatics.org</a> (since 2020)</li>
 </ul>
 </p>
+

@@ -325,6 +325,7 @@ Univ
 Université
 Unterstrasser
 Urbana-Champaign
+USOS
 uwsampa
 v1
 v2
