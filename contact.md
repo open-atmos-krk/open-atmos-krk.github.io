@@ -12,24 +12,24 @@ For project-related questions, the best way to reach us is to use GitHub Discuss
    <a href="https://github.com/open-atmos/PyPartMC/discussions/new/choose">PyPartMC</a>, 
    <a href="https://github.com/numba-mpi/numba-mpi/discussions/new/choose">Numba-MPI</a>, ...) or Issues.
 Students' e-mail addresses are visible to other students in the <a href="https://web.usos.agh.edu.pl/">USOS</a> system.
+For team-related inquiries, please get in touch by e-mail at <a href="mailto:sylwester.arabas@agh.edu.pl">sylwester.arabas@agh.edu.pl</a>.
 For more contact information, see the <a href="https://zfs.agh.edu.pl/en/team">Environmental Physics Group page</a>.
 </p>
 <p>
-Most of our meetings are at the <a href="https://www.openstreetmap.org/node/6958500835">AGH Faculty of Physics and Applied Computer Science, building D-10</a>, room 7.
+Our meetings are held at the <a href="https://www.openstreetmap.org/node/6958500835">AGH Faculty of Physics and Applied Computer Science, building D-10</a>, room&nbsp;7.
 </p>
 
 <h4>Slack workspace (open-atmos-krk.slack.com)</h4>
 <p>
 We use Slack for everyday communication and project-related discussions.
-<a href="mailto:sylwester.arabas@agh.edu.pl">Send us an e-mail</a> if you'd like to join!
+<a href="mailto:sylwester.arabas@agh.edu.pl">Send us an e-mail</a> to join!
 </p>
 
 <h4>Mailing list: particle-based-cloud-modelling</h4>
 <p>
 We host the <b>particle-based-cloud-modelling@mail.agh.edu.pl</b> mailing list. 
-The list was created back in&nbsp;2018.
-As of time of writing, we have over 80 subscribers from 12 countries - a community focused on&nbsp;cloud and aerosol modelling using Lagrangian methods.
-The list is a venue for communications relevant to the development and applications of&nbsp;particle-based models 
+The list was created in&nbsp;2018, and at the time of writing, has over 80 subscribers from 12 countries - a community focused on&nbsp;cloud and aerosol modelling using Lagrangian methods.
+The list serves as a venue for communications relevant to the development and applications of&nbsp;particle-based models 
   of atmospheric clouds: announcements of meetings, calls for submissions, funding opportunities, scholarships, openings, 
   software/data releases, publications and&nbsp;other notices warranting community-wide dissemination.
 Please subscribe before posting.
@@ -41,7 +41,7 @@ Please subscribe before posting.
 </p>
 
 <p>
-BTW, here is a list of other relevant mailing lists:</h4>
+BTW, here is a list of other relevant mailing lists:
 <ul>
   <li><a href="https://na-digest.coecis.cornell.edu/">na-digest</a> @ <a href="https://www.cornell.edu/">Cornell University</a> (numerical analysis, scientific software, associated with <a href="https://en.wikipedia.org/wiki/Netlib">netlib.org</a>, <a href="https://blogs.mathworks.com/cleve/2024/08/31/na_digest-and-na_net/">started back in 1980s!</a>)</li>
   <li><a href="https://list.uvm.edu/cgi-bin/wa?A0=ISOGEOCHEM">isogeochem</a> @ <a href="https://www.uvm.edu/">University of Vermont</a> (stable isotope geochemistry, <a href="https://web.archive.org/web/*/http://geology.uvm.edu/geowww/isogeochem.html">since 1990-ties</a>)</li>
