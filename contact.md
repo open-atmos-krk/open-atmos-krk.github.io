@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Get in touch
+title: Engage with us
 ---
 <img src="/img/mailing_list.jpg" alt="mailing list" class="pic" align="right" />
 

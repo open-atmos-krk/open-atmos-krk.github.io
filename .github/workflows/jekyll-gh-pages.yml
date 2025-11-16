@@ -85,5 +85,5 @@ jobs:
           file_types: .html
           print_all: false
           verbose: true
-          timeout: 10
+          timeout: 20
           retry_count: 3
