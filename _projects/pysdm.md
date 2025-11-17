@@ -78,4 +78,5 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <li>Super-particle attribute initialisation using <a href="https://en.wikipedia.org/wiki/Copula_(statistics)">copulae</a></li>
   <li>Immersion freezing and coagulation: effective freezing-temperature spectra under singular and time-dependent models</li>
   <li>Venusian cloud particle-based microphysics (e.g., using the models introduced in <a href="https://doi.org/10.1029/2025JE009177">Ando et al. 2025</a>)</li>
+  <li>Logic for serialising and deserialising simulation state</li>
 </ul>
