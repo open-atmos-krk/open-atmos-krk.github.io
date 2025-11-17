@@ -19,18 +19,18 @@ For more contact information, see the <a href="https://zfs.agh.edu.pl/en/team">E
 Our meetings are held at the <a href="https://www.openstreetmap.org/node/6958500835">AGH Faculty of Physics and Applied Computer Science, building D-10</a>, room&nbsp;7.
 </p>
 
-<h4>Slack workspace (open-atmos-krk.slack.com)</h4>
+<h4>Slack workspace: <a href="https://open-atmos-krk.slack.com">open-atmos-krk.slack.com</a></h4>
 <p>
 We use Slack for everyday communication and project-related discussions.
-<a href="mailto:sylwester.arabas@agh.edu.pl">Send us an e-mail</a> to join!
+<a href="mailto:sylwester.arabas@agh.edu.pl">Send an e-mail</a> to join!
 </p>
 
 <h4>Mailing list: particle-based-cloud-modelling</h4>
 <p>
 We host the <b>particle-based-cloud-modelling@mail.agh.edu.pl</b> mailing list. 
-The list was created in&nbsp;2018, and at the time of writing, has over 80 subscribers from 12 countries - a community focused on&nbsp;cloud and aerosol modelling using Lagrangian methods.
-The list serves as a venue for communications relevant to the development and applications of&nbsp;particle-based models 
-  of atmospheric clouds: announcements of meetings, calls for submissions, funding opportunities, scholarships, openings, 
+The&nbsp;list was created in&nbsp;2018, and at the time of writing, has over 80 subscribers from 12 countries - a community focused on&nbsp;cloud and aerosol modelling using Lagrangian methods.
+The&nbsp;list serves as a venue for communications relevant to the development and applications of&nbsp;particle-based models 
+  of atmospheric clouds: announcements of&nbsp;meetings, calls for submissions, funding opportunities, scholarships, openings, 
   software/data releases, publications and&nbsp;other notices warranting community-wide dissemination.
 Please subscribe before posting.
 <ul>
