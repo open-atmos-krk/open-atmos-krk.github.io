@@ -10,6 +10,7 @@ people:
   - piotr_bartman
   - michael_olesik
   - michal_wronski
+  - michal_kowalczyk
   - pawel_magnuszewski
   - kacper_derlatka
   - sylwester_arabas
