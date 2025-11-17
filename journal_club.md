@@ -220,6 +220,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1160606" data-style="small_rectangle"></span>
     - [Koren et al. 2008 (Science 321)](https://doi.org/10.1126/science.1159185): "_Smoke invigoration versus inhibition of clouds over the Amazon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1159185" data-style="small_rectangle"></span>
+    - [Schaller et al. 2009 (Nature 460)](https://doi.org/10.1038/nature08193): "_Storms in the tropics of Titan_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08193" data-style="small_rectangle"></span>
     - [Stevens & Feingold 2009 (Nature 461)](https://doi.org/10.1038/nature08281): "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08281" data-style="small_rectangle"></span>
 * 2010s
@@ -227,6 +229,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature09314" data-style="small_rectangle"></span>
     - [Bodenschatz et al. 2010 (Science 327)](https://doi.org/10.1126/science.1185138): "_Can We Understand Clouds Without Turbulence?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1185138" data-style="small_rectangle"></span>
+    - [Schneider et al. 2012 (Nature 481)](https://doi.org/10.1038/nature10666): "_Polar methane accumulation and rainstorms on Titan from simulations of the methane cycle_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature10666" data-style="small_rectangle"></span>
     - [Stevens & Boucher 2012 (Nature 490)](https://doi.org/10.1038/490040a): "_The aerosol effect_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/490040a" data-style="small_rectangle"></span>
     - [Atkinson et al. 2013 (Nature 498)](https://doi.org/10.1038/nature12278): "_The importance of feldspar for ice nucleation by mineral dust in mixed-phase clouds_"
