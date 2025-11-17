@@ -220,7 +220,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1160606" data-style="small_rectangle"></span>
     - [Koren et al. 2008 (Science 321)](https://doi.org/10.1126/science.1159185): "_Smoke invigoration versus inhibition of clouds over the Amazon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1159185" data-style="small_rectangle"></span>
-    - [Schaller et al. 2009 (Nature 460)](https://doi.org/10.1038/nature08193): "_Storms in the tropics of Titan_"
+    - [<cite>Schaller</cite> et al. 2009 (Nature 460)](https://doi.org/10.1038/nature08193): "_Storms in the tropics of Titan_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08193" data-style="small_rectangle"></span>
     - [Stevens & Feingold 2009 (Nature 461)](https://doi.org/10.1038/nature08281): "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08281" data-style="small_rectangle"></span>
