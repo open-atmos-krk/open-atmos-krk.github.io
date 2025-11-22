@@ -9,12 +9,13 @@ to discuss Nature and Science papers scoped around environmental and computation
 
 <h3>Planned presentations:</h3>
 
-* 2025-11-21: Michał Wroński    
-  [Shen et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08196-0): "_New particle formation from isoprene under upper-tropospheric conditions_"
-  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08196-0" data-style="small_rectangle"></span>
+
 
 <h3>Past presentations:</h3>
 
+* 2025-11-21: Michał Wroński    
+  [Shen et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08196-0): "_New particle formation from isoprene under upper-tropospheric conditions_"
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08196-0" data-style="small_rectangle"></span>
 * 2025-11-07: Daria Klimaszewska    
   [Perkel 2019 (Nature 572)](https://doi.org/10.1038/d41586-019-02310-3): "_Julia: come for the syntax, stay for the speed_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-019-02310-3" data-style="small_rectangle"></span>
