@@ -87,8 +87,18 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.93.2410.239" data-style="small_rectangle"></span>
     - [Schaefer 1942 (Nature 149)](https://doi.org/10.1038/149081a0): "_Use of snowflake replicas for studying winter storms_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/149081a0" data-style="small_rectangle"></span>
+    - [Cwilong 1945 (Nature 155)](https://doi.org/10.1038/155361b0): "_Sublimation in a Wilson Chamber_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/155361b0" data-style="small_rectangle"></span>
+    - [Frank 1946 (Nature 157)](https://doi.org/10.1038/157267a0): "_Molecular Structure of Deeply Super-cooled Water_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/157267a0" data-style="small_rectangle"></span>    
     - [Schaefer 1946 (Science 104)](https://doi.org/10.1126/science.104.2707.457): "_The Production of Ice Crystals in a Cloud of Supercooled Water Droplets_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.104.2707.457" data-style="small_rectangle"></span>
+    - [King et al. 1948 (Nature 162)](https://doi.org/10.1038/162921a0): "_Artificial stimulation of rain_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/162921a0" data-style="small_rectangle"></span>    
+    - [Fournier D'Albe 1948 (Nature 162)](https://doi.org/10.1038/162921b0): "_Condensation of Water Vapour Below 0°C_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/162921b0" data-style="small_rectangle"></span>    
+    - [Smith-Johannsen 1948 (Science 108)](https://doi.org/10.1126/science.108.2815.652): "_Some Experiments in the Freezing of Water_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.108.2815.652" data-style="small_rectangle"></span>
     - [Brewer & Palmer 1949](https://doi.org/10.1038/164312a0): "_Condensation Processes at Low Temperatures, and the Production of New Sublimation Nuclei by the Splintering of Ice_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/164312a0" data-style="small_rectangle"></span>
 * 1950s:
