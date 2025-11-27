@@ -39,7 +39,7 @@ The project is truly a team-wide effort and has multiple goals:
 
 ### Compute nodes and interconnection network
 As of the present proof-of-concept stage, we start off with two compute nodes. 
-Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer <code>J1010</code>) with 4GB, quad-core Cortex-A57 CPU and 128-core CUDA GPU each.
+Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer <code>J1010</code>) with 4GB, quad-core <cite>Cortex-A57</cite> CPU and 128-core CUDA GPU each.
 The compute nodes and the access node are connected using a <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">Gigabit Ethernet</a> switch.
 For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, <code>TC-8589556</code>) screen mounted inside the chassis.
 
