@@ -81,7 +81,7 @@ to discuss Nature and Science papers scoped around environmental and computation
 * 1920s:
     - [Nolan 1924 (Nature 114)](https://doi.org/10.1038/114720a0): "_Dust in the Atmosphere_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/114720a0" data-style="small_rectangle"></span>
-    - [Malzev 1926 (Nature 118)](https://doi.org/10.1038/118014a0): "_Luminous Night Clouds_"
+    - [<cite>Malzev</cite> 1926 (Nature 118)](https://doi.org/10.1038/118014a0): "_Luminous Night Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/118014a0" data-style="small_rectangle"></span>
     - [Cohen 1929 (Nature 124)](https://doi.org/10.1038/124482c0): "_Dew: Does it Rise or Fall?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/124482c0" data-style="small_rectangle"></span>
@@ -123,7 +123,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/187857a0" data-style="small_rectangle"></span>
     - [Fletcher 1961 (Science 134)](https://doi.org/10.1126/science.134.3476.361): "_Freezing Nuclei, Meteors, and Rainfall_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.134.3476.361" data-style="small_rectangle"></span>
-    - [Fookes et al. 1962 (Nature 196)](https://doi.org/10.1038/196328b0): "_A Radioisotope Technique for Tracing Air Movements in Clear Air and in Clouds_"
+    - [<cite>Fookes</cite> et al. 1962 (Nature 196)](https://doi.org/10.1038/196328b0): "_A Radioisotope Technique for Tracing Air Movements in Clear Air and in Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/196328b0" data-style="small_rectangle"></span>
     - [Schaefer 1966 (Science 154)](https://doi.org/10.1126/science.154.3756.1555.b): <cite>"_Ice nuclei from automobile exhaust and iodine vapor_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.154.3756.1555.b" data-style="small_rectangle"></span>
