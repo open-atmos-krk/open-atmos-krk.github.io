@@ -53,6 +53,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/025529a0" data-style="small_rectangle"></span>
     - [Kopp 1882 (Nature 26)](https://doi.org/10.1038/026031a0): "_How may Clouds consisting of Liquid or of Frozen Water be Distinguished?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/026031a0" data-style="small_rectangle"></span>
+    - [Leslie 1886 (Nature 34)](https://doi.org/10.1038/034264b0): "_Luminous Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/034264b0" data-style="small_rectangle"></span>
 * 1890s:
     - [H. 1891 (Nature 44)](https://doi.org/10.1038/044614a0): "_Rain-making Experiments_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/044614a0" data-style="small_rectangle"></span>
@@ -79,6 +81,8 @@ to discuss Nature and Science papers scoped around environmental and computation
 * 1920s:
     - [Nolan 1924 (Nature 114)](https://doi.org/10.1038/114720a0): "_Dust in the Atmosphere_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/114720a0" data-style="small_rectangle"></span>
+    - [<cite>Malzev</cite> 1926 (Nature 118)](https://doi.org/10.1038/118014a0): "_Luminous Night Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/118014a0" data-style="small_rectangle"></span>
     - [Cohen 1929 (Nature 124)](https://doi.org/10.1038/124482c0): "_Dew: Does it Rise or Fall?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/124482c0" data-style="small_rectangle"></span>
 * 1930s:
@@ -86,6 +90,10 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/128908b0" data-style="small_rectangle"></span>
     - [Banerji & Lele 1932 (Nature 130)](https://doi.org/10.1038/130998b0): "_Electric Charges on Rain Drops_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/130998b0" data-style="small_rectangle"></span>
+    - [1935 (Nature 135)](https://doi.org/10.1038/135260b0): "News: Natural and Artificial Clouds"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/135260b0" data-style="small_rectangle"></span>
+    - [1937 (Nature 137)](https://doi.org/10.1038/139541c0): "News: Natural and Artificial Clouds"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/139541c0" data-style="small_rectangle"></span>
 * 1940s:
     - ✔ [Schaefer 1941 (Science 93)](https://doi.org/10.1126/science.93.2410.239): "_A method for making snowflake replicas_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.93.2410.239" data-style="small_rectangle"></span>
@@ -115,6 +123,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/187857a0" data-style="small_rectangle"></span>
     - [Fletcher 1961 (Science 134)](https://doi.org/10.1126/science.134.3476.361): "_Freezing Nuclei, Meteors, and Rainfall_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.134.3476.361" data-style="small_rectangle"></span>
+    - [<cite>Fookes</cite> et al. 1962 (Nature 196)](https://doi.org/10.1038/196328b0): "_A Radioisotope Technique for Tracing Air Movements in Clear Air and in Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/196328b0" data-style="small_rectangle"></span>
     - [Schaefer 1966 (Science 154)](https://doi.org/10.1126/science.154.3756.1555.b): <cite>"_Ice nuclei from automobile exhaust and iodine vapor_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.154.3756.1555.b" data-style="small_rectangle"></span>
     - [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
