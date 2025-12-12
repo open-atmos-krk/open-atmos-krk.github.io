@@ -8,8 +8,9 @@ We meet every two weeks at the [AGH Faculty of Physics and Applied CS](https://f
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
 <h3>Planned presentations:</h3>
-
-
+* 2025-12-19: Agnieszka Żaba  
+  [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/2151371a0" data-style="small_rectangle"></span>
 
 <h3>Past presentations:</h3>
 
@@ -127,7 +128,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/196328b0" data-style="small_rectangle"></span>
     - [Schaefer 1966 (Science 154)](https://doi.org/10.1126/science.154.3756.1555.b): <cite>"_Ice nuclei from automobile exhaust and iodine vapor_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.154.3756.1555.b" data-style="small_rectangle"></span>
-    - [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
+    - ✔ [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/2151371a0" data-style="small_rectangle"></span>
     - [Hogan 1967 (Science 158)](https://doi.org/10.1126/science.158.3802.800.a): <cite>"_Ice nuclei from direct reaction of iodine vapor with vapors from leaded  gasoline_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.158.3802.800.a" data-style="small_rectangle"></span>
