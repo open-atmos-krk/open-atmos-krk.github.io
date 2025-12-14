@@ -205,6 +205,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.276.5315.1072" data-style="small_rectangle"></span>
     - [Facchini et al. 1999 (Nature 401)](https://doi.org/10.1038/45758): "_Cloud albedo enhancement by surface-active organic solutes in growing droplets_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/45758" data-style="small_rectangle"></span>
+    - [<cite>Langenberg</cite> 1999 (Nature/news)](https://doi.org/10.1038/news990916-10): "_Soapy droplets, brighter clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/news990916-10" data-style="small_rectangle"></span>
 * 2000s:
     - [Koop et al. 2000 (Nature 406)](https://doi.org/10.1038/35020537): "_Water activity as the determinant for homogeneous ice nucleation in aqueous solutions_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/35020537" data-style="small_rectangle"></span>
