@@ -7,13 +7,12 @@ title: Journal Club
 We meet every two weeks at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/)
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
-<h3>Planned presentations:</h3>
+<!--<h3>Planned presentations:</h3>-->
+
+<h3>Past presentations:</h3>
 * 2025-12-19: Agnieszka Żaba  
   [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/2151371a0" data-style="small_rectangle"></span>
-
-<h3>Past presentations:</h3>
-
 * 2025-11-21: Michał Wroński    
   [Shen et al. 2024 (Nature 636)](https://doi.org/10.1038/s41586-024-08196-0): "_New particle formation from isoprene under upper-tropospheric conditions_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-024-08196-0" data-style="small_rectangle"></span>
