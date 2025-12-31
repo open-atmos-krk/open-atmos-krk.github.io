@@ -43,7 +43,7 @@ to discuss Nature and Science papers scoped around environmental and computation
 
 <h3>Nature & Science papers on clouds to choose from (please <a href="https://github.com/open-atmos-krk/open-atmos-krk.github.io/issues/new">report</a> what to add):</h3>
 * 1880s:
-    - ✔ [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0): "_Dust, Fogs, and Clouds_"
+    - ✔ [Aitken 1880 (Nature 23)](https://doi.org/10.1038/023195d0): "_On Dust, Fogs, and Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023195d0" data-style="small_rectangle"></span>
     - ✔ [Groneman 1881 (Nature 23)](https://doi.org/10.1038/023337a0): "_On Dust, Fogs, and Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023337a0" data-style="small_rectangle"></span>
