@@ -17,12 +17,12 @@ image: "/img/money.jpg"
 
 <p>
 We explore a simple yet robust numerical method for integrating PDEs applied to pricing of options (financial instruments).
-We use the the non-oscillatory forward-in-time second-order MPDATA finite-difference scheme, which originates from 
+We use the non-oscillatory forward-in-time second-order MPDATA finite-difference scheme, which originates from 
   geophysical fluid dynamics. 
 The valuation methodology involves casting the <a href="https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model">Black-Scholes-Merton equation</a> 
   as a transport problem by first transforming it into a homogeneous <a href="https://en.wikipedia.org/wiki/Convection%E2%80%93diffusion_equation">advection-diffusion PDE</a> 
   via variable substitution, and then expressing the diffusion term as an advective flux using the pseudo-velocity technique. 
-As a result, all terms of the <a href="https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model">Black-Sholes-Merton equation</a>
+As a result, all terms of the <a href="https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model">Black-Scholes-Merton equation</a>
   are consistently represented using a single high-order numerical scheme for the advection operator.
 So far, we have demonstrated the methodology for <a href="https://en.wikipedia.org/wiki/European_option">European-</a>,
   <a href="https://en.wikipedia.org/wiki/American_option">American-</a> and <a href="https://en.wikipedia.org/wiki/Asian_option">Asian-style</a> 
