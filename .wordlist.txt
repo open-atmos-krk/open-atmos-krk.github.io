@@ -110,7 +110,7 @@ EGUsphere
 Elmeko
 ENES
 Enomoto
-ESS Open Archive
+ESS~Open~Archive
 etc
 Eulerian
 EuroSciPy
