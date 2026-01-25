@@ -49,7 +49,9 @@ Banerji
 Bartman
 Batko
 Baumgartner
+Bayley
 BEng
+Beydoun
 Bhiogade
 Bidwell
 Bieli
@@ -108,9 +110,10 @@ EGUsphere
 Elmeko
 ENES
 Enomoto
+ESS
+etc
 Eulerian
 EuroSciPy
-etc
 Facchini
 Falkovich
 Farhat

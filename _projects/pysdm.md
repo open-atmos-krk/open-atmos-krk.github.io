@@ -69,6 +69,8 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <li><a href="https://doi.org/10.1029/2024MS004770">Arabas et al. 2025 (JAMES)</a>: "<em>Immersion Freezing in Particle-Based Aerosol-Cloud Microphysics: A Probabilistic Perspective on Singular and Time-Dependent Models</em>"</li>
   <li><a href="https://doi.org/10.5194/egusphere-egu25-7011">Lüttmer et al. 2025 (EGU General Assembly)</a>: "<em>Cirrus formation in particle-based aerosol-cloud microphysics</em>"</li>
   <li><a href="https://doi.org/10.48550/arXiv.2509.05536">Ware et al. 2025 (arXiv)</a>: "<em>Adaptive time-stepping for the Super-Droplet Method Monte Carlo collision-coalescence scheme</em>"</li>
+  <li><a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/468067">Bayley et al. 2026 (AMS Annual Meeting)</a>: "<em>Ever Closer To A Numerical Benchmark For Warm Rain Processes</em>"</li>
+  <li><a href="https://doi.org/10.22541/essoar.176858434.43447149/v1">Beydoun et al. 2026 (ESS Open Archive)</a>: "<em>Super Droplet Cloud Microphysics in the Energy Research and Forecasting Model</em>"</li>
 </ul>
 
 <h3>🎓 Student project opportunities</h3>
