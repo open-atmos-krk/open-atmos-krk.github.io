@@ -8,6 +8,9 @@ highlighter: pygments
 
 permalink: /blog/:year/:month/:day/:title.html
 
+# show blog entries with future date
+future: true
+
 # Sections on the "people" page.
 roles:
   - key: faculty
