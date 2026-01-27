@@ -173,8 +173,17 @@ img.pic {
   }
 }
 
-@media screen and (min-width: 800px) {
-  .table {
+@media all and (max-width: 800px) {
+    img.pic {
+        float: none !important;
+        width: 100% !important;
+        margin: 0 auto 1em auto !important;
+        display: block !important;
+    }
+}
+
+@media all and (min-width: 800px) {
+    .table {
     width: 68%;
   }
 
@@ -183,7 +192,11 @@ img.pic {
   }
 
   img.pic {
-    width: 30%;
+      float: right !important;
+      width: 30% !important;
+      max-width: 30% !important;
+      margin: 0 0 1em 1em !important;
+      display: block !important;
   }
 }
 
