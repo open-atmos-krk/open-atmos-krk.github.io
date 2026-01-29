@@ -21,7 +21,7 @@ runs:
         source: ./
         destination: ./_site
         
-    - run: rm -rf _site/blog
+    - run: sudo rm -rf _site/blog
       shell: bash
       
     - name: Upload artifact
