@@ -1,0 +1,29 @@
+name: url-check
+
+defaults:
+  run:
+    shell: bash
+
+on:
+  schedule:
+    - cron: '0 13 * * 4'
+
+jobs:
+  url-check:
+      runs-on: ubuntu-latest
+      needs: build
+      steps:
+        - uses: actions/download-artifact@v6
+          with:
+            name: github-pages
+            path: _site
+        - run: cd _site; tar xvf artifact.tar
+        - uses: urlstechie/urlchecker-action@master
+          with:
+            subfolder: _site
+            file_types: .html
+            print_all: false
+            verbose: true
+            timeout: 20
+            retry_count: 3
+    
