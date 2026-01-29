@@ -4,9 +4,6 @@ description: Build GitHub Pages with Jekyll and upload the artifact
 runs:
   using: "composite"
   steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      
     - name: Install bibble
       run: pip install bibble
       shell: bash
