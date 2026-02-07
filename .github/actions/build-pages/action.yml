@@ -1,0 +1,28 @@
+name: build-pages
+description: Build GitHub Pages with Jekyll and upload the artifact
+
+runs:
+  using: "composite"
+  steps:
+    - name: Install bibble
+      run: pip install bibble
+      shell: bash
+      
+    - name: Generate pubs
+      run: make _includes/pubs.html
+      shell: bash
+      
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+      
+    - name: Build with Jekyll
+      uses: actions/jekyll-build-pages@v1
+      with:
+        source: ./
+        destination: ./_site
+        
+    - run: sudo rm -rf _site/blog
+      shell: bash
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
