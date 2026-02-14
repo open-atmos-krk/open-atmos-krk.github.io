@@ -50,7 +50,7 @@ Our first development in this area is a <a href="https://github.com/SciML/DiffEq
    <source src="https://video.fosdem.org/2026/h2215/J8HPZD-julia-unitful-differentialequations.av1.webm" type="video/webm"> 
    Your browser does not support the video tag.
   </video>
-  <figcaption><a href="https://fosdem.org/2026/schedule/event/J8HPZD-julia-unitful-differentialequations/">FOSDEM 2026 talk at /dev/random devroom</a></figcaption>
+  <figcaption><a href="https://fosdem.org/2026/schedule/event/J8HPZD-julia-unitful-differentialequations/">FOSDEM 2026 talk at the /dev/random session</a></figcaption>
 </figure>
 
 ### 🎓 Student project opportunities
