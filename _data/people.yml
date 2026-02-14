@@ -48,11 +48,11 @@ aleksandra_strzabala:
 
 michal_wronski:
     display_name: "Michał Wroński"
-    role: ugrad
+    role: alum
     webpage: "https://github.com/Sfonxu"
     github: Sfonxu
     image: "/img/people/MW.jpg"
-    bio: "Ongoing BEng project (major: Micro- and Nanotechnologies in Biophysics, AGH)"
+    bio: "Completed BEng project in 2026 (major: Micro- and Nanotechnologies in Biophysics, AGH)"
 
 emma_ware:
     display_name: "Emma Ware"
