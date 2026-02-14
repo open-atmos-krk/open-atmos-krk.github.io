@@ -81,5 +81,6 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <li>Immersion freezing and coagulation: effective freezing-temperature spectra under singular and time-dependent models</li>
   <li>Venusian cloud particle-based microphysics (e.g., using the models introduced in <a href="https://doi.org/10.1029/2025JE009177">Ando et al. 2025</a>)</li>
   <li>Logic for serialising and deserialising simulation state</li>
-  <li>new parcel-model example featuring entrainment (e.g., based on <a href="https://doi.org/10.1029/2007JD008473"><cite>Barahona</cite> & Nenes 2007</a> / <a href="https://doi.org/10.1007/BF00876119">Lee & <cite>Pruppacher</cite> 1977</a>)</li>
+  <li>Parcel-model example featuring entrainment (e.g., based on <a href="https://doi.org/10.1029/2007JD008473"><cite>Barahona</cite> & Nenes 2007</a> / <a href="https://doi.org/10.1007/BF00876119">Lee & <cite>Pruppacher</cite> 1977</a>)</li>
+  <li>Development of <a href="https://en.wikipedia.org/wiki/Cloud_seeding">Cloud-seeding</a> simulation framework using PySDM</li>
 </ul>
