@@ -43,7 +43,15 @@ We've had major contributions to the following articles:
 
 ### Cloud-physics examples for general-purpose open-source packages
 
-Stay tuned! (working on parcel-model example for <a href="https://docs.sciml.ai/"><code>DifferentialEquations.jl</code></a>).
+Our first development in this area is a <a href="https://github.com/SciML/DiffEqDocs.jl/pull/828">new parcel-model example</a> for the <a href="https://docs.sciml.ai/"><code>DifferentialEquations.jl</code></a>. As a part of this effort, we have investigated ways to couple <a href="https://docs.sciml.ai/"><code>DifferentialEquations.jl</code></a> with <a href="https://juliaphysics.github.io/Unitful.jl/"><code>Unitful.jl</code></a>, which was also a topic of a 2026 FOSDEM lightning talk by <strong>Daria Klimaszewska</strong>:
+
+<figure>
+  <video controls>
+   <source src="https://video.fosdem.org/2026/h2215/J8HPZD-julia-unitful-differentialequations.av1.webm" type="video/webm"> 
+   Your browser does not support the video tag.
+  </video>
+  <figcaption><a href="https://fosdem.org/2026/schedule/event/J8HPZD-julia-unitful-differentialequations/">FOSDEM 2026 talk at the /dev/random session</a></figcaption>
+</figure>
 
 ### 🎓 Student project opportunities
 - development of interactive teaching/demo/tutorial materials on the Burgers and shallow-water equations using PyMPDATA
