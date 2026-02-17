@@ -32,11 +32,11 @@ gracjan_adamus:
 
 daria_klimaszewska:
     display_name: "Daria Klimaszewska"
-    role: ugrad
+    role: alum
     webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
     github: thearia0
     image: "/img/people/thearia0.jpeg"
-    bio: "Ongoing BEng project (major: Technical Physics, AGH; prior: BEng in Nanomaterials Engineering, AGH)"
+    bio: "Completed BEng project in 2026 (major: Technical Physics, AGH; prior: BEng in Nanomaterials Engineering, AGH)"
 
 aleksandra_strzabala:
     display_name: "Aleksandra Strząbała"
