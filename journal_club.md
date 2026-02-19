@@ -4,7 +4,7 @@ title: Journal Club
 ---
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <img src="/img/journal_club.jpg" alt="journal club" class="pic" align="right" />
-We meet semi-regularly at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/) (building D10, room 7) 
+We meet semi-regularly at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/) (building <cite>D10</cite>, room 7) 
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
 <!--<h3>Planned presentations:</h3>-->
