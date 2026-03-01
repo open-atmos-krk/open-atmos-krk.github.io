@@ -30,6 +30,14 @@ gracjan_adamus:
     github: griger5
     image: "/img/people/GA.jpg"
 
+alicja_jagielska:
+    display_name: "Alicja Jagielska"
+    role: ugrad
+    webpage: "https://ihahala.pl/"
+    github: SecondGlanceFromAlice
+    image: "/img/people/ajagielska.jpeg"
+    bio: "Ongoing BEng project (major: Computer Physics, AGH)"
+
 daria_klimaszewska:
     display_name: "Daria Klimaszewska"
     role: alum
