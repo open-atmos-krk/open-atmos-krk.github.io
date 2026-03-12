@@ -19,6 +19,9 @@ layout: project
 no-link: true
 image: "/img/logo_pympdata.png"
 ---
+[![github-PyMPDATA](https://img.shields.io/badge/github-PyMPDATA-blue?logo=github)](https://github.com/open-atmos/PyMPDATA)
+
+
 <script type="text/javascript" async
      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>

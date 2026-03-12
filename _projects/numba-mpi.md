@@ -15,6 +15,7 @@ layout: project
 no-link: true
 image: "/img/logo_numbampi.png"
 ---
+[![github-Numba-MPI](https://img.shields.io/badge/github-Numba--MPI-blue?logo=github)](https://github.com/numba-mpi/numba-mpi)
 
 <p>
 The Numba-MPI package enables just-in-time (JIT) compiled Python code using <a href="https://numba.pydata.org/">Numba</a> 

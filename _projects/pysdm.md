@@ -23,6 +23,7 @@ layout: project
 no-link: true
 image: "/img/logo_pysdm.png"
 ---
+[![github-PySDM](https://img.shields.io/badge/github-PySDM-blue?logo=github)](https://github.com/open-atmos/PySDM)
 
 <h3>pure-Python, open-source implementation of the SDM algorithm</h3>
 <p>
