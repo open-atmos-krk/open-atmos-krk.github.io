@@ -14,6 +14,7 @@ layout: project
 no-link: true
 image: "/img/logo_pypartmc.png"
 ---
+[![github-PyPartMC](https://img.shields.io/badge/github-PyPartMC-blue?logo=github)](https://github.com/open-atmos/PyPartMC)
 
 <p>
 PyPartMC is a jointly developed effort between <a href="https://www.atmos.illinois.edu/~nriemer/">Nicole Riemer's group at University of Illinois Urbana-Champaign</a>,

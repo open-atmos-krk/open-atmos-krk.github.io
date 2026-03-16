@@ -18,6 +18,7 @@ people:
 layout: project
 image: "/img/magritte.jpg"
 ---
+[![github-hpc-diy](https://img.shields.io/badge/github-hpc--diy-blue?logo=github)](https://github.com/open-atmos-krk/hpc-diy)
 
 We are building, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU-enabled</a> 
   <a href="https://en.wikipedia.org/wiki/Computer_cluster">computing cluster</a>

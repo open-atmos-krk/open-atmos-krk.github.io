@@ -15,7 +15,7 @@ layout: project
 no-link: true
 image: "/img/utils.jpg"
 ---
-
+[![github-jupyter-utils](https://img.shields.io/badge/github-jupyter--utils-blue?logo=github)](https://github.com/open-atmos/jupyter-utils)
 <p>
 Ever wondered how come Jupyter defaults to raster inline graphics format (and not svg), 
   does not offer a "save as pdf/svg" button below every plot and does not offer a 
