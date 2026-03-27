@@ -8,11 +8,14 @@ We meet semi-regularly at the [AGH Faculty of Physics and Applied CS](https://fi
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
 <h3>Planned presentations:</h3>
+* 2026-04-16: Alicja Jagielska    
+   [Stevens & Feingold 2009 (Nature 461)](https://doi.org/10.1038/nature08281): "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08281" data-style="small_rectangle"></span>
+    
+<h3>Past presentations:</h3>
 * 2026-03-26: Sylwester Arabas    
   [Kulmala et al. 1997 (Nature 388)](https://doi.org/10.1038/41000): "_Clouds without supersaturation_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/41000" data-style="small_rectangle"></span>
-
-<h3>Past presentations:</h3>
 * 2025-12-19: Agnieszka Żaba  
   [Davis & Sartor 1967 (Nature 215)](https://doi.org/10.1038/2151371a0): "_Theoretical Collision Efficiencies for Small Cloud Droplets in Stokes Flow_"
   <span class="__dimensions_badge_embed__" data-doi="10.1038/2151371a0" data-style="small_rectangle"></span>
