@@ -206,6 +206,7 @@ Malavelle
 Margolin
 matplotlib
 Matuszko
+Mazur
 McInerney
 Michalski
 Michał
