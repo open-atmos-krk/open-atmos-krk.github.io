@@ -22,6 +22,14 @@ konrad_bodzioch:
     github: Bodzio-2
     bio: "Ongoing MSc project (major: Computer Science & Intelligent Systems; prior: BEng in Computer Science & Intelligent Systems, AGH, 2024)"
 
+kacper_mazur:
+    display_name: "Kacper Mazur"
+    role: grad
+    bio: "Ongoing MSc project (major: Computer Science in Engineering); prior: BEng in Computational Engineering, AGH, 2026)"
+    webpage: https://www.linkedin.com/in/kacper-mazur-67374b2ba
+    image: /img/people/fot_kacmaz.jpg
+    github: KmazuR-afk
+
 gracjan_adamus:
     display_name: "Gracjan Adamus"
     role: ugrad
@@ -141,6 +149,7 @@ michael_olesik:
     webpage: https://github.com/rlhycd
     image: /img/people/fot_mao.jpg
     github: rlhycd
+
 
 you_faculty:
     display_name: "You?"
