@@ -331,3 +331,5 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adn2961" data-style="small_rectangle"></span>
     - [Di Girolamo 2025 (Nature 643)](https://doi.org/10.1038/s41586-025-09242-1): "_Decadal changes in atmospheric circulation detected in cloud motion vectors_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-025-09242-1" data-style="small_rectangle"></span>
+    - [Voigt et al. 2026 (Nature 652)](https://doi.org/10.1038/s41586-026-10286-0): "_Substantial aircraft contrail formation at low soot emission levels_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-026-10286-0" data-style="small_rectangle"></span>
