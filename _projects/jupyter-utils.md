@@ -9,6 +9,7 @@ people:
   - agnieszka_zaba
   - michal_wronski
   - pawel_magnuszewski
+  - alicja_jagielska
   - sylwester_arabas
 
 layout: project
