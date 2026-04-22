@@ -9,7 +9,7 @@ to discuss Nature and Science papers scoped around environmental and computation
 
 <h3>Planned presentations:</h3>
 * 2026-05-07: Michał Wroński    
-  [Żukowski & Stępień 2026 (Science 391)](https://doi.org/10.1126/science.aef3833): "_Poland: No country for PhD researchers_"
+  [<cite>Żukowski</cite> & <cite>Stępień</cite> 2026 (Science 391)](https://doi.org/10.1126/science.aef3833): "_Poland: No country for PhD researchers_"
   <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aef3833" data-style="small_rectangle"></span>
     
 <h3>Past presentations:</h3>
