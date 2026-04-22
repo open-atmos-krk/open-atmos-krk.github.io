@@ -46,6 +46,14 @@ alicja_jagielska:
     image: "/img/people/ajagielska.jpeg"
     bio: "Ongoing BEng project (major: Computer Physics, AGH)"
 
+rafal_oszajca:
+    display_name: "Rafał Oszajca"
+    role: ugrad
+    bio: "Ongoing BEng project (major: Applied Computer Science, AGH)"
+    webpage: "https://github.com/orzel320"
+    github: orzel320
+    image: "/img/people/ROszajca.jpg"
+
 daria_klimaszewska:
     display_name: "Daria Klimaszewska"
     role: alum
