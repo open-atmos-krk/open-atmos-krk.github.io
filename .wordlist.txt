@@ -236,6 +236,7 @@ Olesik
 Onishi
 OpenMPI
 OpenMP
+Oszajca
 Ovadnevaite
 Paweł
 Pawlowska
