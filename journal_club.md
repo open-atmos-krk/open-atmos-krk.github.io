@@ -201,6 +201,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/348022a0" data-style="small_rectangle"></span>
     - [Charlson 1992 (Science 255)](https://doi.org/10.1126/science.255.5043.423): "_Climate Forcing by Anthropogenic Aerosols_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.255.5043.423" data-style="small_rectangle"></span>
+    - [<cite>Różański</cite> et al. 1992 (Science 258)](https://doi.org/10.1126/science.258.5084.981): "_Relation Between Long-Term Trends of Oxygen-18 Isotope Composition of Precipitation and Climate_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.258.5084.981" data-style="small_rectangle"></span>
     - [Novakov & Penner 1993 (Nature 365)](https://doi.org/10.1038/365823a0): "_Large contribution of organic aerosols to cloud-condensation-nuclei concentrations_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/365823a0" data-style="small_rectangle"></span>
     - [Kaufman & Tanré 1994 (Nature 369)](https://doi.org/10.1038/369045a0): "_Effect of variations in super-saturation on the formation of cloud condensation nuclei_"
