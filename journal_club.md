@@ -148,6 +148,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Mossop & Hallett 1974 (Science 186)](https://doi.org/10.1126/science.186.4164.632): "_Ice Crystal Concentration in Cumulus Clouds: Influence of the Drop Spectrum_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.186.4164.632" data-style="small_rectangle"></span>
 * 1980s:
+    - [Pruppacher & Klett 1980 (Nature 284)](https://doi.org/10.1038/284088b0): <cite>"_Microphysics of Clouds and Precipitation_"</cite> (book notice, next to a [notice on "Atmospheric Physics" by Iribarne & Cho](https://doi.org/10.1038/284088a0))
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/284088b0" data-style="small_rectangle"></span>
     - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0): <cite>"_Rain drop sizes and rainfall rate measured by dual-polarization radar_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1038/285195a0" data-style="small_rectangle"></span>
     - [Joussaume et al. 1984 (Nature 311)](https://doi.org/10.1038/311024a0): "_A general circulation model of water isotope cycles in the atmosphere_"
