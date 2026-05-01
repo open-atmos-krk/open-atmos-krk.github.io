@@ -207,7 +207,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/369045a0" data-style="small_rectangle"></span>
     - [Pincus & Baker 1994 (Nature 372)](https://doi.org/10.1038/372250a0): "_Effect of precipitation on the albedo susceptibility of clouds in the marine boundary layer_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/372250a0" data-style="small_rectangle"></span>
-    - [Kulmala et al. 1997 (Nature 388)](https://doi.org/10.1038/41000): "_Clouds without supersaturation_"
+    - ✔ [Kulmala et al. 1997 (Nature 388)](https://doi.org/10.1038/41000): "_Clouds without supersaturation_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/41000" data-style="small_rectangle"></span>
     - [Chuang et al. 1997 (Nature 390)](https://doi.org/10.1038/37576): "_Kinetic limitations on droplet formation in clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/37576" data-style="small_rectangle"></span>
@@ -260,7 +260,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1159185" data-style="small_rectangle"></span>
     - [<cite>Schaller</cite> et al. 2009 (Nature 460)](https://doi.org/10.1038/nature08193): "_Storms in the tropics of Titan_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08193" data-style="small_rectangle"></span>
-    - [Stevens & Feingold 2009 (Nature 461)](https://doi.org/10.1038/nature08281): "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
+    - ✔ [Stevens & Feingold 2009 (Nature 461)](https://doi.org/10.1038/nature08281): "_Untangling aerosol effects on clouds and precipitation in a buffered system_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08281" data-style="small_rectangle"></span>
 * 2010s
     - [Feingold et al. 2010 (Nature 466)](https://doi.org/10.1038/nature09314): "_Precipitation-generated oscillations in open cellular cloud fields_"
