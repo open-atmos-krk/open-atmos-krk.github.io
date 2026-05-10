@@ -30,6 +30,14 @@ kacper_mazur:
     image: /img/people/fot_kacmaz.jpg
     github: KmazuR-afk
 
+kamil_kania:
+    display_name: "Kamil Kania"
+    role: grad
+    github: Grzyb33k
+    image: /img/people/kkania.jpg
+    webpage: "https://www.linkedin.com/in/kamilkania-agh"
+    bio: "Ongoing MSc project (major: Technical Physics; prior: BEng in Technical Physics, AGH, 2026)"
+
 gracjan_adamus:
     display_name: "Gracjan Adamus"
     role: ugrad
