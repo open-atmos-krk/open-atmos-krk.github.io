@@ -9,6 +9,7 @@ people:
   - kacper_derlatka
   - oleksii_bulenok
   - michal_wronski
+  - kamil_kania
   - sylwester_arabas
 
 layout: project
