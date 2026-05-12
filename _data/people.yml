@@ -64,11 +64,11 @@ rafal_oszajca:
 
 daria_klimaszewska:
     display_name: "Daria Klimaszewska"
-    role: alum
+    role: grad
     webpage: "https://www.linkedin.com/in/daria-klimaszewska-3877b418a"
     github: thearia0
     image: "/img/people/thearia0.jpeg"
-    bio: "Completed BEng project in 2026 (major: Technical Physics, AGH; prior: BEng in Nanomaterials Engineering, AGH)"
+    bio: "Ongoing MSc project (major: Technical Physics, AGH; prior: 2×BEng in Nanomaterials Engineering and Technical Physics, AGH)"
 
 aleksandra_strzabala:
     display_name: "Aleksandra Strząbała"
