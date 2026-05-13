@@ -16,6 +16,7 @@ people:
   - sanket_bhiogade
   - konrad_bodzioch
   - agnieszka_zaba
+  - kacper_mazur
   - agnieszka_makulska
   - alicja_jagielska
   - sylwester_arabas
