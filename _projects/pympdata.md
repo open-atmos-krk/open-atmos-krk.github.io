@@ -13,6 +13,7 @@ people:
   - michal_kowalczyk
   - pawel_magnuszewski
   - kacper_derlatka
+  - gracjan_adamus
   - sylwester_arabas
 
 layout: project
