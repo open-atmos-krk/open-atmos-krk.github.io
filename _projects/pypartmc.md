@@ -8,6 +8,7 @@ description: |
 
 people:
   - gracjan_adamus
+  - rafal_oszajca
   - sylwester_arabas
 
 layout: project
