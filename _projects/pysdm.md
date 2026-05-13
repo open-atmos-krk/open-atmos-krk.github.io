@@ -17,6 +17,7 @@ people:
   - konrad_bodzioch
   - agnieszka_zaba
   - agnieszka_makulska
+  - alicja_jagielska
   - sylwester_arabas
 
 layout: project
