@@ -7,9 +7,10 @@ title: Journal Club
 We meet semi-regularly at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/) (building <cite>D10</cite>, room 7) 
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
-<!--
 <h3>Planned presentations:</h3>
--->
+* 2026-05-28: Gracjan Adamus    
+  [<cite>Perkel</cite> 2022 (Nature 603)](https://doi.org/10.1038/d41586-022-00563-z): "_Cut the tyranny of copy-and-paste with these coding tools_"
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-022-00563-z" data-style="small_rectangle"></span>
     
 <h3>Past presentations:</h3>
 * 2026-05-14: Michał Wroński    
