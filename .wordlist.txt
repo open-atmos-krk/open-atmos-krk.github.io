@@ -361,3 +361,7 @@ Zenodo
 ccnact
 SciPy
 parameterisation
+HABEMUS
+BiblaTeX
+RevealJS
+citeproc
