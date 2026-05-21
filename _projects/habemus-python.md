@@ -4,9 +4,15 @@ title: HABEMUS Python
 description: |
   Resources to help students combine reproducible research, software engineering with CI automation, 
     and high-quality, code-based typesetting to achieve the “executable manuscripts” goal:
-  engineer your documents to be reproducible, automated, and aesthetic by design! 
+    engineer your documents to be reproducible, automated, and aesthetic by design! 
+  The project has been carried out as a collaborative project involving 30 students enrolled
+    in the "Research Software Engineering in Python for Reproducible Computational Science",
+    including several members of our team.
 
 people:
+  - gracjan_adamus
+  - alicja_jagielska
+  - rafal_oszajca
   - sylwester_arabas
 
 layout: project
