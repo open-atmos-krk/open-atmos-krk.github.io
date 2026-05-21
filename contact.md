@@ -19,9 +19,9 @@ For more contact information, see the <a href="https://zfs.agh.edu.pl/en/team">E
 Our meetings are held at the <a href="https://www.openstreetmap.org/node/6958500835">AGH Faculty of Physics and Applied Computer Science, building D-10</a>, room&nbsp;7.
 </p>
 
-<h4>Slack workspace: <a href="https://open-atmos-krk.slack.com">open-atmos-krk.slack.com</a></h4>
+<h4>Zulip workspace: <a href="https://open-atmos-krk.slack.com">open-atmos-krk.zulipchat.com</a></h4>
 <p>
-We use Slack for everyday communication and project-related discussions.
+We use Zulip for everyday communication and project-related discussions.
 <a href="mailto:sylwester.arabas@agh.edu.pl">Send an e-mail</a> to join!
 </p>
 
