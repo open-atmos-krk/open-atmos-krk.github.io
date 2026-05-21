@@ -10,7 +10,7 @@ people:
   - sylwester_arabas
 
 layout: project
-image: "/img/habemus-python.png"
+image: "/img/habemuspython.png"
 ---
 
 <h3 id="-flagship-projects"><span class="emoji">🌟</span> Flagship projects</h3>
