@@ -9,7 +9,7 @@ people:
   - sylwester_arabas
 
 layout: project
-image: "/img/ccnact.jpg"
+image: "/img/ccnact.png"
 ---
 [![github-ccnact](https://img.shields.io/badge/github-ccnact-blue?logo=github)](https://github.com/open-atmos-krk/ccnact)
 
