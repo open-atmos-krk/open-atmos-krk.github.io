@@ -10,6 +10,7 @@ people:
   - daria_klimaszewska
   - emma_ware
   - pawel_magnuszewski
+  - alicja_jagielska
   - sylwester_arabas
 
 layout: project
