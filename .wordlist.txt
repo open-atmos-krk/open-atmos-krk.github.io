@@ -366,3 +366,5 @@ BiblaTeX
 RevealJS
 citeproc
 Zulip
+SMOK
+PyVista
