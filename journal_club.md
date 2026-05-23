@@ -133,6 +133,8 @@ to discuss Nature and Science papers scoped around environmental and computation
 * 1960s:
     - ✔ [Picciotto et al. 1960 (Nature 187)](https://doi.org/10.1038/187857a0): "_Isotopic composition and temperature of formation of Antarctic snows_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/187857a0" data-style="small_rectangle"></span>
+    - [Craig 1961 (Science 133)](https://doi.org/10.1126/science.133.3465.1702): "_Isotopic Variations in Meteoric Waters_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.133.3465.1702" data-style="small_rectangle"></span>
     - [Fletcher 1961 (Science 134)](https://doi.org/10.1126/science.134.3476.361): "_Freezing Nuclei, Meteors, and Rainfall_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.134.3476.361" data-style="small_rectangle"></span>
     - [<cite>Fookes</cite> et al. 1962 (Nature 196)](https://doi.org/10.1038/196328b0): "_A Radioisotope Technique for Tracing Air Movements in Clear Air and in Clouds_"
