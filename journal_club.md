@@ -241,6 +241,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/nature00983" data-style="small_rectangle"></span>
     - [Rosenfeld et al. 2002 (Science 297)](https://doi.org/10.1126/science.1073869): "_The Role of Sea Spray in Cleansing Air Pollution over Ocean via Cloud Processes_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1073869" data-style="small_rectangle"></span>
+    - [Webster & <cite>Heymsfield</cite> 2003 (Science 302)](https://doi.org/10.1126/science.1089496): "_Water Isotope Ratios D/H, <sup>18</sup>O/<sup>16</sup>O, <sup>17</sup>O/<sup>16</sup>O in and out of Clouds Map Dehydration Pathways_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.108949" data-style="small_rectangle"></span>
     - [Andreae et al. 2004 (Science 303)](https://doi.org/10.1126/science.1092779): "_Smoking Rain Clouds over the Amazon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1092779" data-style="small_rectangle"></span>
     - [Koren et al. 2004 (Science 303)](https://doi.org/10.1126/science.1089424): "_Measurement of the Effect of Amazon Smoke on Inhibition of Cloud Formation_"
