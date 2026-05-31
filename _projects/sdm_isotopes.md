@@ -49,7 +49,7 @@ Our objective is to create a novel tool enabling:
    isotopic composition data (e.g., from ice cores). 
 
 ### Project publications
-- <a href="https://ams.confex.com/ams/2026Summit/meetingapp.cgi/Paper/482152">Żaba et al. 2026 (AMS Madison Summit, 17<sup>th</sup> Conference on Cloud Physics, Madison, WI, USA): "<em>Modeling Isotopic Fractionation with Particle-Based Microphysics Using the Bolin Number</em>"</a>
+- <a href="https://ams.confex.com/ams/2026Summit/meetingapp.cgi/Paper/482152">Żaba et al. 2026 (AMS Madison Summit, 17<sup>th</sup> Conference on Cloud Physics, Madison, WI, USA): "<em><cite>Modeling</cite> Isotopic Fractionation with Particle-Based Microphysics Using the <cite>Bolin</cite> Number</em>"</a>
 
 ### 🎓 Student project opportunities
 - Extending PySDM to explicitly resolve droplet heat budget and thus capture non-equilibrium drop temperature 
