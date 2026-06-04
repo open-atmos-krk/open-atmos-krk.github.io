@@ -2,7 +2,7 @@
 layout: post
 shortnews: true
 icon: newspaper-o
-image: /img/europython_logo.svg
+image: /img/logo_europython.svg
 ---
 
 During the <a href="https://ep2026.europython.eu/"><cite>EuroPython</cite> 2026 conference</a> conference in Kraków,
