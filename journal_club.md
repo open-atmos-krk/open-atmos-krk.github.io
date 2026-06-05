@@ -67,6 +67,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/025529a0" data-style="small_rectangle"></span>
     - [Kopp 1882 (Nature 26)](https://doi.org/10.1038/026031a0): "_How may Clouds consisting of Liquid or of Frozen Water be Distinguished?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/026031a0" data-style="small_rectangle"></span>
+    - [Giglioli 1883 (Nature 28)](https://doi.org/10.1038/028083b0): "_On the Condensation of Vapour from the Fumaroles of the Solfatara of Pozzuoli_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/028083b0" data-style="small_rectangle"></span>
     - [Leslie 1886 (Nature 34)](https://doi.org/10.1038/034264b0): "_Luminous Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/034264b0" data-style="small_rectangle"></span>
 * 1890s:
@@ -74,8 +76,12 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/044614a0" data-style="small_rectangle"></span>
     - [Russell & Watson 1981 (Nature 45)](https://doi.org/10.1038/045010a0): "_Town Fogs and their Effects_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/045010a0" data-style="small_rectangle"></span>
+    - [Bidwell 1893 (Nature 49)](https://doi.org/10.1038/049212a0): "_The Cloudy Condensation of Steam_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/049212a0" data-style="small_rectangle"></span>
     - [Aitken 1894 (Nature 49)](https://doi.org/10.1038/049340b0): "_The Cloudy Condensation of Steam_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/049340b0" data-style="small_rectangle"></span>
+    - [Barus 1894 (Nature 49)](https://doi.org/10.1038/049363b0): "_The Cloudy Condensation of Steam_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/049363b0" data-style="small_rectangle"></span>
     - [Bidwell 1894 (Nature 49)](https://doi.org/10.1038/049388a0): "_The Cloudy Condensation of Steam_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/049388a0" data-style="small_rectangle"></span>
 * 1900s:
@@ -290,8 +296,6 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/503047a" data-style="small_rectangle"></span>
     - [Cziczo et al. 2013 (Science 340)](https://doi.org/10.1126/science.1234145): "_Clarifying the Dominant Sources and Mechanisms of Cirrus Cloud Formation_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1234145" data-style="small_rectangle"></span>
-    - ✔ [Topping et al. 2013 (Nature Geoscience 6)](https://doi.org/10.1038/ngeo1809): "_Cloud droplet number enhanced by co-condensation of organic vapours_"
-    <span class="__dimensions_badge_embed__" data-doi="10.1038/ngeo1809" data-style="small_rectangle"></span>
     - [Koren et al. 2014 (Science 344)](https://doi.org/10.1126/science.1252595): "_From aerosol-limited to invigoration of warm convective clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.1252595" data-style="small_rectangle"></span>
     - [Gramling 2015 (Science News)](https://doi.org/10.1126/science.aac8874): "_Tiny sea creatures are making clouds over the Southern Ocean_"
