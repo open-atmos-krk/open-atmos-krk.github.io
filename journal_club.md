@@ -63,12 +63,18 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023337a0" data-style="small_rectangle"></span>
     - ✔ [Aitken 1881 (Nature 23)](https://doi.org/10.1038/023384a0): "_Dust, Fogs, and Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023384a0" data-style="small_rectangle"></span>
+    - [Russell 1881 (Nature 23)](https://doi.org/10.1038/023267d0): "_Dust and Fogs_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/023267d0" data-style="small_rectangle"></span>
+    - [<cite>Preece</cite> 1881 (Nature 23)](https://doi.org/10.1038/023336c0): "_On Dust, Fogs, and Clouds_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/023336c0" data-style="small_rectangle"></span>
     - [<cite>De Fonvielle</cite> 1882 (Nature 25)](https://doi.org/10.1038/025529a0): "_Rime Cloud observed in a Balloon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/025529a0" data-style="small_rectangle"></span>
     - [Kopp 1882 (Nature 26)](https://doi.org/10.1038/026031a0): "_How may Clouds consisting of Liquid or of Frozen Water be Distinguished?_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/026031a0" data-style="small_rectangle"></span>
     - [<cite>Giglioli</cite> 1883 (Nature 28)](https://doi.org/10.1038/028083b0): "_On the Condensation of Vapour from the Fumaroles of the Solfatara of <cite>Pozzuoli</cite>_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/028083b0" data-style="small_rectangle"></span>
+    - [Aitken 1886 (Nature 33)](https://doi.org/10.1038/033256c0): "_(Mr. Aitken) On dew_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/033256c0" data-style="small_rectangle"></span>
     - [Leslie 1886 (Nature 34)](https://doi.org/10.1038/034264b0): "_Luminous Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/034264b0" data-style="small_rectangle"></span>
 * 1890s:
@@ -76,6 +82,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/044614a0" data-style="small_rectangle"></span>
     - [Russell & Watson 1981 (Nature 45)](https://doi.org/10.1038/045010a0): "_Town Fogs and their Effects_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/045010a0" data-style="small_rectangle"></span>
+    - [Rankin 1982 (Nature 45)](https://doi.org/10.1038/045582b0): "_Dust Counting on Ben Nevis_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/045582b0" data-style="small_rectangle"></span>
     - [Bidwell 1893 (Nature 49)](https://doi.org/10.1038/049212a0): "_The Cloudy Condensation of Steam_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/049212a0" data-style="small_rectangle"></span>
     - [Aitken 1894 (Nature 49)](https://doi.org/10.1038/049340b0): "_The Cloudy Condensation of Steam_"
@@ -85,6 +93,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     - [Bidwell 1894 (Nature 49)](https://doi.org/10.1038/049388a0): "_The Cloudy Condensation of Steam_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/049388a0" data-style="small_rectangle"></span>
 * 1900s:
+    - [Wilson 1900 (Nature 62)](https://doi.org/10.1038/062149b0): "_Atmospheric Electricity_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/062149b0" data-style="small_rectangle"></span>
     - [Aitken 1909 (Nature 82)](https://doi.org/10.1038/082008a0): "_Atmospheric Cloudy Condensation_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/082008a0" data-style="small_rectangle"></span>
 * 1910s:
