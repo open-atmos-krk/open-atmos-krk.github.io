@@ -65,7 +65,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023384a0" data-style="small_rectangle"></span>
     - [Russell 1881 (Nature 23)](https://doi.org/10.1038/023267d0): "_Dust and Fogs_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023267d0" data-style="small_rectangle"></span>
-    - [Preece 1881 (Nature 23)](https://doi.org/10.1038/023336c0): "_On Dust, Fogs, and Clouds_"
+    - [<cite>Preece</cite> 1881 (Nature 23)](https://doi.org/10.1038/023336c0): "_On Dust, Fogs, and Clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/023336c0" data-style="small_rectangle"></span>
     - [<cite>De Fonvielle</cite> 1882 (Nature 25)](https://doi.org/10.1038/025529a0): "_Rime Cloud observed in a Balloon_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/025529a0" data-style="small_rectangle"></span>
