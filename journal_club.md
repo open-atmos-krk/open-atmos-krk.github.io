@@ -175,6 +175,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/284088b0" data-style="small_rectangle"></span>
     - [Hall et al. 1980 (Nature 285)](https://doi.org/10.1038/285195a0): <cite>"_Rain drop sizes and rainfall rate measured by dual-polarization radar_"</cite>
     <span class="__dimensions_badge_embed__" data-doi="10.1038/285195a0" data-style="small_rectangle"></span>
+    - [Bohren 1982 (Science 216)](https://doi.org/10.1126/science.216.4547.682.d): "_Nonrandom Bubbles_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.216.4547.682.d" data-style="small_rectangle"></span>
     - [Joussaume et al. 1984 (Nature 311)](https://doi.org/10.1038/311024a0): "_A general circulation model of water isotope cycles in the atmosphere_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/311024a0" data-style="small_rectangle"></span>
     - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020): "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
