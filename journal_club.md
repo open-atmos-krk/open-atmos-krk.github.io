@@ -351,6 +351,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-021-00206-7" data-style="small_rectangle"></span>
     - [Glassmeier et al. 2021 (Science 371)](https://doi.org/10.1126/science.abd3980): "_Aerosol-cloud-climate cooling overestimated by ship-track data_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.abd3980" data-style="small_rectangle"></span>
+    - [Kalita et al. 2023 (Nature 620)](https://doi.org/10.1038/s41586-023-06283-2): "_Microstructure and crystal order during freezing of supercooled water drops_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-023-06283-2" data-style="small_rectangle"></span>
     - [Allwayin et al. 2024 (Science 384)](https://doi.org/10.1126/science.adi5550): "_Locally narrow droplet size distributions are ubiquitous in stratocumulus clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adi5550" data-style="small_rectangle"></span>
     - [Toll et al. 2024 (Science 386)](https://doi.org/10.1126/science.adl0303): "_Glaciation of liquid clouds, snowfall, and reduced cloud cover at industrial aerosol hot spots_"
