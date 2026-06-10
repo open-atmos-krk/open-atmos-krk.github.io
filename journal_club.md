@@ -7,9 +7,10 @@ title: Journal Club
 We meet semi-regularly at the [AGH Faculty of Physics and Applied CS](https://fis.agh.edu.pl/en/) (building <cite>D10</cite>, room 7) 
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
-<!--
 <h3>Planned presentations:</h3>
--->
+* 2026-10-??: Rafał Oszajca    
+ [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0): "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
+ <span class="__dimensions_badge_embed__" data-doi="10.1038/324651a0" data-style="small_rectangle"></span>
     
 <h3>Past presentations:</h3>
 * 2026-05-28: Gracjan Adamus    
@@ -181,7 +182,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/311024a0" data-style="small_rectangle"></span>
     - [Coakley et al. 1987 (Science 237)](https://doi.org/10.1126/science.237.4818.1020): "_Effect of Ship-Stack Effluents on Cloud Reflectivity_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.237.4818.1020" data-style="small_rectangle"></span>
-    - [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0): "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
+    - ✔ [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0): "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/324651a0" data-style="small_rectangle"></span>
     - [Charlson et al. 1987 (Nature 326)](https://doi.org/10.1038/326655a0): "_Oceanic phytoplankton, atmospheric sulphur, cloud albedo and climate_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/326655a0" data-style="small_rectangle"></span>
