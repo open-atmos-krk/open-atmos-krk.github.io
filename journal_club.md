@@ -370,3 +370,5 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-026-10286-0" data-style="small_rectangle"></span>
     - [<cite>Baalbaki</cite> et al. 2026 (Nature)](https://doi.org/10.1038/s41586-026-10810-2): "_Role of <cite>methanesulfonic</cite> acid in atmospheric particle nucleation and growth_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-026-10810-2" data-style="small_rectangle"></span>
+    - [<cite>Ming Lyu</cite> et al. 2026 (Science 392)](https://doi.org/10.1126/science.adw8939): "_An unrecognized mode of small particles in the lower stratosphere_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.adw8939" data-style="small_rectangle"></span>
