@@ -368,3 +368,5 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-025-09242-1" data-style="small_rectangle"></span>
     - [Voigt et al. 2026 (Nature 652)](https://doi.org/10.1038/s41586-026-10286-0): "_Substantial aircraft contrail formation at low soot emission levels_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-026-10286-0" data-style="small_rectangle"></span>
+    - [<cite>Baalbaki</cite> et al. 2026 (Nature)](https://doi.org/10.1038/s41586-026-10810-2): "_Role of <cite>methanesulfonic</cite> acid in atmospheric particle nucleation and growth_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-026-10810-2" data-style="small_rectangle"></span>
