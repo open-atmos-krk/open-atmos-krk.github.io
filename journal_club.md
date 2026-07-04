@@ -341,6 +341,8 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aar5836" data-style="small_rectangle"></span>
     - ✔ [Rosenfeld et al. 2019 (Science 363)](https://doi.org/10.1126/science.aav0566): "_Aerosol-driven droplet concentrations dominate coverage and water of oceanic low-level clouds_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aav0566" data-style="small_rectangle"></span>
+    - [<cite>Bai</cite> et al. 2019 (Nature 576)](https://doi.org/10.1038/s41586-019-1827-6): "_Probing the critical nucleus size for ice formation with graphene oxide <cite>nanosheets</cite>_"
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-019-1827-6" data-style="small_rectangle"></span>
 * 2020s
     - [Fedorova et al. 2020 (Science 367)](https://doi.org/10.1126/science.aay9522): "_Stormy water on Mars: The distribution and saturation of atmospheric water during the dusty season_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.aay9522" data-style="small_rectangle"></span>
