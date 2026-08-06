@@ -37,6 +37,8 @@ In this project, the set of attributes is extended to include: moles of deuteriu
 The evolution in time of a droplet water isotopic composition is driven by
   kinetically limited diffusion processes (condensation, evaporation, 
   deposition, sublimation), and is further modulated by collision-triggered <a href="https://en.wikipedia.org/wiki/Coalescence_(physics)">coalescence</a> and breakage.
+Isotopic composition in the vapour is calculated from the conservation law
+ for number of isotopes in the system. It is represented by molality in dry air.
 
 Defining and prototyping a new model of the above phenomena, 
   we use [PySDM](https://open-atmos-krk.github.io/projects/pysdm.html) -
