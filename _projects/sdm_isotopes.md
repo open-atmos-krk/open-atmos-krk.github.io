@@ -39,11 +39,9 @@ The evolution in time of a droplet water isotopic composition is driven by
   deposition, sublimation), and is further modulated by collision-triggered <a href="https://en.wikipedia.org/wiki/Coalescence_(physics)">coalescence</a> and breakage.
 Isotopic composition in the vapour changes due to advection and diffusional growth.
 It is represented by molality in dry air, which is the number of the moles
- of the heavy isotope over the mass of dry air.
-This parameter is chosen as it is consistent with the advection logic which assumes
- that the density of dry air is constant in time.
-Molality is calculated for each considered heavy isotopes molality. 
-
+  of a given heavy isotope over the mass of dry air.
+This parameter is chosen to be consistent with the advection logic of dynamical cores
+  advecting mixing ratios (i.e. with the dry-air flow assumed to act as a carrier flow for trace constituents).
 
 Defining and prototyping a new model of the above phenomena, 
   we use [PySDM](https://open-atmos-krk.github.io/projects/pysdm.html) -
