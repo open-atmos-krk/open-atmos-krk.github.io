@@ -38,9 +38,9 @@ The entire book was typeset in
 ### Wikipedia articles
 
 We've had major contributions to the following articles:
-- <a href="https://en.wikipedia.org/wiki/Draft:Super_droplet_method">Super droplet method (in English) - draft!</a>
-- <a href="https://en.wikipedia.org/wiki/Draft:MPDATA">MPDATA (in English) - draft!</a>
+- <a href="https://en.wikipedia.org/wiki/Draft:MPDATA">MPDATA (in English)</a>
 - <a href="https://pl.wikipedia.org/wiki/Isztar_Zawadzki">Isztar Zawadzki (in Polish)</a>
+- <a href="https://en.wikipedia.org/wiki/Draft:Super_Droplet_Method_algorithm">Super Droplet Method algorithm (in English) - draft!</a>
 
 ### Cloud-physics examples for general-purpose open-source packages
 
