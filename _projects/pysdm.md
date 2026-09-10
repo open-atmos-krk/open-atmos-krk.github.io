@@ -86,4 +86,5 @@ Development of PySDM is <a href="https://github.com/open-atmos/PySDM">hosted on 
   <li>Logic for serialising and deserialising simulation state</li>
   <li>Parcel-model example featuring entrainment (e.g., based on <a href="https://doi.org/10.1029/2007JD008473"><cite>Barahona</cite> & Nenes 2007</a> / <a href="https://doi.org/10.1007/BF00876119">Lee & <cite>Pruppacher</cite> 1977</a>)</li>
   <li>Development of <a href="https://en.wikipedia.org/wiki/Cloud_seeding">Cloud-seeding</a> simulation framework using PySDM</li>
+  <li>Development of SDM module for <cite>ANSYS</cite> (as a more efficient alternative to the <a href="https://ansyshelp.ansys.com/public/account/secured?returnurl=/views/secured/corp/v251/en/flu_th/x1-69700016.24.1.html">existing <cite>O'Rourke</cite> algorithm implementation for stochastic collisions in spray problems</a>)</li>
 </ul>
