@@ -5,6 +5,7 @@ description: |
   KISS SciPy-based CCN activation model 
 
 people:
+  - alicja_jagielska
   - agnieszka_zaba
   - sylwester_arabas
 
