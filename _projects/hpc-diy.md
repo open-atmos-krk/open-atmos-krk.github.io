@@ -9,10 +9,11 @@ description: |
 people:
   - gracjan_adamus
   - michal_wronski
-  - kacper_derlatka
+  - kamil_kania
   - aleksandra_strzabala
   - daria_klimaszewska
   - agnieszka_zaba
+  - kacper_derlatka
   - sylwester_arabas
 
 layout: project
