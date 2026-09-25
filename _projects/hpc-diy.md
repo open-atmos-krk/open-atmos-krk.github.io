@@ -4,7 +4,7 @@ subtitle: <cite>Ceci n'est pas un superordinateur.</cite>
 
 description: |
   We have built, from scratch, a multi-node GPU-enabled computing cluster
-  using Raspberry Pi hardware, and open-source software stack (Linux/Ansible/Slurm/OpenMPI/...)
+  using Raspberry Pi hardware, and open-source software stack (Linux/<cite>Ansible</cite>/Slurm/OpenMPI/...)
 
 people:
   - gracjan_adamus
@@ -26,7 +26,7 @@ We have built, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki
   using <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> single-board computers and other commodity hardware
   (in the spirit of <a href="https://en.wikipedia.org/wiki/Beowulf_cluster">Beowulf-style clusters</a>).
 We&nbsp;aim for open-source software stack 
-  (Linux/<a href="https://en.wikipedia.org/wiki/Ansible_(software)">Ansible</a>/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
+  (Linux/<a href="https://en.wikipedia.org/wiki/Ansible_(software)"><cite>Ansible</cite></a>/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
 The project has multiple goals:
 <ul>
   <li>to provide a fully controllable development and testing environment for our MPI-based projects:  
@@ -67,7 +67,7 @@ A 230V fan (Elmeko <code>10&nbsp;080&nbsp;150</code>) is&nbsp;connected to the p
   which is factory-set to enable ventilation above 60°C.
 A temperature sensor (Joy-it <code>SEN-DHT22</code> with <code>AM2302</code> chip) is placed next to the thermostat to enable monitoring of the
   temperature.
-We use a dedicated grounding busbar (Digitus DN-19 EARTH) connected to the chassis, patch-panels and other metal items.
+We use a dedicated grounding busbar (<cite>Digitus DN-19 EARTH</cite>) connected to the chassis, patch-panels and other metal items.
 
 <figure>
     <img width="400px" src="/img/hpc-diy/power_supply.jpg">
@@ -84,7 +84,7 @@ Access node ports are routed through two 12-port <a href="https://en.wikipedia.o
     <img width="400px" src="/img/hpc-diy/chassis.jpg">
 </figure>
 <figure>
-    <img width="400px" src="/img/hpc-diy/chassis_assembled.jpg">
+    <img width="200px" src="/img/hpc-diy/chassis_assembled.jpg">
 </figure>
 
 ### Mobile platform
