@@ -3,8 +3,8 @@ title: HPC DIY
 subtitle: <cite>Ceci n'est pas un superordinateur.</cite>
 
 description: |
-  We are building, from scratch, a multi-node GPU-enabled computing cluster
-  using Raspberry Pi hardware, and open-source software stack (Linux/Slurm/OpenMPI/...)
+  We have built, from scratch, a multi-node GPU-enabled computing cluster
+  using Raspberry Pi hardware, and open-source software stack (Linux/<cite>Ansible</cite>/Slurm/OpenMPI/...)
 
 people:
   - gracjan_adamus
@@ -21,13 +21,13 @@ image: "/img/magritte.jpg"
 ---
 [![github-hpc-diy](https://img.shields.io/badge/github-hpc--diy-blue?logo=github)](https://github.com/open-atmos-krk/hpc-diy)
 
-We are building, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU-enabled</a> 
+We have built, from scratch, a multi-node <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU-enabled</a> 
   <a href="https://en.wikipedia.org/wiki/Computer_cluster">computing cluster</a>
   using <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> single-board computers and other commodity hardware
   (in the spirit of <a href="https://en.wikipedia.org/wiki/Beowulf_cluster">Beowulf-style clusters</a>).
 We&nbsp;aim for open-source software stack 
-  (Linux/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
-The project is truly a team-wide effort and has multiple goals:
+  (Linux/<a href="https://en.wikipedia.org/wiki/Ansible_(software)"><cite>Ansible</cite></a>/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
+The project has multiple goals:
 <ul>
   <li>to provide a fully controllable development and testing environment for our MPI-based projects:  
    <a href="https://open-atmos-krk.github.io/projects/numba-mpi.html">Numba-MPI</a> and 
@@ -40,7 +40,7 @@ The project is truly a team-wide effort and has multiple goals:
 </ul>
 
 ### Compute nodes and interconnection network
-As of the present proof-of-concept stage, we start off with two compute nodes. 
+As of the present proof-of-concept stage, we have started off with two compute nodes. 
 Both are off-the-shelf ARM-based <a href="https://en.wikipedia.org/wiki/Nvidia_Jetson">NVIDIA Jetson nano</a> boxes (reComputer <code>J1010</code>) with 4GB, quad-core <cite>Cortex-A57</cite> CPU and 128-core CUDA GPU each.
 The compute nodes and the access node are connected using a <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">Gigabit Ethernet</a> switch.
 For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (800x480 pixel, <code>TC-8589556</code>) screen mounted inside the chassis.
@@ -52,7 +52,8 @@ For debugging and demonstration purposes, we use an HDMI switch and a 7-inch (80
 ### Access/storage node
 The role of access node is held by a single-plate <a href="https://en.wikipedia.org/wiki/Raspberry_Pi#Series_and_generations">Raspberry Pi 5</a> 
   computer with built-in 16GB RAM memory and quad-core ARM 2.4 GHz CPU. 
-Access node has a 16&nbsp;GB microSD memory card, and is&nbsp;connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a>. 
+Access node has a 16&nbsp;GB microSD memory card, and is&nbsp;connected via USB to a 2.5" 2TB <a href="https://en.wikipedia.org/wiki/Solid-state_drive">SSD</a>,
+  which the access node serves to compute nodes using <a href="https://en.wikipedia.org/wiki/Network_File_System">NFS</a>. 
 Raspberry has only one network interface controller, so&nbsp;one network is&nbsp;connected through Ethernet wire and another one has additional USB network adapter. 
 The Raspberry Pi is also connected (through goldpins) to a temperature sensor. 
 
@@ -62,13 +63,11 @@ The Raspberry Pi is also connected (through goldpins) to a temperature sensor.
 
 ### Power supply and consumption monitoring, thermal control, electrical wiring
 The external power supply is&nbsp;connected to a Bluetooth power consumption meter (Voltcraft <code>SEM6000</code>).
-A power strip with six USB ports (2.1&nbsp;A power per&nbsp;pair) is used to supply all components including 
-  the Gigabit Ethernet switch which is&nbsp;connected directly into power strip. 
 A 230V fan (Elmeko <code>10&nbsp;080&nbsp;150</code>) is&nbsp;connected to the power strip through a thermostat (<a href="https://sieportal.siemens.com/en-ww/products-services/detail/8MR2171-2BB">Siemens <code>8MR2171-2BB</code></a>)
   which is factory-set to enable ventilation above 60°C.
 A temperature sensor (Joy-it <code>SEN-DHT22</code> with <code>AM2302</code> chip) is placed next to the thermostat to enable monitoring of the
   temperature.
-We use a dedicated grounding busbar connected to the chassis, patch-panels and other metal items.
+We use a dedicated grounding busbar (<cite>Digitus DN-19 EARTH</cite>) connected to the chassis, patch-panels and other metal items.
 
 <figure>
     <img width="400px" src="/img/hpc-diy/power_supply.jpg">
@@ -78,26 +77,25 @@ We use a dedicated grounding busbar connected to the chassis, patch-panels and o
 The system is mounted within a 9-unit <a href="https://en.wikipedia.org/wiki/19-inch_rack#10-inch_rack">10-inch rack</a> with two 
   shelves (one for access node and SSD; one for compute nodes and the HDMI switch).
 The 7-inch display is also mounted within the rack (occupying ca. 2.5 units).
-Most of the cabling is routed through two 12-port <a href="https://en.wikipedia.org/wiki/Patch_panel">patch-panels</a>
+Access node ports are routed through two 12-port <a href="https://en.wikipedia.org/wiki/Patch_panel">patch-panel</a>
   with USB, Ethernet and HDMI <a href="https://en.wikipedia.org/wiki/Keystone_module">Keystone modules</a>. 
-We use different colours for front-side USB ports and cables used for power supply (white) and data connections (black).
 
 <figure>
     <img width="400px" src="/img/hpc-diy/chassis.jpg">
+</figure>
+<figure>
+    <img width="200px" src="/img/hpc-diy/chassis_assembled.jpg">
 </figure>
 
 ### Mobile platform
 The rack is attached to a mobile platform which also has a laptop docking station attached for connecting
   up to two displays used for demonstration purposes (not directly connected to the cluster or the rack).
-The whole system is in a proof-of-concept stage, and we are having great fun learning how to&nbsp;assemble,
-  set up and use it.
-Stay tuned for more updates! 😉
 
 <figure>
     <img width="400px" src="/img/hpc-diy/mobile_stand.jpg">
 </figure>
 
 <h3>🎓 Student project opportunities</h3>
-Stay tuned... 
+Stay tuned... (or get in touch with us with your own ideas!)
 
 <br />
