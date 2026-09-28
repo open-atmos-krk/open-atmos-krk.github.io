@@ -29,10 +29,10 @@ We&nbsp;aim for open-source software stack
   (Linux/<a href="https://en.wikipedia.org/wiki/Ansible_(software)"><cite>Ansible</cite></a>/<a href="https://en.wikipedia.org/wiki/Slurm_Workload_Manager">Slurm</a>/<a href="https://en.wikipedia.org/wiki/Open_MPI">OpenMPI</a>/...).
 The project has multiple goals:
 <ul>
-  <li>to provide a fully controllable development and testing environment for our MPI-based projects:  
-   <a href="https://open-atmos-krk.github.io/projects/numba-mpi.html">Numba-MPI</a> and 
-   <a href="https://open-atmos-krk.github.io/projects/pympdata.html">PyMPDATA-MPI</a>;</li>
-  <li>to offer a (multi)-GPU environment for the development and testing of the <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a> project;</li>
+  <li>to provide a self-hosted GitHub runner for development and testing for our projects which leverage multi-node MPI communication and/or GPU hardware:  
+   <a href="https://open-atmos-krk.github.io/projects/numba-mpi.html">Numba-MPI</a>, 
+   <a href="https://open-atmos-krk.github.io/projects/pympdata.html">PyMPDATA-MPI</a> and
+   <a href="https://open-atmos-krk.github.io/projects/pysdm.html">PySDM</a>;</li>
   <li>to provide a playground cluster for learning and teaching parallel computing (<a href="https://en.wikipedia.org/wiki/Message_Passing_Interface">MPI</a>&nbsp;+&nbsp;<a href="https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)">threading</a> and <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPUs</a>);</li>
   <li>to build up <a href="https://en.wikipedia.org/wiki/DevOps">DevOps</a> know-how on cluster configuration and maintenance;</li>
   <li>to bring a tangible element to our <a href="https://en.wikipedia.org/wiki/Research_software_engineering">RSE</a> and simulation projects, which can be showcased at open days and outreach events (the cluster mounted on a mobile platform);</li>
