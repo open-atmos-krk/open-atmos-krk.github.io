@@ -10,7 +10,7 @@ async function showIssues(repo, label, emoji, elementId) {
 
   try {
     const url = new URL(`https://api.github.com/repos/${repo}/issues`);
-    url.searchParams.set("labels", label);
+    url.searchParams.set("labels", "\"" + label + "\"");
     url.searchParams.set("state", "open");
     url.searchParams.set("per_page", "100");
 
@@ -51,7 +51,7 @@ async function showIssues(repo, label, emoji, elementId) {
 
 <p>
   <a href="https://github.com/open-atmos/PySDM/actions/workflows/tests.yml?query=branch%3Amain"><img src="https://github.com/open-atmos/PySDM/actions/workflows/tests.yml/badge.svg?branch=main"></a>
-  <a href="https://github.com/open-atmos/PySDM/actions/workflows/pypi.yml?query=branch%3Amain+"><img src="https://github.com/open-atmos/PySDM/actions/workflows/pypi.yml/badge.svg?branch=main"></a>
+  <a href="https://github.com/open-atmos/PySDM/actions/workflows/pypi.yml?query=branch%3Amain"><img src="https://github.com/open-atmos/PySDM/actions/workflows/pypi.yml/badge.svg?branch=main"></a>
   <a href="https://github.com/open-atmos/PySDM/pulls"><img src="https://img.shields.io/github/issues-pr/open-atmos/PySDM"></a>
   <a href="https://github.com/open-atmos/PySDM/issues"><img src="https://img.shields.io/github/issues/open-atmos/PySDM"></a>
 </p>
@@ -70,7 +70,7 @@ showIssues("open-atmos/PySDM", "help+wanted", "🙋", "pysdm-help");
 <h2>PyMPDATA</h2>
 <p>
   <a href="https://github.com/open-atmos/PyMPDATA/actions/workflows/tests.yml?query=branch%3Amain"><img src="https://github.com/open-atmos/PyMPDATA/actions/workflows/tests.yml/badge.svg?branch=main"></a>
-  <a href="https://github.com/open-atmos/PyMPDATA/actions/workflows/pypi.yml?query=branch%3Amain+"><img src="https://github.com/open-atmos/PyMPDATA/actions/workflows/pypi.yml/badge.svg?branch=main"></a>
+  <a href="https://github.com/open-atmos/PyMPDATA/actions/workflows/pypi.yml?query=branch%3Amain"><img src="https://github.com/open-atmos/PyMPDATA/actions/workflows/pypi.yml/badge.svg?branch=main"></a>
   <a href="https://github.com/open-atmos/PyMPDATA/pulls"><img src="https://img.shields.io/github/issues-pr/open-atmos/PyMPDATA"></a>
   <a href="https://github.com/open-atmos/PyMPDATA/issues"><img src="https://img.shields.io/github/issues/open-atmos/PyMPDATA"></a>
 </p>
@@ -82,8 +82,8 @@ showIssues("open-atmos/PySDM", "help+wanted", "🙋", "pysdm-help");
 <ul id="pympdata-help"></ul>
 
 <script>
-showIssues("open-atmos/PySDM", "high+priority", "🔴", "pysdm-priority");
-showIssues("open-atmos/PySDM", "help+wanted", "🙋", "pysdm-help");
+showIssues("open-atmos/PyMPDATA", "high+priority", "🔴", "pympdata-priority");
+showIssues("open-atmos/PyMPDATA", "help+wanted", "🙋", "pympdata-help");
 </script>
 
 <h2>PyPartMC</h2>
