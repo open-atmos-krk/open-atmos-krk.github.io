@@ -370,3 +370,4 @@ citeproc
 Zulip
 SMOK
 PyVista
+pypi
