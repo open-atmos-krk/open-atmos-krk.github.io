@@ -9,11 +9,7 @@ async function showIssues(repo, label, emoji, elementId) {
   list.textContent = "Loading…";
 
   try {
-    const url = new URL(`https://api.github.com/repos/${repo}/issues`);
-    url.searchParams.set("labels", "\"" + label + "\"");
-    url.searchParams.set("state", "open");
-    url.searchParams.set("per_page", "100");
-
+    const url = new URL(`https://api.github.com/repos/${repo}/issues?state=open&per_page=5&labels=${label}`);
     const response = await fetch(url);
     if (!response.ok) {
       throw new Error(`GitHub API returned ${response.status}`);
