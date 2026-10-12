@@ -3,9 +3,38 @@ layout: default
 title: Status summary of open-atmos-krk projects
 ---
 
+<script>
+async function showIssues(repo, label, emoji, elementId) {
+  const url = new URL(`https://api.github.com/repos/${repo}/issues`);
+  url.searchParams.set("labels", label);
+  url.searchParams.set("per_page", "100");
+
+  const list = document.getElementById(elementId);
+
+  try {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error();
+    const issues = await r.json();
+
+    list.replaceChildren(...issues
+      .filter(i => !i.pull_request)
+      .map(i => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = i.html_url;
+        a.textContent = `${emoji} #${i.number}: ${i.title}`;
+        li.appendChild(a);
+        return li;
+      }));
+  } catch {
+    list.textContent = "Could not load issues.";
+  }
+}
+</script>
+
 <img src="/img/status.png" alt="team" class="pic" align="right" />
 
-<h2>PySDM</h2>
+<h2><img src="https://raw.githubusercontent.com/open-atmos/PySDM/main/docs/logos/pysdm_logo.svg" height="1em">PySDM</h2>
 
 <p>
   <a href="https://github.com/open-atmos/PySDM/actions/workflows/tests.yml?query=branch%3Amain"><img src="https://github.com/open-atmos/PySDM/actions/workflows/tests.yml/badge.svg?branch=main"></a>
@@ -14,26 +43,15 @@ title: Status summary of open-atmos-krk projects
   <a href="https://github.com/open-atmos/PySDM/issues"><img src="https://img.shields.io/github/issues/open-atmos/PySDM"></a>
 </p>
 
-<h4>help-wanted issues:</h4>
+<h4>high-priority issues:</h4>
+<ul id="PySDM-high-priority"></ul>
 
-<ul id="issues">Loading issues…</ul>
+<h4>help-wanted issues:</h4>
+<ul id="PySDM-help-wanted"></ul>
+
 <script>
-fetch("https://api.github.com/repos/open-atmos/PySDM/issues?labels=help+wanted&per_page=100")
-  .then(r => {
-    if (!r.ok) throw new Error("GitHub API error: " + r.status);
-    return r.json();
-  })
-  .then(issues => {
-    document.getElementById("issues").innerHTML = issues
-      .filter(i => !i.pull_request)
-      .map(i => `<li><a href="${i.html_url}">#${i.number}: ${
-        i.title.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
-      }</a></li>`)
-      .join("") || "<li>No matching issues found.</li>";
-  })
-  .catch(() => {
-    document.getElementById("issues").textContent = "Could not load issues.";
-  });
+showIssues("open-atmos/PySDM", "high+priority", "🐛", "PySDM-high-priority");
+showIssues("open-atmos/PySDM", "help+wanted", "🙋", "PySDM-help-wanted");
 </script>
 
 <h2>PyMPDATA</h2>
@@ -44,6 +62,17 @@ fetch("https://api.github.com/repos/open-atmos/PySDM/issues?labels=help+wanted&p
   <a href="https://github.com/open-atmos/PyMPDATA/issues"><img src="https://img.shields.io/github/issues/open-atmos/PyMPDATA"></a>
 </p>
 
+<h4>high-priority issues:</h4>
+<ul id="PyMPDATA-high-priority"></ul>
+
+<h4>help-wanted issues:</h4>
+<ul id="PyMPDATA-help-wanted"></ul>
+
+<script>
+showIssues("open-atmos/PyMPDATA", "high+priority", "🐛", "PyMPDATA-high-priority");
+showIssues("open-atmos/PyMPDATA", "help+wanted", "🙋", "PyMPDATA-help-wanted");
+</script>
+
 <h2>PyPartMC</h2>
 
 <h2>Numba-MPI</h2>
@@ -52,10 +81,10 @@ fetch("https://api.github.com/repos/open-atmos/PySDM/issues?labels=help+wanted&p
 
 <h2>HPC-DIY</h2>
 
-<h2>Habemus Python</h2>
+<h2><cite>Habemus Python</cite></h2>
 
 <h2>open-atmos-krk.github.io</h2>
 
 <h2>open-atmos-jupyter-utils</h2> 
 
-<h2>wikipedia-todos</h2>
+<h2><cite>wikipedia-todos</cite></h2>
