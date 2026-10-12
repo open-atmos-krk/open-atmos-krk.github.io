@@ -1,0 +1,49 @@
+---
+layout: default
+title: Status
+---
+
+    <img src="/img/status.jpg" alt="team" class="pic" align="right" />
+
+# PySDM
+
+[![tests](https://github.com/open-atmos/PySDM/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/open-atmos/PySDM/actions/workflows/tests.yml)
+[![pypi](https://github.com/open-atmos/PySDM/actions/workflows/pypi.yml/badge.svg?branch=main)](https://github.com/open-atmos/PySDM/actions/workflows/pypi.yml)
+
+<ul id="issues">Loading issues…</ul>
+<script>
+fetch("https://api.github.com/repos/open-atmos/PySDM/issues?labels=help-wanted&per_page=100")
+  .then(r => {
+    if (!r.ok) throw new Error("GitHub API error: " + r.status);
+    return r.json();
+  })
+  .then(issues => {
+    document.getElementById("issues").innerHTML = issues
+      .filter(i => !i.pull_request)
+      .map(i => `<li><a href="${i.html_url}">#${i.number}: ${
+        i.title.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      }</a></li>`)
+      .join("") || "<li>No matching issues found.</li>";
+  })
+  .catch(() => {
+    document.getElementById("issues").textContent = "Could not load issues.";
+  });
+</script>
+
+# PyMPDATA
+
+# PyPartMC
+
+# Numba-MPI
+
+# ccnact
+
+# HPC-DIY
+
+# Habemus Python
+
+# open-atmos-krk.github.io
+
+# open-atmos-jupyter-utils 
+
+# wikipedia-todos
