@@ -5,32 +5,45 @@ title: Status summary of open-atmos-krk projects
 
 <script>
 async function showIssues(repo, label, emoji, elementId) {
-  const url = new URL(`https://api.github.com/repos/${repo}/issues`);
-  url.searchParams.set("labels", label);
-  url.searchParams.set("per_page", "100");
-
   const list = document.getElementById(elementId);
+  list.textContent = "Loading…";
 
   try {
-    const r = await fetch(url);
-    if (!r.ok) throw new Error();
-    const issues = await r.json();
+    const url = new URL(`https://api.github.com/repos/${repo}/issues`);
+    url.searchParams.set("labels", label);
+    url.searchParams.set("state", "open");
+    url.searchParams.set("per_page", "100");
 
-    list.replaceChildren(...issues
-      .filter(i => !i.pull_request)
-      .map(i => {
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.href = i.html_url;
-        a.textContent = `${emoji} #${i.number}: ${i.title}`;
-        li.appendChild(a);
-        return li;
-      }));
-  } catch {
-    list.textContent = "Could not load issues.";
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`GitHub API returned ${response.status}`);
+    }
+
+    const issues = await response.json();
+    const items = issues.filter(issue => !issue.pull_request);
+
+    list.replaceChildren();
+
+    if (!items.length) {
+      list.textContent = "No matching issues.";
+      return;
+    }
+
+    for (const issue of items) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = issue.html_url;
+      a.textContent = `${emoji} #${issue.number}: ${issue.title}`;
+      li.appendChild(a);
+      list.appendChild(li);
+    }
+  } catch (error) {
+    list.textContent = `Failed to load issues: ${error.message}`;
+    console.error(error);
   }
 }
 </script>
+
 
 <img src="/img/status.png" alt="team" class="pic" align="right" />
 
@@ -44,14 +57,14 @@ async function showIssues(repo, label, emoji, elementId) {
 </p>
 
 <h4>high-priority issues:</h4>
-<ul id="PySDM-high-priority"></ul>
+<ul id="pysdm-priority"></ul>
 
 <h4>help-wanted issues:</h4>
-<ul id="PySDM-help-wanted"></ul>
+<ul id="pysdm-help"></ul>
 
 <script>
-showIssues("open-atmos/PySDM", "high+priority", "🐛", "PySDM-high-priority");
-showIssues("open-atmos/PySDM", "help+wanted", "🙋", "PySDM-help-wanted");
+showIssues("open-atmos/PySDM", "high+priority", "🔴", "pysdm-priority");
+showIssues("open-atmos/PySDM", "help+wanted", "🙋", "pysdm-help");
 </script>
 
 <h2>PyMPDATA</h2>
@@ -63,14 +76,14 @@ showIssues("open-atmos/PySDM", "help+wanted", "🙋", "PySDM-help-wanted");
 </p>
 
 <h4>high-priority issues:</h4>
-<ul id="PyMPDATA-high-priority"></ul>
+<ul id="pympdata-priority"></ul>
 
 <h4>help-wanted issues:</h4>
-<ul id="PyMPDATA-help-wanted"></ul>
+<ul id="pympdata-help"></ul>
 
 <script>
-showIssues("open-atmos/PyMPDATA", "high+priority", "🐛", "PyMPDATA-high-priority");
-showIssues("open-atmos/PyMPDATA", "help+wanted", "🙋", "PyMPDATA-help-wanted");
+showIssues("open-atmos/PySDM", "high+priority", "🔴", "pysdm-priority");
+showIssues("open-atmos/PySDM", "help+wanted", "🙋", "pysdm-help");
 </script>
 
 <h2>PyPartMC</h2>
