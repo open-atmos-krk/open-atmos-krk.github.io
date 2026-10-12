@@ -12,7 +12,7 @@ async function showIssues(repo, label, emoji, elementId) {
     const url = new URL(`https://api.github.com/repos/${repo}/issues?state=open&per_page=5&labels=${label}`);
     const response = await fetch(url);
     if (!response.ok) {
-      throw new Error(`GitHub API returned ${response.status}`);
+      throw new Error(`GitHub API ${response.status}: ${details.message || response.statusText}`);
     }
 
     const issues = await response.json();
