@@ -8,7 +8,7 @@ We meet semi-regularly at the [AGH Faculty of Physics and Applied CS](https://fi
 to discuss Nature and Science papers scoped around environmental and computational scientific research. Join us!
 
 <h3>Planned presentations:</h3>
-* 2026-10-??: Rafał Oszajca    
+* 2026-10-26: Rafał Oszajca    
  [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0): "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
  <span class="__dimensions_badge_embed__" data-doi="10.1038/324651a0" data-style="small_rectangle"></span>
     
