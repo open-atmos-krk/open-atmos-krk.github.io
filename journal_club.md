@@ -11,9 +11,9 @@ to discuss Nature and Science papers scoped around environmental and computation
 * 2026-10-26: Rafał Oszajca    
  [Crutzen & Arnold 1986 (Nature 324)](https://doi.org/10.1038/324651a0): "_Nitric-Acid Cloud Formation in the Cold Antarctic Stratosphere – a Major Cause for the Springtime Ozone Hole_"
  <span class="__dimensions_badge_embed__" data-doi="10.1038/324651a0" data-style="small_rectangle"></span>
-* 2026-11-23: Kamil Kania
+* 2026-11-23: Kamil Kania    
  [<cite>Różański</cite> et al. 1992 (Science 258)](https://doi.org/10.1126/science.258.5084.981): "_Relation Between Long-Term Trends of Oxygen-18 Isotope Composition of Precipitation and Climate_"
-    <span class="__dimensions_badge_embed__" data-doi="10.1126/science.258.5084.981" data-style="small_rectangle"></span>
+ <span class="__dimensions_badge_embed__" data-doi="10.1126/science.258.5084.981" data-style="small_rectangle"></span>
     
 <h3>Past presentations:</h3>
 * 2026-05-28: Gracjan Adamus    
@@ -230,7 +230,7 @@ to discuss Nature and Science papers scoped around environmental and computation
     <span class="__dimensions_badge_embed__" data-doi="10.1038/348022a0" data-style="small_rectangle"></span>
     - [Charlson 1992 (Science 255)](https://doi.org/10.1126/science.255.5043.423): "_Climate Forcing by Anthropogenic Aerosols_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.255.5043.423" data-style="small_rectangle"></span>
-    - [<cite>Różański</cite> et al. 1992 (Science 258)](https://doi.org/10.1126/science.258.5084.981): "_Relation Between Long-Term Trends of Oxygen-18 Isotope Composition of Precipitation and Climate_"
+    - ✔ [<cite>Różański</cite> et al. 1992 (Science 258)](https://doi.org/10.1126/science.258.5084.981): "_Relation Between Long-Term Trends of Oxygen-18 Isotope Composition of Precipitation and Climate_"
     <span class="__dimensions_badge_embed__" data-doi="10.1126/science.258.5084.981" data-style="small_rectangle"></span>
     - [Novakov & Penner 1993 (Nature 365)](https://doi.org/10.1038/365823a0): "_Large contribution of organic aerosols to cloud-condensation-nuclei concentrations_"
     <span class="__dimensions_badge_embed__" data-doi="10.1038/365823a0" data-style="small_rectangle"></span>
