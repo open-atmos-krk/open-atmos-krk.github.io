@@ -16,11 +16,11 @@ agnieszka_zaba:
 
 konrad_bodzioch:
     display_name: "Konrad Bodzioch"
-    role: grad
+    role: alum
     webpage: "https://www.linkedin.com/in/konrad-bodzioch"
     image: /img/people/kb_img.jpeg
     github: Bodzio-2
-    bio: "Ongoing MSc project (major: Computer Science & Intelligent Systems; prior: BEng in Computer Science & Intelligent Systems, AGH, 2024)"
+    bio: "Completed MSc project (major: Computer Science & Intelligent Systems, 2026)"
 
 kacper_mazur:
     display_name: "Kacper Mazur"
