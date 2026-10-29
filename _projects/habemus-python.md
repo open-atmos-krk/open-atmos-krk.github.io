@@ -20,7 +20,7 @@ image: "/img/habemuspython.png"
     and high-quality, code-based typesetting to achieve the “executable manuscripts” goal:
     engineer your documents to be reproducible, automated, and aesthetic by design! 
   The project has been carried out as a collaborative project involving 30 students enrolled
-    in the "Research Software Engineering in Python for Reproducible Computational Science",
+    in the "<a href="https://github.com/open-atmos-krk/rse-python-course">Research Software Engineering in Python for Reproducible Computational Science</a>" course,
     including several members of our team.
 </p>
 
